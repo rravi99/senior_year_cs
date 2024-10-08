@@ -1,0 +1,735 @@
+,Denominator,Numerator,Weighted % ,"Lower 95%
+Confidence Interval","Upper 95%
+Confidence Interval",Year,Health Care Services,Sites,State,Region,Stabr
+0,870,484,55.1,51.8,58.3,2017,Health care visit in the 12 months before pregnancy ,Alabama,Alabama,South,AL
+1,1032,670,67.2,63.6,70.5,2017,Health care visit in the 12 months before pregnancy ,Alaska,Alaska,West,AK
+2,1120,798,70.2,67.2,73.1,2017,Health care visit in the 12 months before pregnancy ,Colorado,Colorado,West,CO
+3,1445,950,72.9,70.2,75.5,2017,Health care visit in the 12 months before pregnancy ,Connecticut,Connecticut,Northeast,CT
+4,879,581,66.5,63.2,69.7,2017,Health care visit in the 12 months before pregnancy ,Delaware,Delaware,South,DE
+5,945,633,63.3,58.8,67.6,2017,Health care visit in the 12 months before pregnancy ,Georgia,Georgia,South,GA
+6,1207,872,70.3,67.3,73.1,2017,Health care visit in the 12 months before pregnancy ,Illinois,Illinois,Midwest,IL
+7,1017,595,68.6,64.2,72.6,2017,Health care visit in the 12 months before pregnancy ,Iowa,Iowa,Midwest,IA
+8,993,685,67.0,63.0,70.7,2017,Health care visit in the 12 months before pregnancy ,Kansas,Kansas,Midwest,KS
+9,694,449,66.3,61.7,70.7,2017,Health care visit in the 12 months before pregnancy ,Kentucky,Kentucky,South,KY
+10,887,548,63.3,59.8,66.6,2017,Health care visit in the 12 months before pregnancy ,Louisiana,Louisiana,South,LA
+11,865,649,74.1,70.5,77.4,2017,Health care visit in the 12 months before pregnancy ,Maine,Maine,Northeast,ME
+12,1032,697,65.1,61.7,68.4,2017,Health care visit in the 12 months before pregnancy ,Maryland,Maryland,South,MD
+13,1414,1001,77.0,74.3,79.5,2017,Health care visit in the 12 months before pregnancy ,Massachusetts,Massachusetts,Northeast,MA
+14,1864,1224,70.9,68.2,73.5,2017,Health care visit in the 12 months before pregnancy ,Michigan,Michigan,Midwest,MI
+15,1093,725,66.5,63.1,69.7,2017,Health care visit in the 12 months before pregnancy ,Missouri,Missouri,Midwest,MO
+16,934,671,72.1,69.2,74.9,2017,Health care visit in the 12 months before pregnancy ,Montana,Montana,West,MT
+17,576,459,78.4,73.7,82.5,2017,Health care visit in the 12 months before pregnancy ,New Hampshire,New Hampshire,Northeast,NH
+18,1239,790,64.6,61.8,67.3,2017,Health care visit in the 12 months before pregnancy ,New Jersey,New Jersey,Northeast,NJ
+19,1176,660,54.5,51.6,57.3,2017,Health care visit in the 12 months before pregnancy ,New Mexico,New Mexico,West,NM
+20,983,651,65.8,62.1,69.2,2017,Health care visit in the 12 months before pregnancy ,North Carolina,North Carolina,South,NC
+21,583,362,67.8,63.1,72.1,2017,Health care visit in the 12 months before pregnancy ,North Dakota,North Dakota,Midwest,ND
+22,1611,884,58.6,55.1,62.1,2017,Health care visit in the 12 months before pregnancy ,Oklahoma,Oklahoma,South,OK
+23,1206,864,71.9,68.7,74.9,2017,Health care visit in the 12 months before pregnancy ,Pennsylvania,Pennsylvania,Northeast,PA
+24,1090,797,72.6,69.5,75.5,2017,Health care visit in the 12 months before pregnancy ,Rhode Island,Rhode Island,Northeast,RI
+25,1099,687,71.6,68.7,74.4,2017,Health care visit in the 12 months before pregnancy ,South Dakota,South Dakota,Midwest,SD
+26,1436,984,73.6,70.8,76.2,2017,Health care visit in the 12 months before pregnancy ,Utah,Utah,West,UT
+27,840,674,77.0,73.8,80.0,2017,Health care visit in the 12 months before pregnancy ,Vermont,Vermont,Northeast,VT
+28,1057,726,63.1,58.2,67.8,2017,Health care visit in the 12 months before pregnancy ,Virginia,Virginia,South,VA
+29,1223,764,65.1,61.8,68.2,2017,Health care visit in the 12 months before pregnancy ,Washington,Washington,West,WA
+30,689,413,60.8,56.3,65.1,2017,Health care visit in the 12 months before pregnancy ,West Virginia,West Virginia,South,WV
+31,1333,880,71.7,68.0,75.1,2017,Health care visit in the 12 months before pregnancy ,Wisconsin,Wisconsin,Midwest,WI
+32,499,340,70.5,65.6,75.0,2017,Health care visit in the 12 months before pregnancy ,Wyoming,Wyoming,West,WY
+33,859,719,83.0,80.2,85.5,2017,Began prenatal care in 1st trimester,Alabama,Alabama,South,AL
+34,1014,859,85.7,82.9,88.2,2017,Began prenatal care in 1st trimester,Alaska,Alaska,West,AK
+35,1101,990,89.4,87.1,91.3,2017,Began prenatal care in 1st trimester,Colorado,Colorado,West,CO
+36,1431,1271,91.5,89.8,92.9,2017,Began prenatal care in 1st trimester,Connecticut,Connecticut,Northeast,CT
+37,878,730,83.2,80.4,85.6,2017,Began prenatal care in 1st trimester,Delaware,Delaware,South,DE
+38,924,813,87.0,83.4,89.9,2017,Began prenatal care in 1st trimester,Georgia,Georgia,South,GA
+39,1205,1066,88.4,86.2,90.3,2017,Began prenatal care in 1st trimester,Illinois,Illinois,Midwest,IL
+40,1005,828,86.2,82.7,89.1,2017,Began prenatal care in 1st trimester,Iowa,Iowa,Midwest,IA
+41,981,862,85.7,82.4,88.5,2017,Began prenatal care in 1st trimester,Kansas,Kansas,Midwest,KS
+42,678,588,88.2,84.6,90.9,2017,Began prenatal care in 1st trimester,Kentucky,Kentucky,South,KY
+43,865,740,86.5,84.0,88.7,2017,Began prenatal care in 1st trimester,Louisiana,Louisiana,South,LA
+44,865,775,90.3,87.6,92.4,2017,Began prenatal care in 1st trimester,Maine,Maine,Northeast,ME
+45,1035,874,84.4,81.8,86.8,2017,Began prenatal care in 1st trimester,Maryland,Maryland,South,MD
+46,1386,1235,92.4,90.7,93.8,2017,Began prenatal care in 1st trimester,Massachusetts,Massachusetts,Northeast,MA
+47,1844,1534,86.4,84.3,88.3,2017,Began prenatal care in 1st trimester,Michigan,Michigan,Midwest,MI
+48,1089,927,84.9,82.2,87.3,2017,Began prenatal care in 1st trimester,Missouri,Missouri,Midwest,MO
+49,927,794,86.7,84.5,88.7,2017,Began prenatal care in 1st trimester,Montana,Montana,West,MT
+50,568,528,91.8,88.3,94.3,2017,Began prenatal care in 1st trimester,New Hampshire,New Hampshire,Northeast,NH
+51,1208,1017,85.7,83.5,87.6,2017,Began prenatal care in 1st trimester,New Jersey,New Jersey,Northeast,NJ
+52,1152,954,82.3,79.9,84.5,2017,Began prenatal care in 1st trimester,New Mexico,New Mexico,West,NM
+53,974,836,87.4,84.7,89.7,2017,Began prenatal care in 1st trimester,North Carolina,North Carolina,South,NC
+54,580,468,85.1,81.4,88.2,2017,Began prenatal care in 1st trimester,North Dakota,North Dakota,Midwest,ND
+55,1590,1291,83.1,80.3,85.6,2017,Began prenatal care in 1st trimester,Oklahoma,Oklahoma,South,OK
+56,1196,1045,86.8,84.3,89.0,2017,Began prenatal care in 1st trimester,Pennsylvania,Pennsylvania,Northeast,PA
+57,1084,982,90.7,88.5,92.6,2017,Began prenatal care in 1st trimester,Rhode Island,Rhode Island,Northeast,RI
+58,1111,911,86.3,84.0,88.3,2017,Began prenatal care in 1st trimester,South Dakota,South Dakota,Midwest,SD
+59,1414,1225,86.7,84.3,88.8,2017,Began prenatal care in 1st trimester,Utah,Utah,West,UT
+60,826,779,95.1,93.2,96.4,2017,Began prenatal care in 1st trimester,Vermont,Vermont,Northeast,VT
+61,1063,922,84.4,80.4,87.7,2017,Began prenatal care in 1st trimester,Virginia,Virginia,South,VA
+62,1220,1070,88.0,85.5,90.2,2017,Began prenatal care in 1st trimester,Washington,Washington,West,WA
+63,673,583,88.6,85.4,91.2,2017,Began prenatal care in 1st trimester,West Virginia,West Virginia,South,WV
+64,1311,1088,87.6,84.9,89.9,2017,Began prenatal care in 1st trimester,Wisconsin,Wisconsin,Midwest,WI
+65,497,425,86.2,82.3,89.3,2017,Began prenatal care in 1st trimester,Wyoming,Wyoming,West,WY
+66,863,419,47.4,43.9,50.9,2017,Had a flu shot in the 12 months before delivery,Alabama,Alabama,South,AL
+67,1015,600,58.9,55.1,62.6,2017,Had a flu shot in the 12 months before delivery,Alaska,Alaska,West,AK
+68,1113,757,69.4,66.5,72.2,2017,Had a flu shot in the 12 months before delivery,Colorado,Colorado,West,CO
+69,1413,967,69.8,66.6,72.9,2017,Had a flu shot in the 12 months before delivery,Connecticut,Connecticut,Northeast,CT
+70,877,492,56.8,53.4,60.2,2017,Had a flu shot in the 12 months before delivery,Delaware,Delaware,South,DE
+71,929,417,42.2,37.7,46.8,2017,Had a flu shot in the 12 months before delivery,Georgia,Georgia,South,GA
+72,1213,714,58.3,55.2,61.4,2017,Had a flu shot in the 12 months before delivery,Illinois,Illinois,Midwest,IL
+73,1016,688,69.8,65.4,73.9,2017,Had a flu shot in the 12 months before delivery,Iowa,Iowa,Midwest,IA
+74,975,639,65.9,62.0,69.7,2017,Had a flu shot in the 12 months before delivery,Kansas,Kansas,Midwest,KS
+75,691,343,51.9,47.1,56.6,2017,Had a flu shot in the 12 months before delivery,Kentucky,Kentucky,South,KY
+76,880,389,46.4,42.9,50.0,2017,Had a flu shot in the 12 months before delivery,Louisiana,Louisiana,South,LA
+77,863,551,64.0,60.2,67.6,2017,Had a flu shot in the 12 months before delivery,Maine,Maine,Northeast,ME
+78,1021,646,63.4,59.9,66.7,2017,Had a flu shot in the 12 months before delivery,Maryland,Maryland,South,MD
+79,1403,1037,72.6,69.4,75.6,2017,Had a flu shot in the 12 months before delivery,Massachusetts,Massachusetts,Northeast,MA
+80,1852,881,52.9,50.0,55.9,2017,Had a flu shot in the 12 months before delivery,Michigan,Michigan,Midwest,MI
+81,1097,642,57.9,54.5,61.3,2017,Had a flu shot in the 12 months before delivery,Missouri,Missouri,Midwest,MO
+82,928,592,62.8,59.7,65.9,2017,Had a flu shot in the 12 months before delivery,Montana,Montana,West,MT
+83,578,406,70.2,65.4,74.7,2017,Had a flu shot in the 12 months before delivery,New Hampshire,New Hampshire,Northeast,NH
+84,1206,606,51.9,48.9,54.9,2017,Had a flu shot in the 12 months before delivery,New Jersey,New Jersey,Northeast,NJ
+85,1151,742,63.9,61.0,66.7,2017,Had a flu shot in the 12 months before delivery,New Mexico,New Mexico,West,NM
+86,984,642,65.1,61.5,68.6,2017,Had a flu shot in the 12 months before delivery,North Carolina,North Carolina,South,NC
+87,572,379,69.7,65.0,74.0,2017,Had a flu shot in the 12 months before delivery,North Dakota,North Dakota,Midwest,ND
+88,1607,832,50.0,46.4,53.6,2017,Had a flu shot in the 12 months before delivery,Oklahoma,Oklahoma,South,OK
+89,1203,723,59.0,55.6,62.2,2017,Had a flu shot in the 12 months before delivery,Pennsylvania,Pennsylvania,Northeast,PA
+90,1079,816,75.4,72.4,78.3,2017,Had a flu shot in the 12 months before delivery,Rhode Island,Rhode Island,Northeast,RI
+91,1112,810,74.2,71.1,77.0,2017,Had a flu shot in the 12 months before delivery,South Dakota,South Dakota,Midwest,SD
+92,1427,856,60.7,57.4,63.9,2017,Had a flu shot in the 12 months before delivery,Utah,Utah,West,UT
+93,822,584,70.2,66.8,73.4,2017,Had a flu shot in the 12 months before delivery,Vermont,Vermont,Northeast,VT
+94,1053,703,64.7,59.8,69.3,2017,Had a flu shot in the 12 months before delivery,Virginia,Virginia,South,VA
+95,1217,827,64.9,61.4,68.1,2017,Had a flu shot in the 12 months before delivery,Washington,Washington,West,WA
+96,687,351,51.6,47.2,56.0,2017,Had a flu shot in the 12 months before delivery,West Virginia,West Virginia,South,WV
+97,1319,803,66.3,62.4,70.0,2017,Had a flu shot in the 12 months before delivery,Wisconsin,Wisconsin,Midwest,WI
+98,492,272,51.2,46.0,56.3,2017,Had a flu shot in the 12 months before delivery,Wyoming,Wyoming,West,WY
+99,859,769,88.7,86.3,90.8,2017,Had maternal postpartum checkup,Alabama,Alabama,South,AL
+100,1023,875,87.6,85.1,89.8,2017,Had maternal postpartum checkup,Alaska,Alaska,West,AK
+101,1123,1028,91.7,89.7,93.3,2017,Had maternal postpartum checkup,Colorado,Colorado,West,CO
+102,1441,1330,93.8,92.1,95.1,2017,Had maternal postpartum checkup,Connecticut,Connecticut,Northeast,CT
+103,870,759,86.9,84.3,89.1,2017,Had maternal postpartum checkup,Delaware,Delaware,South,DE
+104,939,864,91.0,87.9,93.3,2017,Had maternal postpartum checkup,Georgia,Georgia,South,GA
+105,1209,1121,92.4,90.5,94.0,2017,Had maternal postpartum checkup,Illinois,Illinois,Midwest,IL
+106,1008,924,94.2,91.7,95.9,2017,Had maternal postpartum checkup,Iowa,Iowa,Midwest,IA
+107,984,885,89.4,86.5,91.8,2017,Had maternal postpartum checkup,Kansas,Kansas,Midwest,KS
+108,688,610,89.3,85.9,91.9,2017,Had maternal postpartum checkup,Kentucky,Kentucky,South,KY
+109,887,753,84.9,82.2,87.3,2017,Had maternal postpartum checkup,Louisiana,Louisiana,South,LA
+110,865,800,93.7,91.6,95.3,2017,Had maternal postpartum checkup,Maine,Maine,Northeast,ME
+111,1045,945,90.2,87.8,92.1,2017,Had maternal postpartum checkup,Maryland,Maryland,South,MD
+112,1395,1263,92.4,90.7,93.8,2017,Had maternal postpartum checkup,Massachusetts,Massachusetts,Northeast,MA
+113,1849,1642,91.3,89.5,92.8,2017,Had maternal postpartum checkup,Michigan,Michigan,Midwest,MI
+114,1092,962,87.8,85.3,89.9,2017,Had maternal postpartum checkup,Missouri,Missouri,Midwest,MO
+115,928,816,89.6,87.6,91.3,2017,Had maternal postpartum checkup,Montana,Montana,West,MT
+116,578,540,95.1,92.4,96.9,2017,Had maternal postpartum checkup,New Hampshire,New Hampshire,Northeast,NH
+117,1224,1079,89.4,87.4,91.0,2017,Had maternal postpartum checkup,New Jersey,New Jersey,Northeast,NJ
+118,1166,1015,86.6,84.5,88.5,2017,Had maternal postpartum checkup,New Mexico,New Mexico,West,NM
+119,965,890,92.8,90.6,94.6,2017,Had maternal postpartum checkup,North Carolina,North Carolina,South,NC
+120,582,478,87.1,83.6,90.0,2017,Had maternal postpartum checkup,North Dakota,North Dakota,Midwest,ND
+121,1612,1376,86.7,84.1,88.9,2017,Had maternal postpartum checkup,Oklahoma,Oklahoma,South,OK
+122,1206,1090,90.5,88.3,92.3,2017,Had maternal postpartum checkup,Pennsylvania,Pennsylvania,Northeast,PA
+123,1082,1008,92.5,90.4,94.2,2017,Had maternal postpartum checkup,Rhode Island,Rhode Island,Northeast,RI
+124,1115,955,91.2,89.7,92.6,2017,Had maternal postpartum checkup,South Dakota,South Dakota,Midwest,SD
+125,1418,1264,91.2,89.3,92.8,2017,Had maternal postpartum checkup,Utah,Utah,West,UT
+126,830,791,93.7,91.4,95.4,2017,Had maternal postpartum checkup,Vermont,Vermont,Northeast,VT
+127,1070,964,89.6,86.2,92.3,2017,Had maternal postpartum checkup,Virginia,Virginia,South,VA
+128,1226,1085,89.9,87.6,91.8,2017,Had maternal postpartum checkup,Washington,Washington,West,WA
+129,680,582,88.1,84.9,90.7,2017,Had maternal postpartum checkup,West Virginia,West Virginia,South,WV
+130,1279,1167,94.2,92.2,95.7,2017,Had maternal postpartum checkup,Wisconsin,Wisconsin,Midwest,WI
+131,495,447,92.8,89.7,95.0,2017,Had maternal postpartum checkup,Wyoming,Wyoming,West,WY
+132,804,474,58.2,54.8,61.5,2018,Health care visit in the 12 months before pregnancy ,Alabama,Alabama,South,AL
+133,998,633,66.1,62.6,69.4,2018,Health care visit in the 12 months before pregnancy ,Alaska,Alaska,West,AK
+134,877,516,65.4,60.1,70.3,2018,Health care visit in the 12 months before pregnancy ,Arkansas,Arkansas,South,AR
+135,1113,801,70.7,67.3,73.8,2018,Health care visit in the 12 months before pregnancy ,Colorado,Colorado,West,CO
+136,1415,926,71.8,68.7,74.6,2018,Health care visit in the 12 months before pregnancy ,Connecticut,Connecticut,Northeast,CT
+137,833,560,66.9,63.4,70.2,2018,Health care visit in the 12 months before pregnancy ,Delaware,Delaware,South,DE
+138,762,415,57.7,53.1,62.1,2018,Health care visit in the 12 months before pregnancy ,Georgia,Georgia,South,GA
+139,1298,947,72.8,70.0,75.4,2018,Health care visit in the 12 months before pregnancy ,Illinois,Illinois,Midwest,IL
+140,856,546,68.4,64.2,72.3,2018,Health care visit in the 12 months before pregnancy ,Indiana,Indiana,Midwest,IN
+141,846,491,71.1,66.3,75.6,2018,Health care visit in the 12 months before pregnancy ,Iowa,Iowa,Midwest,IA
+142,968,686,68.4,64.3,72.2,2018,Health care visit in the 12 months before pregnancy ,Kansas,Kansas,Midwest,KS
+143,749,490,67.7,63.1,72.0,2018,Health care visit in the 12 months before pregnancy ,Kentucky,Kentucky,South,KY
+144,851,577,68.5,65.0,71.7,2018,Health care visit in the 12 months before pregnancy ,Louisiana,Louisiana,South,LA
+145,810,638,76.9,73.2,80.3,2018,Health care visit in the 12 months before pregnancy ,Maine,Maine,Northeast,ME
+146,1026,771,71.3,67.6,74.7,2018,Health care visit in the 12 months before pregnancy ,Maryland,Maryland,South,MD
+147,1432,1055,80.2,77.7,82.4,2018,Health care visit in the 12 months before pregnancy ,Massachusetts,Massachusetts,Northeast,MA
+148,1842,1172,68.7,65.9,71.3,2018,Health care visit in the 12 months before pregnancy ,Michigan,Michigan,Midwest,MI
+149,1256,997,78.2,75.3,80.9,2018,Health care visit in the 12 months before pregnancy ,Minnesota,Minnesota,Midwest,MN
+150,1201,733,59.5,56.0,62.9,2018,Health care visit in the 12 months before pregnancy ,Mississippi,Mississippi,South,MS
+151,927,609,63.0,59.3,66.5,2018,Health care visit in the 12 months before pregnancy ,Missouri,Missouri,Midwest,MO
+152,808,575,71.7,68.5,74.6,2018,Health care visit in the 12 months before pregnancy ,Montana,Montana,West,MT
+153,1328,770,66.1,62.5,69.6,2018,Health care visit in the 12 months before pregnancy ,Nebraska,Nebraska,Midwest,NE
+154,584,467,79.2,74.9,82.9,2018,Health care visit in the 12 months before pregnancy ,New Hampshire,New Hampshire,Northeast,NH
+155,1175,700,61.9,59.0,64.7,2018,Health care visit in the 12 months before pregnancy ,New Jersey,New Jersey,Northeast,NJ
+156,1199,656,54.3,51.5,57.0,2018,Health care visit in the 12 months before pregnancy ,New Mexico,New Mexico,West,NM
+157,906,610,65.8,62.0,69.4,2018,Health care visit in the 12 months before pregnancy ,North Carolina,North Carolina,South,NC
+158,878,545,67.0,63.2,70.7,2018,Health care visit in the 12 months before pregnancy ,North Dakota,North Dakota,Midwest,ND
+159,1377,780,58.7,54.9,62.3,2018,Health care visit in the 12 months before pregnancy ,Oklahoma,Oklahoma,South,OK
+160,1590,1046,70.3,66.6,73.7,2018,Health care visit in the 12 months before pregnancy ,Oregon,Oregon,West,OR
+161,952,706,71.8,68.3,75.0,2018,Health care visit in the 12 months before pregnancy ,Pennsylvania,Pennsylvania,Northeast,PA
+162,1093,799,72.8,69.6,75.7,2018,Health care visit in the 12 months before pregnancy ,Rhode Island,Rhode Island,Northeast,RI
+163,996,637,69.2,65.9,72.3,2018,Health care visit in the 12 months before pregnancy ,South Dakota,South Dakota,Midwest,SD
+164,1246,882,73.5,70.5,76.3,2018,Health care visit in the 12 months before pregnancy ,Utah,Utah,West,UT
+165,874,700,79.2,76.2,81.8,2018,Health care visit in the 12 months before pregnancy ,Vermont,Vermont,Northeast,VT
+166,1135,767,65.6,60.7,70.2,2018,Health care visit in the 12 months before pregnancy ,Virginia,Virginia,South,VA
+167,1128,727,67.3,64.0,70.4,2018,Health care visit in the 12 months before pregnancy ,Washington,Washington,West,WA
+168,673,397,57.1,52.6,61.5,2018,Health care visit in the 12 months before pregnancy ,West Virginia,West Virginia,South,WV
+169,1051,713,76.2,72.7,79.4,2018,Health care visit in the 12 months before pregnancy ,Wisconsin,Wisconsin,Midwest,WI
+170,539,347,64.5,59.4,69.2,2018,Health care visit in the 12 months before pregnancy ,Wyoming,Wyoming,West,WY
+171,795,670,83.2,80.3,85.7,2018,Began prenatal care in 1st trimester,Alabama,Alabama,South,AL
+172,978,817,83.2,80.2,85.8,2018,Began prenatal care in 1st trimester,Alaska,Alaska,West,AK
+173,864,718,85.9,81.9,89.1,2018,Began prenatal care in 1st trimester,Arkansas,Arkansas,South,AR
+174,1106,994,90.0,87.6,92.0,2018,Began prenatal care in 1st trimester,Colorado,Colorado,West,CO
+175,1384,1242,92.5,90.6,94.0,2018,Began prenatal care in 1st trimester,Connecticut,Connecticut,Northeast,CT
+176,838,691,82.5,79.6,85.1,2018,Began prenatal care in 1st trimester,Delaware,Delaware,South,DE
+177,746,623,84.5,80.8,87.6,2018,Began prenatal care in 1st trimester,Georgia,Georgia,South,GA
+178,1294,1136,88.5,86.4,90.3,2018,Began prenatal care in 1st trimester,Illinois,Illinois,Midwest,IL
+179,851,686,81.7,78.0,84.9,2018,Began prenatal care in 1st trimester,Indiana,Indiana,Midwest,IN
+180,830,677,86.0,81.9,89.3,2018,Began prenatal care in 1st trimester,Iowa,Iowa,Midwest,IA
+181,965,851,86.8,83.6,89.5,2018,Began prenatal care in 1st trimester,Kansas,Kansas,Midwest,KS
+182,735,637,89.2,85.8,91.8,2018,Began prenatal care in 1st trimester,Kentucky,Kentucky,South,KY
+183,829,712,87.3,84.9,89.5,2018,Began prenatal care in 1st trimester,Louisiana,Louisiana,South,LA
+184,810,722,90.2,87.5,92.4,2018,Began prenatal care in 1st trimester,Maine,Maine,Northeast,ME
+185,1010,842,82.8,79.6,85.6,2018,Began prenatal care in 1st trimester,Maryland,Maryland,South,MD
+186,1406,1248,90.1,87.9,91.9,2018,Began prenatal care in 1st trimester,Massachusetts,Massachusetts,Northeast,MA
+187,1809,1516,86.6,84.6,88.5,2018,Began prenatal care in 1st trimester,Michigan,Michigan,Midwest,MI
+188,1243,1134,91.3,89.2,93.1,2018,Began prenatal care in 1st trimester,Minnesota,Minnesota,Midwest,MN
+189,1187,987,84.0,81.2,86.5,2018,Began prenatal care in 1st trimester,Mississippi,Mississippi,South,MS
+190,920,791,85.2,82.3,87.7,2018,Began prenatal care in 1st trimester,Missouri,Missouri,Midwest,MO
+191,803,699,87.5,85.1,89.6,2018,Began prenatal care in 1st trimester,Montana,Montana,West,MT
+192,1305,1102,89.5,87.2,91.4,2018,Began prenatal care in 1st trimester,Nebraska,Nebraska,Midwest,NE
+193,572,539,94.0,91.1,96.0,2018,Began prenatal care in 1st trimester,New Hampshire,New Hampshire,Northeast,NH
+194,1144,955,86.0,83.9,87.8,2018,Began prenatal care in 1st trimester,New Jersey,New Jersey,Northeast,NJ
+195,1190,1016,85.1,82.9,87.0,2018,Began prenatal care in 1st trimester,New Mexico,New Mexico,West,NM
+196,905,776,85.1,81.9,87.8,2018,Began prenatal care in 1st trimester,North Carolina,North Carolina,South,NC
+197,859,711,86.1,83.0,88.7,2018,Began prenatal care in 1st trimester,North Dakota,North Dakota,Midwest,ND
+198,1361,1120,84.0,81.1,86.5,2018,Began prenatal care in 1st trimester,Oklahoma,Oklahoma,South,OK
+199,1571,1376,91.6,89.4,93.4,2018,Began prenatal care in 1st trimester,Oregon,Oregon,West,OR
+200,926,819,87.1,84.4,89.5,2018,Began prenatal care in 1st trimester,Pennsylvania,Pennsylvania,Northeast,PA
+201,1081,980,90.7,88.5,92.6,2018,Began prenatal care in 1st trimester,Rhode Island,Rhode Island,Northeast,RI
+202,1002,835,83.3,80.4,85.8,2018,Began prenatal care in 1st trimester,South Dakota,South Dakota,Midwest,SD
+203,1213,1069,88.9,86.6,90.9,2018,Began prenatal care in 1st trimester,Utah,Utah,West,UT
+204,849,780,91.0,88.8,92.9,2018,Began prenatal care in 1st trimester,Vermont,Vermont,Northeast,VT
+205,1126,1011,90.6,87.4,93.1,2018,Began prenatal care in 1st trimester,Virginia,Virginia,South,VA
+206,1121,990,89.0,86.5,91.0,2018,Began prenatal care in 1st trimester,Washington,Washington,West,WA
+207,661,570,85.5,81.8,88.5,2018,Began prenatal care in 1st trimester,West Virginia,West Virginia,South,WV
+208,1033,870,86.3,83.1,89.0,2018,Began prenatal care in 1st trimester,Wisconsin,Wisconsin,Midwest,WI
+209,543,474,87.7,83.9,90.7,2018,Began prenatal care in 1st trimester,Wyoming,Wyoming,West,WY
+210,795,389,46.5,43.0,50.1,2018,Had a flu shot in the 12 months before delivery,Alabama,Alabama,South,AL
+211,978,600,60.9,57.3,64.5,2018,Had a flu shot in the 12 months before delivery,Alaska,Alaska,West,AK
+212,876,464,60.3,55.0,65.4,2018,Had a flu shot in the 12 months before delivery,Arkansas,Arkansas,South,AR
+213,1112,778,71.8,68.6,74.8,2018,Had a flu shot in the 12 months before delivery,Colorado,Colorado,West,CO
+214,1412,980,70.2,67.0,73.3,2018,Had a flu shot in the 12 months before delivery,Connecticut,Connecticut,Northeast,CT
+215,828,501,60.2,56.7,63.7,2018,Had a flu shot in the 12 months before delivery,Delaware,Delaware,South,DE
+216,751,312,40.4,35.9,45.0,2018,Had a flu shot in the 12 months before delivery,Georgia,Georgia,South,GA
+217,1292,778,61.1,58.2,64.0,2018,Had a flu shot in the 12 months before delivery,Illinois,Illinois,Midwest,IL
+218,854,483,55.6,51.2,60.0,2018,Had a flu shot in the 12 months before delivery,Indiana,Indiana,Midwest,IN
+219,825,576,74.6,69.7,79.0,2018,Had a flu shot in the 12 months before delivery,Iowa,Iowa,Midwest,IA
+220,959,650,68.1,64.1,71.8,2018,Had a flu shot in the 12 months before delivery,Kansas,Kansas,Midwest,KS
+221,737,389,49.0,44.3,53.8,2018,Had a flu shot in the 12 months before delivery,Kentucky,Kentucky,South,KY
+222,841,375,46.3,42.7,50.0,2018,Had a flu shot in the 12 months before delivery,Louisiana,Louisiana,South,LA
+223,807,513,63.4,59.3,67.3,2018,Had a flu shot in the 12 months before delivery,Maine,Maine,Northeast,ME
+224,1011,649,64.0,60.2,67.6,2018,Had a flu shot in the 12 months before delivery,Maryland,Maryland,South,MD
+225,1406,1074,76.1,73.1,78.9,2018,Had a flu shot in the 12 months before delivery,Massachusetts,Massachusetts,Northeast,MA
+226,1822,860,51.4,48.4,54.3,2018,Had a flu shot in the 12 months before delivery,Michigan,Michigan,Midwest,MI
+227,1254,870,69.6,66.5,72.5,2018,Had a flu shot in the 12 months before delivery,Minnesota,Minnesota,Midwest,MN
+228,1189,516,45.4,41.9,48.9,2018,Had a flu shot in the 12 months before delivery,Mississippi,Mississippi,South,MS
+229,925,553,60.6,56.9,64.1,2018,Had a flu shot in the 12 months before delivery,Missouri,Missouri,Midwest,MO
+230,799,511,62.5,59.1,65.7,2018,Had a flu shot in the 12 months before delivery,Montana,Montana,West,MT
+231,1308,939,70.8,67.1,74.3,2018,Had a flu shot in the 12 months before delivery,Nebraska,Nebraska,Midwest,NE
+232,581,424,70.3,65.7,74.5,2018,Had a flu shot in the 12 months before delivery,New Hampshire,New Hampshire,Northeast,NH
+233,1159,620,54.0,50.9,57.1,2018,Had a flu shot in the 12 months before delivery,New Jersey,New Jersey,Northeast,NJ
+234,1195,768,63.1,60.3,65.9,2018,Had a flu shot in the 12 months before delivery,New Mexico,New Mexico,West,NM
+235,899,575,62.1,58.3,65.8,2018,Had a flu shot in the 12 months before delivery,North Carolina,North Carolina,South,NC
+236,867,601,68.8,65.0,72.5,2018,Had a flu shot in the 12 months before delivery,North Dakota,North Dakota,Midwest,ND
+237,1365,771,57.2,53.4,60.9,2018,Had a flu shot in the 12 months before delivery,Oklahoma,Oklahoma,South,OK
+238,1570,1104,68.8,64.9,72.4,2018,Had a flu shot in the 12 months before delivery,Oregon,Oregon,West,OR
+239,951,553,55.9,52.2,59.6,2018,Had a flu shot in the 12 months before delivery,Pennsylvania,Pennsylvania,Northeast,PA
+240,1068,796,74.5,71.3,77.4,2018,Had a flu shot in the 12 months before delivery,Rhode Island,Rhode Island,Northeast,RI
+241,995,731,74.7,71.5,77.7,2018,Had a flu shot in the 12 months before delivery,South Dakota,South Dakota,Midwest,SD
+242,1216,766,64.7,61.3,68.0,2018,Had a flu shot in the 12 months before delivery,Utah,Utah,West,UT
+243,855,589,67.6,64.3,70.8,2018,Had a flu shot in the 12 months before delivery,Vermont,Vermont,Northeast,VT
+244,1126,739,57.1,52.2,61.9,2018,Had a flu shot in the 12 months before delivery,Virginia,Virginia,South,VA
+245,1120,772,66.8,63.3,70.1,2018,Had a flu shot in the 12 months before delivery,Washington,Washington,West,WA
+246,675,366,56.9,52.4,61.2,2018,Had a flu shot in the 12 months before delivery,West Virginia,West Virginia,South,WV
+247,1037,656,63.6,59.3,67.7,2018,Had a flu shot in the 12 months before delivery,Wisconsin,Wisconsin,Midwest,WI
+248,540,299,52.7,47.6,57.8,2018,Had a flu shot in the 12 months before delivery,Wyoming,Wyoming,West,WY
+249,782,737,94.3,92.3,95.8,2018,Had maternal postpartum checkup,Alabama,Alabama,South,AL
+250,978,859,89.0,86.6,91.1,2018,Had maternal postpartum checkup,Alaska,Alaska,West,AK
+251,877,767,91.5,88.3,94.0,2018,Had maternal postpartum checkup,Arkansas,Arkansas,South,AR
+252,1123,1035,91.5,89.1,93.3,2018,Had maternal postpartum checkup,Colorado,Colorado,West,CO
+253,1406,1298,94.4,92.8,95.7,2018,Had maternal postpartum checkup,Connecticut,Connecticut,Northeast,CT
+254,818,714,87.7,85.1,89.9,2018,Had maternal postpartum checkup,Delaware,Delaware,South,DE
+255,761,672,89.8,86.8,92.2,2018,Had maternal postpartum checkup,Georgia,Georgia,South,GA
+256,1301,1202,93.0,91.3,94.4,2018,Had maternal postpartum checkup,Illinois,Illinois,Midwest,IL
+257,855,754,88.5,85.3,91.1,2018,Had maternal postpartum checkup,Indiana,Indiana,Midwest,IN
+258,819,749,94.2,91.2,96.2,2018,Had maternal postpartum checkup,Iowa,Iowa,Midwest,IA
+259,967,889,90.6,87.5,93.0,2018,Had maternal postpartum checkup,Kansas,Kansas,Midwest,KS
+260,742,652,88.5,85.0,91.2,2018,Had maternal postpartum checkup,Kentucky,Kentucky,South,KY
+261,846,748,88.9,86.5,91.0,2018,Had maternal postpartum checkup,Louisiana,Louisiana,South,LA
+262,811,748,93.7,91.4,95.4,2018,Had maternal postpartum checkup,Maine,Maine,Northeast,ME
+263,1023,936,90.4,87.8,92.4,2018,Had maternal postpartum checkup,Maryland,Maryland,South,MD
+264,1419,1314,93.3,91.4,94.8,2018,Had maternal postpartum checkup,Massachusetts,Massachusetts,Northeast,MA
+265,1821,1583,89.1,87.2,90.8,2018,Had maternal postpartum checkup,Michigan,Michigan,Midwest,MI
+266,1265,1149,92.2,90.2,93.8,2018,Had maternal postpartum checkup,Minnesota,Minnesota,Midwest,MN
+267,1174,1027,88.3,85.8,90.4,2018,Had maternal postpartum checkup,Mississippi,Mississippi,South,MS
+268,924,807,87.5,84.8,89.7,2018,Had maternal postpartum checkup,Missouri,Missouri,Midwest,MO
+269,798,738,93.1,91.2,94.7,2018,Had maternal postpartum checkup,Montana,Montana,West,MT
+270,1307,1171,91.3,88.9,93.2,2018,Had maternal postpartum checkup,Nebraska,Nebraska,Midwest,NE
+271,581,554,96.1,93.7,97.6,2018,Had maternal postpartum checkup,New Hampshire,New Hampshire,Northeast,NH
+272,1174,1035,89.5,87.5,91.2,2018,Had maternal postpartum checkup,New Jersey,New Jersey,Northeast,NJ
+273,1196,1043,87.5,85.5,89.2,2018,Had maternal postpartum checkup,New Mexico,New Mexico,West,NM
+274,904,827,92.8,90.6,94.5,2018,Had maternal postpartum checkup,North Carolina,North Carolina,South,NC
+275,873,755,91.0,88.4,93.0,2018,Had maternal postpartum checkup,North Dakota,North Dakota,Midwest,ND
+276,1381,1199,89.3,86.9,91.2,2018,Had maternal postpartum checkup,Oklahoma,Oklahoma,South,OK
+277,1570,1423,92.8,90.5,94.6,2018,Had maternal postpartum checkup,Oregon,Oregon,West,OR
+278,948,839,87.6,84.9,89.9,2018,Had maternal postpartum checkup,Pennsylvania,Pennsylvania,Northeast,PA
+279,1070,1014,95.5,93.7,96.7,2018,Had maternal postpartum checkup,Rhode Island,Rhode Island,Northeast,RI
+280,1003,864,89.4,87.2,91.2,2018,Had maternal postpartum checkup,South Dakota,South Dakota,Midwest,SD
+281,1232,1095,91.4,89.5,92.9,2018,Had maternal postpartum checkup,Utah,Utah,West,UT
+282,852,785,91.9,89.6,93.6,2018,Had maternal postpartum checkup,Vermont,Vermont,Northeast,VT
+283,1133,1039,90.2,86.8,92.8,2018,Had maternal postpartum checkup,Virginia,Virginia,South,VA
+284,1130,1026,92.4,90.4,94.1,2018,Had maternal postpartum checkup,Washington,Washington,West,WA
+285,680,578,87.2,84.0,89.9,2018,Had maternal postpartum checkup,West Virginia,West Virginia,South,WV
+286,997,878,90.9,88.2,93.1,2018,Had maternal postpartum checkup,Wisconsin,Wisconsin,Midwest,WI
+287,541,487,93.0,90.1,95.1,2018,Had maternal postpartum checkup,Wyoming,Wyoming,West,WY
+288,789,467,56.5,53.1,59.8,2019,Health care visit in the 12 months before pregnancy ,Alabama,Alabama,South,AL
+289,1063,697,67.4,64.1,70.5,2019,Health care visit in the 12 months before pregnancy ,Alaska,Alaska,West,AK
+290,959,549,59.8,54.7,64.7,2019,Health care visit in the 12 months before pregnancy ,Arkansas,Arkansas,South,AR
+291,1092,818,72.6,69.1,75.9,2019,Health care visit in the 12 months before pregnancy ,Colorado,Colorado,West,CO
+292,1190,809,73.6,70.6,76.3,2019,Health care visit in the 12 months before pregnancy ,Connecticut,Connecticut,Northeast,CT
+293,917,622,66.9,63.6,70.1,2019,Health care visit in the 12 months before pregnancy ,Delaware,Delaware,South,DE
+294,1021,601,60.6,56.7,64.3,2019,Health care visit in the 12 months before pregnancy ,Florida,Florida,South,FL
+295,783,474,61.4,56.9,65.7,2019,Health care visit in the 12 months before pregnancy ,Georgia,Georgia,South,GA
+296,625,411,64.0,58.3,69.2,2019,Health care visit in the 12 months before pregnancy ,Hawaii,Hawaii,West,HI
+297,1222,890,72.6,69.7,75.3,2019,Health care visit in the 12 months before pregnancy ,Illinois,Illinois,Midwest,IL
+298,837,500,70.3,65.2,75.0,2019,Health care visit in the 12 months before pregnancy ,Iowa,Iowa,Midwest,IA
+299,1005,708,70.5,66.6,74.1,2019,Health care visit in the 12 months before pregnancy ,Kansas,Kansas,Midwest,KS
+300,904,633,70.2,66.0,74.1,2019,Health care visit in the 12 months before pregnancy ,Kentucky,Kentucky,South,KY
+301,1073,769,70.6,67.1,73.9,2019,Health care visit in the 12 months before pregnancy ,Louisiana,Louisiana,South,LA
+302,825,612,71.6,67.7,75.2,2019,Health care visit in the 12 months before pregnancy ,Maine,Maine,Northeast,ME
+303,939,694,73.0,69.4,76.3,2019,Health care visit in the 12 months before pregnancy ,Maryland,Maryland,South,MD
+304,1676,1212,75.9,73.3,78.3,2019,Health care visit in the 12 months before pregnancy ,Massachusetts,Massachusetts,Northeast,MA
+305,1379,927,70.5,67.5,73.4,2019,Health care visit in the 12 months before pregnancy ,Michigan,Michigan,Midwest,MI
+306,1034,790,75.1,71.2,78.5,2019,Health care visit in the 12 months before pregnancy ,Minnesota,Minnesota,Midwest,MN
+307,1247,733,60.9,57.5,64.1,2019,Health care visit in the 12 months before pregnancy ,Mississippi,Mississippi,South,MS
+308,1585,1118,65.1,62.0,68.1,2019,Health care visit in the 12 months before pregnancy ,Missouri,Missouri,Midwest,MO
+309,718,527,74.9,71.6,77.9,2019,Health care visit in the 12 months before pregnancy ,Montana,Montana,West,MT
+310,1620,980,70.4,67.4,73.2,2019,Health care visit in the 12 months before pregnancy ,Nebraska,Nebraska,Midwest,NE
+311,658,514,75.0,70.4,79.2,2019,Health care visit in the 12 months before pregnancy ,New Hampshire,New Hampshire,Northeast,NH
+312,1104,661,62.7,59.7,65.5,2019,Health care visit in the 12 months before pregnancy ,New Jersey,New Jersey,Northeast,NJ
+313,1143,740,60.5,57.5,63.3,2019,Health care visit in the 12 months before pregnancy ,New Mexico,New Mexico,West,NM
+314,863,581,64.8,60.9,68.5,2019,Health care visit in the 12 months before pregnancy ,North Carolina,North Carolina,South,NC
+315,756,482,72.8,68.8,76.5,2019,Health care visit in the 12 months before pregnancy ,North Dakota,North Dakota,Midwest,ND
+316,2426,1506,68.5,65.7,71.3,2019,Health care visit in the 12 months before pregnancy ,Oregon,Oregon,West,OR
+317,1132,854,75.6,71.9,79.0,2019,Health care visit in the 12 months before pregnancy ,Pennsylvania,Pennsylvania,Northeast,PA
+318,981,700,69.8,66.5,73.0,2019,Health care visit in the 12 months before pregnancy ,Rhode Island,Rhode Island,Northeast,RI
+319,990,652,72.5,69.5,75.3,2019,Health care visit in the 12 months before pregnancy ,South Dakota,South Dakota,Midwest,SD
+320,656,419,62.8,57.4,67.9,2019,Health care visit in the 12 months before pregnancy ,Tennessee,Tennessee,South,TN
+321,1701,1280,73.1,70.3,75.8,2019,Health care visit in the 12 months before pregnancy ,Utah,Utah,West,UT
+322,781,633,78.4,75.2,81.4,2019,Health care visit in the 12 months before pregnancy ,Vermont,Vermont,Northeast,VT
+323,978,682,65.9,60.9,70.6,2019,Health care visit in the 12 months before pregnancy ,Virginia,Virginia,South,VA
+324,1172,765,66.4,63.1,69.5,2019,Health care visit in the 12 months before pregnancy ,Washington,Washington,West,WA
+325,846,596,74.7,70.8,78.3,2019,Health care visit in the 12 months before pregnancy ,Wisconsin,Wisconsin,Midwest,WI
+326,491,339,67.5,62.1,72.4,2019,Health care visit in the 12 months before pregnancy ,Wyoming,Wyoming,West,WY
+327,787,663,83.0,80.2,85.5,2019,Began prenatal care in 1st trimester,Alabama,Alabama,South,AL
+328,1032,877,85.9,83.3,88.2,2019,Began prenatal care in 1st trimester,Alaska,Alaska,West,AK
+329,951,786,83.3,79.0,86.8,2019,Began prenatal care in 1st trimester,Arkansas,Arkansas,South,AR
+330,1077,983,90.4,87.7,92.6,2019,Began prenatal care in 1st trimester,Colorado,Colorado,West,CO
+331,1160,1039,92.5,90.9,93.8,2019,Began prenatal care in 1st trimester,Connecticut,Connecticut,Northeast,CT
+332,915,765,83.5,80.7,85.9,2019,Began prenatal care in 1st trimester,Delaware,Delaware,South,DE
+333,1021,835,85.0,82.2,87.5,2019,Began prenatal care in 1st trimester,Florida,Florida,South,FL
+334,768,678,88.4,85.3,91.0,2019,Began prenatal care in 1st trimester,Georgia,Georgia,South,GA
+335,615,538,87.5,83.1,90.9,2019,Began prenatal care in 1st trimester,Hawaii,Hawaii,West,HI
+336,1215,1091,89.1,86.9,91.0,2019,Began prenatal care in 1st trimester,Illinois,Illinois,Midwest,IL
+337,834,689,89.7,86.1,92.4,2019,Began prenatal care in 1st trimester,Iowa,Iowa,Midwest,IA
+338,996,885,90.0,87.2,92.3,2019,Began prenatal care in 1st trimester,Kansas,Kansas,Midwest,KS
+339,897,796,87.9,84.4,90.7,2019,Began prenatal care in 1st trimester,Kentucky,Kentucky,South,KY
+340,1055,930,87.0,84.2,89.3,2019,Began prenatal care in 1st trimester,Louisiana,Louisiana,South,LA
+341,817,749,91.9,89.3,93.9,2019,Began prenatal care in 1st trimester,Maine,Maine,Northeast,ME
+342,936,798,84.8,81.9,87.4,2019,Began prenatal care in 1st trimester,Maryland,Maryland,South,MD
+343,1661,1506,92.7,91.2,94.0,2019,Began prenatal care in 1st trimester,Massachusetts,Massachusetts,Northeast,MA
+344,1347,1140,87.1,84.8,89.1,2019,Began prenatal care in 1st trimester,Michigan,Michigan,Midwest,MI
+345,1044,946,91.1,88.3,93.2,2019,Began prenatal care in 1st trimester,Minnesota,Minnesota,Midwest,MN
+346,1246,1018,83.0,80.2,85.4,2019,Began prenatal care in 1st trimester,Mississippi,Mississippi,South,MS
+347,1576,1413,87.8,85.3,89.9,2019,Began prenatal care in 1st trimester,Missouri,Missouri,Midwest,MO
+348,723,634,88.3,85.7,90.4,2019,Began prenatal care in 1st trimester,Montana,Montana,West,MT
+349,1590,1352,89.9,87.9,91.6,2019,Began prenatal care in 1st trimester,Nebraska,Nebraska,Midwest,NE
+350,648,597,92.0,88.5,94.5,2019,Began prenatal care in 1st trimester,New Hampshire,New Hampshire,Northeast,NH
+351,1091,925,87.0,84.9,88.9,2019,Began prenatal care in 1st trimester,New Jersey,New Jersey,Northeast,NJ
+352,1128,992,85.8,83.5,87.9,2019,Began prenatal care in 1st trimester,New Mexico,New Mexico,West,NM
+353,858,754,86.9,83.9,89.5,2019,Began prenatal care in 1st trimester,North Carolina,North Carolina,South,NC
+354,742,610,90.1,87.4,92.3,2019,Began prenatal care in 1st trimester,North Dakota,North Dakota,Midwest,ND
+355,2379,2057,89.9,88.0,91.6,2019,Began prenatal care in 1st trimester,Oregon,Oregon,West,OR
+356,1122,994,87.3,83.8,90.1,2019,Began prenatal care in 1st trimester,Pennsylvania,Pennsylvania,Northeast,PA
+357,966,900,94.1,92.2,95.6,2019,Began prenatal care in 1st trimester,Rhode Island,Rhode Island,Northeast,RI
+358,984,830,86.5,84.0,88.6,2019,Began prenatal care in 1st trimester,South Dakota,South Dakota,Midwest,SD
+359,643,537,84.7,80.1,88.3,2019,Began prenatal care in 1st trimester,Tennessee,Tennessee,South,TN
+360,1680,1519,90.4,88.4,92.2,2019,Began prenatal care in 1st trimester,Utah,Utah,West,UT
+361,766,726,94.6,92.6,96.1,2019,Began prenatal care in 1st trimester,Vermont,Vermont,Northeast,VT
+362,965,847,85.9,81.7,89.2,2019,Began prenatal care in 1st trimester,Virginia,Virginia,South,VA
+363,1171,1047,91.3,89.2,93.0,2019,Began prenatal care in 1st trimester,Washington,Washington,West,WA
+364,831,701,87.0,83.8,89.6,2019,Began prenatal care in 1st trimester,Wisconsin,Wisconsin,Midwest,WI
+365,485,423,86.6,82.4,90.0,2019,Began prenatal care in 1st trimester,Wyoming,Wyoming,West,WY
+366,779,424,52.7,49.2,56.2,2019,Had a flu shot in the 12 months before delivery,Alabama,Alabama,South,AL
+367,1016,652,62.9,59.4,66.3,2019,Had a flu shot in the 12 months before delivery,Alaska,Alaska,West,AK
+368,957,546,61.8,56.8,66.6,2019,Had a flu shot in the 12 months before delivery,Arkansas,Arkansas,South,AR
+369,1091,803,74.6,71.4,77.6,2019,Had a flu shot in the 12 months before delivery,Colorado,Colorado,West,CO
+370,1178,847,74.7,71.5,77.6,2019,Had a flu shot in the 12 months before delivery,Connecticut,Connecticut,Northeast,CT
+371,918,573,62.4,59.0,65.7,2019,Had a flu shot in the 12 months before delivery,Delaware,Delaware,South,DE
+372,1025,371,39.8,36.0,43.8,2019,Had a flu shot in the 12 months before delivery,Florida,Florida,South,FL
+373,779,315,39.8,35.5,44.2,2019,Had a flu shot in the 12 months before delivery,Georgia,Georgia,South,GA
+374,612,345,64.8,59.5,69.8,2019,Had a flu shot in the 12 months before delivery,Hawaii,Hawaii,West,HI
+375,1221,788,64.0,60.9,66.9,2019,Had a flu shot in the 12 months before delivery,Illinois,Illinois,Midwest,IL
+376,819,582,72.5,67.3,77.1,2019,Had a flu shot in the 12 months before delivery,Iowa,Iowa,Midwest,IA
+377,993,701,68.6,64.7,72.3,2019,Had a flu shot in the 12 months before delivery,Kansas,Kansas,Midwest,KS
+378,898,545,53.7,49.3,58.1,2019,Had a flu shot in the 12 months before delivery,Kentucky,Kentucky,South,KY
+379,1050,579,53.1,49.4,56.7,2019,Had a flu shot in the 12 months before delivery,Louisiana,Louisiana,South,LA
+380,812,562,70.0,66.1,73.6,2019,Had a flu shot in the 12 months before delivery,Maine,Maine,Northeast,ME
+381,933,623,65.9,62.1,69.4,2019,Had a flu shot in the 12 months before delivery,Maryland,Maryland,South,MD
+382,1668,1315,78.5,75.8,80.9,2019,Had a flu shot in the 12 months before delivery,Massachusetts,Massachusetts,Northeast,MA
+383,1363,696,54.6,51.3,57.8,2019,Had a flu shot in the 12 months before delivery,Michigan,Michigan,Midwest,MI
+384,1045,705,70.3,66.6,73.6,2019,Had a flu shot in the 12 months before delivery,Minnesota,Minnesota,Midwest,MN
+385,1246,563,47.9,44.5,51.3,2019,Had a flu shot in the 12 months before delivery,Mississippi,Mississippi,South,MS
+386,1582,1048,64.3,61.2,67.3,2019,Had a flu shot in the 12 months before delivery,Missouri,Missouri,Midwest,MO
+387,717,470,65.1,61.6,68.5,2019,Had a flu shot in the 12 months before delivery,Montana,Montana,West,MT
+388,1587,1225,78.0,75.0,80.7,2019,Had a flu shot in the 12 months before delivery,Nebraska,Nebraska,Midwest,NE
+389,654,459,69.2,64.4,73.5,2019,Had a flu shot in the 12 months before delivery,New Hampshire,New Hampshire,Northeast,NH
+390,1078,599,56.9,53.7,60.0,2019,Had a flu shot in the 12 months before delivery,New Jersey,New Jersey,Northeast,NJ
+391,1131,778,66.5,63.6,69.3,2019,Had a flu shot in the 12 months before delivery,New Mexico,New Mexico,West,NM
+392,852,587,68.2,64.4,71.8,2019,Had a flu shot in the 12 months before delivery,North Carolina,North Carolina,South,NC
+393,752,545,73.8,69.7,77.5,2019,Had a flu shot in the 12 months before delivery,North Dakota,North Dakota,Midwest,ND
+394,2377,1637,67.4,64.3,70.4,2019,Had a flu shot in the 12 months before delivery,Oregon,Oregon,West,OR
+395,1131,748,65.2,60.9,69.3,2019,Had a flu shot in the 12 months before delivery,Pennsylvania,Pennsylvania,Northeast,PA
+396,960,785,82.1,79.1,84.8,2019,Had a flu shot in the 12 months before delivery,Rhode Island,Rhode Island,Northeast,RI
+397,993,748,76.8,73.8,79.6,2019,Had a flu shot in the 12 months before delivery,South Dakota,South Dakota,Midwest,SD
+398,647,355,56.8,51.3,62.1,2019,Had a flu shot in the 12 months before delivery,Tennessee,Tennessee,South,TN
+399,1698,1192,66.0,63.0,69.0,2019,Had a flu shot in the 12 months before delivery,Utah,Utah,West,UT
+400,769,569,72.1,68.7,75.3,2019,Had a flu shot in the 12 months before delivery,Vermont,Vermont,Northeast,VT
+401,973,660,66.0,61.0,70.6,2019,Had a flu shot in the 12 months before delivery,Virginia,Virginia,South,VA
+402,1167,826,70.5,67.2,73.5,2019,Had a flu shot in the 12 months before delivery,Washington,Washington,West,WA
+403,837,558,68.3,64.0,72.4,2019,Had a flu shot in the 12 months before delivery,Wisconsin,Wisconsin,Midwest,WI
+404,485,332,66.0,60.6,71.0,2019,Had a flu shot in the 12 months before delivery,Wyoming,Wyoming,West,WY
+405,776,722,92.8,90.7,94.4,2019,Had maternal postpartum checkup,Alabama,Alabama,South,AL
+406,1039,904,88.3,85.9,90.4,2019,Had maternal postpartum checkup,Alaska,Alaska,West,AK
+407,951,806,88.8,85.2,91.6,2019,Had maternal postpartum checkup,Arkansas,Arkansas,South,AR
+408,1088,1002,90.8,88.3,92.8,2019,Had maternal postpartum checkup,Colorado,Colorado,West,CO
+409,1173,1098,95.2,93.7,96.3,2019,Had maternal postpartum checkup,Connecticut,Connecticut,Northeast,CT
+410,919,830,90.2,87.9,92.1,2019,Had maternal postpartum checkup,Delaware,Delaware,South,DE
+411,1008,886,89.3,86.6,91.5,2019,Had maternal postpartum checkup,Florida,Florida,South,FL
+412,779,705,91.5,88.7,93.7,2019,Had maternal postpartum checkup,Georgia,Georgia,South,GA
+413,615,572,93.0,89.8,95.2,2019,Had maternal postpartum checkup,Hawaii,Hawaii,West,HI
+414,1218,1143,93.9,92.2,95.3,2019,Had maternal postpartum checkup,Illinois,Illinois,Midwest,IL
+415,819,739,93.4,90.1,95.7,2019,Had maternal postpartum checkup,Iowa,Iowa,Midwest,IA
+416,1007,926,92.5,90.0,94.5,2019,Had maternal postpartum checkup,Kansas,Kansas,Midwest,KS
+417,902,821,89.2,85.8,91.8,2019,Had maternal postpartum checkup,Kentucky,Kentucky,South,KY
+418,1067,952,88.9,86.4,90.9,2019,Had maternal postpartum checkup,Louisiana,Louisiana,South,LA
+419,825,763,92.7,90.2,94.6,2019,Had maternal postpartum checkup,Maine,Maine,Northeast,ME
+420,946,873,92.3,90.0,94.1,2019,Had maternal postpartum checkup,Maryland,Maryland,South,MD
+421,1673,1549,92.9,91.1,94.3,2019,Had maternal postpartum checkup,Massachusetts,Massachusetts,Northeast,MA
+422,1359,1182,88.7,86.5,90.5,2019,Had maternal postpartum checkup,Michigan,Michigan,Midwest,MI
+423,1043,954,93.4,91.2,95.1,2019,Had maternal postpartum checkup,Minnesota,Minnesota,Midwest,MN
+424,1239,1083,89.0,86.7,90.9,2019,Had maternal postpartum checkup,Mississippi,Mississippi,South,MS
+425,1584,1425,88.6,86.2,90.7,2019,Had maternal postpartum checkup,Missouri,Missouri,Midwest,MO
+426,721,643,90.3,88.0,92.2,2019,Had maternal postpartum checkup,Montana,Montana,West,MT
+427,1594,1422,92.4,90.5,93.9,2019,Had maternal postpartum checkup,Nebraska,Nebraska,Midwest,NE
+428,655,600,90.8,87.1,93.5,2019,Had maternal postpartum checkup,New Hampshire,New Hampshire,Northeast,NH
+429,1078,950,89.5,87.4,91.2,2019,Had maternal postpartum checkup,New Jersey,New Jersey,Northeast,NJ
+430,1128,1011,87.5,85.2,89.4,2019,Had maternal postpartum checkup,New Mexico,New Mexico,West,NM
+431,855,782,91.6,89.0,93.5,2019,Had maternal postpartum checkup,North Carolina,North Carolina,South,NC
+432,754,626,89.3,86.3,91.7,2019,Had maternal postpartum checkup,North Dakota,North Dakota,Midwest,ND
+433,2399,2167,93.2,91.6,94.5,2019,Had maternal postpartum checkup,Oregon,Oregon,West,OR
+434,1127,1009,89.4,86.1,92.0,2019,Had maternal postpartum checkup,Pennsylvania,Pennsylvania,Northeast,PA
+435,967,911,94.2,92.2,95.8,2019,Had maternal postpartum checkup,Rhode Island,Rhode Island,Northeast,RI
+436,996,858,89.6,87.6,91.3,2019,Had maternal postpartum checkup,South Dakota,South Dakota,Midwest,SD
+437,650,569,88.3,84.3,91.4,2019,Had maternal postpartum checkup,Tennessee,Tennessee,South,TN
+438,1698,1557,92.0,90.2,93.5,2019,Had maternal postpartum checkup,Utah,Utah,West,UT
+439,761,721,94.9,93.0,96.4,2019,Had maternal postpartum checkup,Vermont,Vermont,Northeast,VT
+440,975,894,91.1,87.6,93.7,2019,Had maternal postpartum checkup,Virginia,Virginia,South,VA
+441,1171,1050,90.2,87.9,92.1,2019,Had maternal postpartum checkup,Washington,Washington,West,WA
+442,820,736,90.7,87.7,93.1,2019,Had maternal postpartum checkup,Wisconsin,Wisconsin,Midwest,WI
+443,485,438,91.5,87.9,94.1,2019,Had maternal postpartum checkup,Wyoming,Wyoming,West,WY
+444,634,391,59.1,55.4,62.8,2020,Health care visit in the 12 months before pregnancy ,Alabama,Alabama,South,AL
+445,1009,671,66.9,63.5,70.2,2020,Health care visit in the 12 months before pregnancy ,Alaska,Alaska,West,AK
+446,787,482,58.9,55.4,62.3,2020,Health care visit in the 12 months before pregnancy ,Arizona,Arizona,West,AZ
+447,911,523,59.0,54.0,63.9,2020,Health care visit in the 12 months before pregnancy ,Arkansas,Arkansas,South,AR
+448,1042,759,70.7,67.3,73.9,2020,Health care visit in the 12 months before pregnancy ,Colorado,Colorado,West,CO
+449,1352,888,73.5,70.9,75.9,2020,Health care visit in the 12 months before pregnancy ,Connecticut,Connecticut,Northeast,CT
+450,840,591,68.3,64.8,71.7,2020,Health care visit in the 12 months before pregnancy ,Delaware,Delaware,South,DE
+451,1072,628,59.6,55.8,63.3,2020,Health care visit in the 12 months before pregnancy ,Florida,Florida,South,FL
+452,689,364,54.2,49.4,59.0,2020,Health care visit in the 12 months before pregnancy ,Georgia,Georgia,South,GA
+453,1204,739,61.5,57.7,65.1,2020,Health care visit in the 12 months before pregnancy ,Hawaii,Hawaii,West,HI
+454,1191,906,73.5,70.6,76.3,2020,Health care visit in the 12 months before pregnancy ,Illinois,Illinois,Midwest,IL
+455,712,463,74.6,70.2,78.6,2020,Health care visit in the 12 months before pregnancy ,Iowa,Iowa,Midwest,IA
+456,1167,792,68.3,64.9,71.6,2020,Health care visit in the 12 months before pregnancy ,Kansas,Kansas,Midwest,KS
+457,796,530,68.3,63.8,72.4,2020,Health care visit in the 12 months before pregnancy ,Kentucky,Kentucky,South,KY
+458,694,494,70.9,67.3,74.3,2020,Health care visit in the 12 months before pregnancy ,Louisiana,Louisiana,South,LA
+459,888,678,75.1,71.7,78.3,2020,Health care visit in the 12 months before pregnancy ,Maine,Maine,Northeast,ME
+460,992,730,71.6,67.9,75.1,2020,Health care visit in the 12 months before pregnancy ,Maryland,Maryland,South,MD
+461,1389,995,79.6,77.2,81.8,2020,Health care visit in the 12 months before pregnancy ,Massachusetts,Massachusetts,Northeast,MA
+462,1384,883,64.9,61.8,67.9,2020,Health care visit in the 12 months before pregnancy ,Michigan,Michigan,Midwest,MI
+463,613,470,75.8,70.6,80.4,2020,Health care visit in the 12 months before pregnancy ,Minnesota,Minnesota,Midwest,MN
+464,1001,571,59.2,55.2,63.2,2020,Health care visit in the 12 months before pregnancy ,Mississippi,Mississippi,South,MS
+465,954,635,65.5,62.0,68.8,2020,Health care visit in the 12 months before pregnancy ,Missouri,Missouri,Midwest,MO
+466,698,480,72.8,69.0,76.2,2020,Health care visit in the 12 months before pregnancy ,Montana,Montana,West,MT
+467,1485,911,70.7,67.7,73.5,2020,Health care visit in the 12 months before pregnancy ,Nebraska,Nebraska,Midwest,NE
+468,644,541,80.9,76.9,84.4,2020,Health care visit in the 12 months before pregnancy ,New Hampshire,New Hampshire,Northeast,NH
+469,1089,644,61.2,58.2,64.1,2020,Health care visit in the 12 months before pregnancy ,New Jersey,New Jersey,Northeast,NJ
+470,1035,660,58.8,55.7,61.8,2020,Health care visit in the 12 months before pregnancy ,New Mexico,New Mexico,West,NM
+471,770,424,66.2,61.9,70.2,2020,Health care visit in the 12 months before pregnancy ,North Dakota,North Dakota,Midwest,ND
+472,1643,1034,69.0,65.6,72.3,2020,Health care visit in the 12 months before pregnancy ,Oregon,Oregon,West,OR
+473,1196,836,68.5,65.4,71.4,2020,Health care visit in the 12 months before pregnancy ,Pennsylvania,Pennsylvania,Northeast,PA
+474,969,584,66.4,63.1,69.5,2020,Health care visit in the 12 months before pregnancy ,South Dakota,South Dakota,Midwest,SD
+475,615,390,63.6,58.2,68.6,2020,Health care visit in the 12 months before pregnancy ,Tennessee,Tennessee,South,TN
+476,1403,1027,75.2,72.6,77.6,2020,Health care visit in the 12 months before pregnancy ,Utah,Utah,West,UT
+477,806,637,76.7,73.5,79.6,2020,Health care visit in the 12 months before pregnancy ,Vermont,Vermont,Northeast,VT
+478,935,634,61.3,56.3,66.2,2020,Health care visit in the 12 months before pregnancy ,Virginia,Virginia,South,VA
+479,1228,802,67.2,63.9,70.3,2020,Health care visit in the 12 months before pregnancy ,Washington,Washington,West,WA
+480,590,352,61.3,56.4,65.9,2020,Health care visit in the 12 months before pregnancy ,West Virginia,West Virginia,South,WV
+481,1676,1150,76.5,73.5,79.2,2020,Health care visit in the 12 months before pregnancy ,Wisconsin,Wisconsin,Midwest,WI
+482,457,303,63.6,57.8,69.0,2020,Health care visit in the 12 months before pregnancy ,Wyoming,Wyoming,West,WY
+483,626,544,86.3,83.3,88.8,2020,Began prenatal care in 1st trimester,Alabama,Alabama,South,AL
+484,982,829,84.2,81.3,86.7,2020,Began prenatal care in 1st trimester,Alaska,Alaska,West,AK
+485,783,679,85.2,82.4,87.6,2020,Began prenatal care in 1st trimester,Arizona,Arizona,West,AZ
+486,893,752,87.8,84.1,90.8,2020,Began prenatal care in 1st trimester,Arkansas,Arkansas,South,AR
+487,1044,949,90.8,88.5,92.7,2020,Began prenatal care in 1st trimester,Colorado,Colorado,West,CO
+488,1326,1214,93.5,92.1,94.7,2020,Began prenatal care in 1st trimester,Connecticut,Connecticut,Northeast,CT
+489,844,670,79.4,76.2,82.2,2020,Began prenatal care in 1st trimester,Delaware,Delaware,South,DE
+490,1066,887,84.6,81.7,87.2,2020,Began prenatal care in 1st trimester,Florida,Florida,South,FL
+491,684,607,88.3,84.7,91.0,2020,Began prenatal care in 1st trimester,Georgia,Georgia,South,GA
+492,1184,1035,88.1,85.4,90.3,2020,Began prenatal care in 1st trimester,Hawaii,Hawaii,West,HI
+493,1194,1062,88.0,85.7,90.0,2020,Began prenatal care in 1st trimester,Illinois,Illinois,Midwest,IL
+494,697,607,90.5,87.2,92.9,2020,Began prenatal care in 1st trimester,Iowa,Iowa,Midwest,IA
+495,1152,1020,89.7,87.3,91.7,2020,Began prenatal care in 1st trimester,Kansas,Kansas,Midwest,KS
+496,779,668,86.8,83.3,89.6,2020,Began prenatal care in 1st trimester,Kentucky,Kentucky,South,KY
+497,677,604,90.3,87.9,92.2,2020,Began prenatal care in 1st trimester,Louisiana,Louisiana,South,LA
+498,875,769,87.9,85.2,90.2,2020,Began prenatal care in 1st trimester,Maine,Maine,Northeast,ME
+499,986,834,86.0,83.1,88.4,2020,Began prenatal care in 1st trimester,Maryland,Maryland,South,MD
+500,1373,1201,89.7,87.5,91.5,2020,Began prenatal care in 1st trimester,Massachusetts,Massachusetts,Northeast,MA
+501,1359,1140,85.8,83.5,87.9,2020,Began prenatal care in 1st trimester,Michigan,Michigan,Midwest,MI
+502,613,531,87.2,82.9,90.5,2020,Began prenatal care in 1st trimester,Minnesota,Minnesota,Midwest,MN
+503,977,790,82.7,79.5,85.6,2020,Began prenatal care in 1st trimester,Mississippi,Mississippi,South,MS
+504,940,827,88.1,85.5,90.3,2020,Began prenatal care in 1st trimester,Missouri,Missouri,Midwest,MO
+505,696,598,88.4,85.5,90.7,2020,Began prenatal care in 1st trimester,Montana,Montana,West,MT
+506,1462,1234,88.4,86.2,90.3,2020,Began prenatal care in 1st trimester,Nebraska,Nebraska,Midwest,NE
+507,638,599,94.6,92.0,96.3,2020,Began prenatal care in 1st trimester,New Hampshire,New Hampshire,Northeast,NH
+508,1067,910,86.2,83.9,88.3,2020,Began prenatal care in 1st trimester,New Jersey,New Jersey,Northeast,NJ
+509,1024,886,84.4,81.9,86.7,2020,Began prenatal care in 1st trimester,New Mexico,New Mexico,West,NM
+510,763,621,87.3,84.1,90.0,2020,Began prenatal care in 1st trimester,North Dakota,North Dakota,Midwest,ND
+511,1614,1382,89.1,86.6,91.1,2020,Began prenatal care in 1st trimester,Oregon,Oregon,West,OR
+512,1178,1010,85.0,82.5,87.2,2020,Began prenatal care in 1st trimester,Pennsylvania,Pennsylvania,Northeast,PA
+513,928,764,85.6,83.1,87.8,2020,Began prenatal care in 1st trimester,South Dakota,South Dakota,Midwest,SD
+514,594,492,84.6,80.3,88.1,2020,Began prenatal care in 1st trimester,Tennessee,Tennessee,South,TN
+515,1398,1237,87.9,85.7,89.8,2020,Began prenatal care in 1st trimester,Utah,Utah,West,UT
+516,797,740,92.5,90.3,94.2,2020,Began prenatal care in 1st trimester,Vermont,Vermont,Northeast,VT
+517,915,814,86.1,82.1,89.4,2020,Began prenatal care in 1st trimester,Virginia,Virginia,South,VA
+518,1203,1070,90.5,88.2,92.3,2020,Began prenatal care in 1st trimester,Washington,Washington,West,WA
+519,586,528,90.3,87.0,92.9,2020,Began prenatal care in 1st trimester,West Virginia,West Virginia,South,WV
+520,1654,1389,89.0,86.8,90.9,2020,Began prenatal care in 1st trimester,Wisconsin,Wisconsin,Midwest,WI
+521,460,395,85.2,80.5,88.9,2020,Began prenatal care in 1st trimester,Wyoming,Wyoming,West,WY
+522,632,320,48.9,45.0,52.7,2020,Had a flu shot in the 12 months before delivery,Alabama,Alabama,South,AL
+523,987,639,64.1,60.6,67.5,2020,Had a flu shot in the 12 months before delivery,Alaska,Alaska,West,AK
+524,787,453,56.8,53.3,60.3,2020,Had a flu shot in the 12 months before delivery,Arizona,Arizona,West,AZ
+525,906,501,58.2,53.2,63.1,2020,Had a flu shot in the 12 months before delivery,Arkansas,Arkansas,South,AR
+526,1040,751,74.7,71.6,77.6,2020,Had a flu shot in the 12 months before delivery,Colorado,Colorado,West,CO
+527,1345,963,73.5,70.5,76.3,2020,Had a flu shot in the 12 months before delivery,Connecticut,Connecticut,Northeast,CT
+528,834,525,62.4,58.7,65.9,2020,Had a flu shot in the 12 months before delivery,Delaware,Delaware,South,DE
+529,1070,403,41.4,37.7,45.3,2020,Had a flu shot in the 12 months before delivery,Florida,Florida,South,FL
+530,682,285,40.6,35.9,45.4,2020,Had a flu shot in the 12 months before delivery,Georgia,Georgia,South,GA
+531,1193,705,68.6,65.3,71.7,2020,Had a flu shot in the 12 months before delivery,Hawaii,Hawaii,West,HI
+532,1198,774,64.6,61.6,67.6,2020,Had a flu shot in the 12 months before delivery,Illinois,Illinois,Midwest,IL
+533,701,504,76.9,72.6,80.7,2020,Had a flu shot in the 12 months before delivery,Iowa,Iowa,Midwest,IA
+534,1146,790,70.9,67.5,74.0,2020,Had a flu shot in the 12 months before delivery,Kansas,Kansas,Midwest,KS
+535,796,446,53.5,48.9,58.0,2020,Had a flu shot in the 12 months before delivery,Kentucky,Kentucky,South,KY
+536,676,358,52.9,49.0,56.8,2020,Had a flu shot in the 12 months before delivery,Louisiana,Louisiana,South,LA
+537,876,634,72.6,69.1,75.9,2020,Had a flu shot in the 12 months before delivery,Maine,Maine,Northeast,ME
+538,977,682,70.4,66.6,73.9,2020,Had a flu shot in the 12 months before delivery,Maryland,Maryland,South,MD
+539,1366,1082,79.7,76.7,82.4,2020,Had a flu shot in the 12 months before delivery,Massachusetts,Massachusetts,Northeast,MA
+540,1372,718,57.9,54.8,61.0,2020,Had a flu shot in the 12 months before delivery,Michigan,Michigan,Midwest,MI
+541,617,417,68.2,62.9,73.1,2020,Had a flu shot in the 12 months before delivery,Minnesota,Minnesota,Midwest,MN
+542,987,436,47.7,43.7,51.8,2020,Had a flu shot in the 12 months before delivery,Mississippi,Mississippi,South,MS
+543,959,617,64.5,61.0,67.9,2020,Had a flu shot in the 12 months before delivery,Missouri,Missouri,Midwest,MO
+544,691,484,68.6,64.6,72.4,2020,Had a flu shot in the 12 months before delivery,Montana,Montana,West,MT
+545,1454,1117,76.0,72.8,78.9,2020,Had a flu shot in the 12 months before delivery,Nebraska,Nebraska,Midwest,NE
+546,643,491,75.1,70.8,79.0,2020,Had a flu shot in the 12 months before delivery,New Hampshire,New Hampshire,Northeast,NH
+547,1071,644,60.7,57.5,63.8,2020,Had a flu shot in the 12 months before delivery,New Jersey,New Jersey,Northeast,NJ
+548,1023,718,67.4,64.3,70.3,2020,Had a flu shot in the 12 months before delivery,New Mexico,New Mexico,West,NM
+549,767,563,74.2,70.1,77.9,2020,Had a flu shot in the 12 months before delivery,North Dakota,North Dakota,Midwest,ND
+550,1616,1101,66.9,63.2,70.5,2020,Had a flu shot in the 12 months before delivery,Oregon,Oregon,West,OR
+551,1193,779,64.4,61.3,67.5,2020,Had a flu shot in the 12 months before delivery,Pennsylvania,Pennsylvania,Northeast,PA
+552,967,727,76.0,72.8,78.9,2020,Had a flu shot in the 12 months before delivery,South Dakota,South Dakota,Midwest,SD
+553,608,328,54.7,49.3,60.0,2020,Had a flu shot in the 12 months before delivery,Tennessee,Tennessee,South,TN
+554,1404,947,68.3,65.3,71.0,2020,Had a flu shot in the 12 months before delivery,Utah,Utah,West,UT
+555,795,554,67.3,63.8,70.5,2020,Had a flu shot in the 12 months before delivery,Vermont,Vermont,Northeast,VT
+556,928,658,64.6,59.6,69.3,2020,Had a flu shot in the 12 months before delivery,Virginia,Virginia,South,VA
+557,1222,898,74.0,70.8,77.0,2020,Had a flu shot in the 12 months before delivery,Washington,Washington,West,WA
+558,590,378,64.8,60.0,69.4,2020,Had a flu shot in the 12 months before delivery,West Virginia,West Virginia,South,WV
+559,1672,1100,70.8,67.3,74.0,2020,Had a flu shot in the 12 months before delivery,Wisconsin,Wisconsin,Midwest,WI
+560,457,293,63.5,57.7,68.9,2020,Had a flu shot in the 12 months before delivery,Wyoming,Wyoming,West,WY
+561,613,561,91.1,88.5,93.2,2020,Had maternal postpartum checkup,Alabama,Alabama,South,AL
+562,986,823,85.0,82.4,87.3,2020,Had maternal postpartum checkup,Alaska,Alaska,West,AK
+563,792,687,85.2,82.4,87.6,2020,Had maternal postpartum checkup,Arizona,Arizona,West,AZ
+564,904,777,88.3,84.6,91.2,2020,Had maternal postpartum checkup,Arkansas,Arkansas,South,AR
+565,1045,934,88.5,85.9,90.6,2020,Had maternal postpartum checkup,Colorado,Colorado,West,CO
+566,1345,1221,92.2,90.4,93.7,2020,Had maternal postpartum checkup,Connecticut,Connecticut,Northeast,CT
+567,834,733,88.0,85.3,90.2,2020,Had maternal postpartum checkup,Delaware,Delaware,South,DE
+568,1059,936,89.3,86.8,91.5,2020,Had maternal postpartum checkup,Florida,Florida,South,FL
+569,684,609,89.2,85.8,91.9,2020,Had maternal postpartum checkup,Georgia,Georgia,South,GA
+570,1206,1077,90.5,88.1,92.4,2020,Had maternal postpartum checkup,Hawaii,Hawaii,West,HI
+571,1191,1093,91.4,89.4,93.1,2020,Had maternal postpartum checkup,Illinois,Illinois,Midwest,IL
+572,692,618,91.3,88.1,93.7,2020,Had maternal postpartum checkup,Iowa,Iowa,Midwest,IA
+573,1166,1030,89.6,87.2,91.6,2020,Had maternal postpartum checkup,Kansas,Kansas,Midwest,KS
+574,788,690,86.0,82.3,89.0,2020,Had maternal postpartum checkup,Kentucky,Kentucky,South,KY
+575,690,600,86.3,83.4,88.8,2020,Had maternal postpartum checkup,Louisiana,Louisiana,South,LA
+576,877,795,90.4,87.8,92.5,2020,Had maternal postpartum checkup,Maine,Maine,Northeast,ME
+577,993,905,90.3,87.7,92.4,2020,Had maternal postpartum checkup,Maryland,Maryland,South,MD
+578,1361,1195,90.3,88.2,92.1,2020,Had maternal postpartum checkup,Massachusetts,Massachusetts,Northeast,MA
+579,1370,1152,86.4,84.1,88.4,2020,Had maternal postpartum checkup,Michigan,Michigan,Midwest,MI
+580,619,515,85.9,81.5,89.4,2020,Had maternal postpartum checkup,Minnesota,Minnesota,Midwest,MN
+581,985,853,86.9,83.9,89.4,2020,Had maternal postpartum checkup,Mississippi,Mississippi,South,MS
+582,954,812,85.1,82.3,87.5,2020,Had maternal postpartum checkup,Missouri,Missouri,Midwest,MO
+583,698,610,89.8,87.1,91.9,2020,Had maternal postpartum checkup,Montana,Montana,West,MT
+584,1468,1259,88.3,86.1,90.3,2020,Had maternal postpartum checkup,Nebraska,Nebraska,Midwest,NE
+585,647,593,90.3,86.9,92.9,2020,Had maternal postpartum checkup,New Hampshire,New Hampshire,Northeast,NH
+586,1080,907,84.9,82.5,87.1,2020,Had maternal postpartum checkup,New Jersey,New Jersey,Northeast,NJ
+587,1024,904,86.2,83.8,88.4,2020,Had maternal postpartum checkup,New Mexico,New Mexico,West,NM
+588,767,634,89.3,86.3,91.6,2020,Had maternal postpartum checkup,North Dakota,North Dakota,Midwest,ND
+589,1644,1459,91.9,89.7,93.6,2020,Had maternal postpartum checkup,Oregon,Oregon,West,OR
+590,1190,1046,87.2,84.8,89.2,2020,Had maternal postpartum checkup,Pennsylvania,Pennsylvania,Northeast,PA
+591,965,787,87.4,85.3,89.2,2020,Had maternal postpartum checkup,South Dakota,South Dakota,Midwest,SD
+592,614,534,88.7,84.8,91.6,2020,Had maternal postpartum checkup,Tennessee,Tennessee,South,TN
+593,1402,1232,88.9,86.9,90.6,2020,Had maternal postpartum checkup,Utah,Utah,West,UT
+594,796,720,90.1,87.7,92.1,2020,Had maternal postpartum checkup,Vermont,Vermont,Northeast,VT
+595,930,828,87.1,83.2,90.2,2020,Had maternal postpartum checkup,Virginia,Virginia,South,VA
+596,1228,1104,90.7,88.4,92.5,2020,Had maternal postpartum checkup,Washington,Washington,West,WA
+597,591,523,88.9,85.5,91.6,2020,Had maternal postpartum checkup,West Virginia,West Virginia,South,WV
+598,1649,1393,88.6,86.1,90.7,2020,Had maternal postpartum checkup,Wisconsin,Wisconsin,Midwest,WI
+599,452,399,90.1,86.0,93.1,2020,Had maternal postpartum checkup,Wyoming,Wyoming,West,WY
+600,693,381,54.8,51.1,58.4,2021,Health care visit in the 12 months before pregnancy ,Alabama,Alabama,South,AL
+601,831,492,61.9,56.8,66.8,2021,Health care visit in the 12 months before pregnancy ,Arkansas,Arkansas,South,AR
+602,1257,899,70.2,67.1,73.0,2021,Health care visit in the 12 months before pregnancy ,Colorado,Colorado,West,CO
+603,1314,854,71.5,68.6,74.1,2021,Health care visit in the 12 months before pregnancy ,Connecticut,Connecticut,Northeast,CT
+604,825,546,65.6,61.9,69.1,2021,Health care visit in the 12 months before pregnancy ,Delaware,Delaware,South,DE
+605,779,477,59.1,54.5,63.5,2021,Health care visit in the 12 months before pregnancy ,Georgia,Georgia,South,GA
+606,1330,840,62.9,59.2,66.4,2021,Health care visit in the 12 months before pregnancy ,Hawaii,Hawaii,West,HI
+607,1084,774,69.6,66.3,72.6,2021,Health care visit in the 12 months before pregnancy ,Illinois,Illinois,Midwest,IL
+608,1129,779,66.8,63.3,70.2,2021,Health care visit in the 12 months before pregnancy ,Kansas,Kansas,Midwest,KS
+609,664,426,64.7,60.7,68.4,2021,Health care visit in the 12 months before pregnancy ,Louisiana,Louisiana,South,LA
+610,785,619,75.3,71.3,78.8,2021,Health care visit in the 12 months before pregnancy ,Maine,Maine,Northeast,ME
+611,1313,907,76.2,73.5,78.7,2021,Health care visit in the 12 months before pregnancy ,Massachusetts,Massachusetts,Northeast,MA
+612,1366,904,68.2,65.1,71.2,2021,Health care visit in the 12 months before pregnancy ,Michigan,Michigan,Midwest,MI
+613,590,442,78.8,73.3,83.4,2021,Health care visit in the 12 months before pregnancy ,Minnesota,Minnesota,Midwest,MN
+614,877,482,57.8,53.7,61.8,2021,Health care visit in the 12 months before pregnancy ,Mississippi,Mississippi,South,MS
+615,825,550,64.7,60.7,68.4,2021,Health care visit in the 12 months before pregnancy ,Missouri,Missouri,Midwest,MO
+616,1154,826,74.0,71.2,76.6,2021,Health care visit in the 12 months before pregnancy ,Montana,Montana,West,MT
+617,1223,738,67.5,64.1,70.6,2021,Health care visit in the 12 months before pregnancy ,Nebraska,Nebraska,Midwest,NE
+618,931,604,65.7,62.5,68.8,2021,Health care visit in the 12 months before pregnancy ,New Jersey,New Jersey,Northeast,NJ
+619,1061,642,58.5,55.6,61.4,2021,Health care visit in the 12 months before pregnancy ,New Mexico,New Mexico,West,NM
+620,580,367,71.0,66.8,74.8,2021,Health care visit in the 12 months before pregnancy ,North Dakota,North Dakota,Midwest,ND
+621,1440,786,56.9,53.1,60.7,2021,Health care visit in the 12 months before pregnancy ,Oklahoma,Oklahoma,South,OK
+622,1843,1150,68.5,65.3,71.5,2021,Health care visit in the 12 months before pregnancy ,Oregon,Oregon,West,OR
+623,908,628,65.3,61.3,69.0,2021,Health care visit in the 12 months before pregnancy ,Pennsylvania,Pennsylvania,Northeast,PA
+624,1019,609,67.2,64.0,70.3,2021,Health care visit in the 12 months before pregnancy ,South Dakota,South Dakota,Midwest,SD
+625,615,385,64.0,59.4,68.3,2021,Health care visit in the 12 months before pregnancy ,Tennessee,Tennessee,South,TN
+626,1251,900,73.8,71.0,76.4,2021,Health care visit in the 12 months before pregnancy ,Utah,Utah,West,UT
+627,950,786,79.6,76.8,82.1,2021,Health care visit in the 12 months before pregnancy ,Vermont,Vermont,Northeast,VT
+628,929,648,64.0,58.6,69.2,2021,Health care visit in the 12 months before pregnancy ,Virginia,Virginia,South,VA
+629,1132,718,66.4,63.2,69.6,2021,Health care visit in the 12 months before pregnancy ,Washington,Washington,West,WA
+630,599,325,58.1,53.2,62.8,2021,Health care visit in the 12 months before pregnancy ,West Virginia,West Virginia,South,WV
+631,758,534,77.4,73.6,80.8,2021,Health care visit in the 12 months before pregnancy ,Wisconsin,Wisconsin,Midwest,WI
+632,448,317,73.9,68.7,78.6,2021,Health care visit in the 12 months before pregnancy ,Wyoming,Wyoming,West,WY
+633,680,577,84.3,81.2,86.9,2021,Began prenatal care in 1st trimester,Alabama,Alabama,South,AL
+634,809,675,84.1,79.9,87.5,2021,Began prenatal care in 1st trimester,Arkansas,Arkansas,South,AR
+635,1240,1144,90.5,88.2,92.4,2021,Began prenatal care in 1st trimester,Colorado,Colorado,West,CO
+636,1292,1154,91.9,90.3,93.3,2021,Began prenatal care in 1st trimester,Connecticut,Connecticut,Northeast,CT
+637,818,653,79.6,76.3,82.5,2021,Began prenatal care in 1st trimester,Delaware,Delaware,South,DE
+638,775,696,88.0,84.5,90.8,2021,Began prenatal care in 1st trimester,Georgia,Georgia,South,GA
+639,1301,1129,86.9,84.2,89.1,2021,Began prenatal care in 1st trimester,Hawaii,Hawaii,West,HI
+640,1104,1007,91.0,88.8,92.8,2021,Began prenatal care in 1st trimester,Illinois,Illinois,Midwest,IL
+641,1120,998,88.2,85.5,90.4,2021,Began prenatal care in 1st trimester,Kansas,Kansas,Midwest,KS
+642,653,590,89.9,87.0,92.2,2021,Began prenatal care in 1st trimester,Louisiana,Louisiana,South,LA
+643,777,709,91.5,88.7,93.6,2021,Began prenatal care in 1st trimester,Maine,Maine,Northeast,ME
+644,1305,1174,92.2,90.4,93.7,2021,Began prenatal care in 1st trimester,Massachusetts,Massachusetts,Northeast,MA
+645,1332,1162,89.5,87.4,91.4,2021,Began prenatal care in 1st trimester,Michigan,Michigan,Midwest,MI
+646,623,544,88.3,83.9,91.6,2021,Began prenatal care in 1st trimester,Minnesota,Minnesota,Midwest,MN
+647,851,707,85.5,82.4,88.1,2021,Began prenatal care in 1st trimester,Mississippi,Mississippi,South,MS
+648,812,733,89.5,86.5,91.8,2021,Began prenatal care in 1st trimester,Missouri,Missouri,Midwest,MO
+649,1154,1013,89.7,87.8,91.3,2021,Began prenatal care in 1st trimester,Montana,Montana,West,MT
+650,1197,1035,89.6,87.3,91.5,2021,Began prenatal care in 1st trimester,Nebraska,Nebraska,Midwest,NE
+651,909,801,88.3,85.8,90.5,2021,Began prenatal care in 1st trimester,New Jersey,New Jersey,Northeast,NJ
+652,1040,899,85.6,83.3,87.6,2021,Began prenatal care in 1st trimester,New Mexico,New Mexico,West,NM
+653,578,501,89.1,85.9,91.6,2021,Began prenatal care in 1st trimester,North Dakota,North Dakota,Midwest,ND
+654,1438,1223,87.2,84.5,89.4,2021,Began prenatal care in 1st trimester,Oklahoma,Oklahoma,South,OK
+655,1796,1559,89.7,87.5,91.5,2021,Began prenatal care in 1st trimester,Oregon,Oregon,West,OR
+656,905,799,87.8,84.9,90.3,2021,Began prenatal care in 1st trimester,Pennsylvania,Pennsylvania,Northeast,PA
+657,966,812,87.3,85.0,89.4,2021,Began prenatal care in 1st trimester,South Dakota,South Dakota,Midwest,SD
+658,610,532,88.2,84.9,90.8,2021,Began prenatal care in 1st trimester,Tennessee,Tennessee,South,TN
+659,1235,1092,89.2,87.1,91.1,2021,Began prenatal care in 1st trimester,Utah,Utah,West,UT
+660,935,878,93.7,92.0,95.1,2021,Began prenatal care in 1st trimester,Vermont,Vermont,Northeast,VT
+661,916,826,89.8,86.1,92.7,2021,Began prenatal care in 1st trimester,Virginia,Virginia,South,VA
+662,1126,1005,90.0,87.7,91.9,2021,Began prenatal care in 1st trimester,Washington,Washington,West,WA
+663,583,542,93.3,90.4,95.4,2021,Began prenatal care in 1st trimester,West Virginia,West Virginia,South,WV
+664,742,659,91.3,88.2,93.6,2021,Began prenatal care in 1st trimester,Wisconsin,Wisconsin,Midwest,WI
+665,447,396,87.4,82.8,90.9,2021,Began prenatal care in 1st trimester,Wyoming,Wyoming,West,WY
+666,675,316,45.5,41.7,49.2,2021,Had a flu shot in the 12 months before delivery,Alabama,Alabama,South,AL
+667,824,366,48.7,43.5,53.9,2021,Had a flu shot in the 12 months before delivery,Arkansas,Arkansas,South,AR
+668,1250,837,68.7,65.7,71.5,2021,Had a flu shot in the 12 months before delivery,Colorado,Colorado,West,CO
+669,1293,854,70.0,66.9,72.9,2021,Had a flu shot in the 12 months before delivery,Connecticut,Connecticut,Northeast,CT
+670,814,478,57.0,53.1,60.7,2021,Had a flu shot in the 12 months before delivery,Delaware,Delaware,South,DE
+671,774,281,38.1,33.7,42.6,2021,Had a flu shot in the 12 months before delivery,Georgia,Georgia,South,GA
+672,1326,708,60.0,56.4,63.4,2021,Had a flu shot in the 12 months before delivery,Hawaii,Hawaii,West,HI
+673,1109,618,54.6,51.3,57.9,2021,Had a flu shot in the 12 months before delivery,Illinois,Illinois,Midwest,IL
+674,1118,683,61.3,57.6,64.8,2021,Had a flu shot in the 12 months before delivery,Kansas,Kansas,Midwest,KS
+675,663,296,45.7,41.7,49.7,2021,Had a flu shot in the 12 months before delivery,Louisiana,Louisiana,South,LA
+676,778,514,62.5,58.3,66.5,2021,Had a flu shot in the 12 months before delivery,Maine,Maine,Northeast,ME
+677,1299,1006,78.4,75.4,81.2,2021,Had a flu shot in the 12 months before delivery,Massachusetts,Massachusetts,Northeast,MA
+678,1353,635,52.5,49.2,55.7,2021,Had a flu shot in the 12 months before delivery,Michigan,Michigan,Midwest,MI
+679,621,382,69.2,63.7,74.2,2021,Had a flu shot in the 12 months before delivery,Minnesota,Minnesota,Midwest,MN
+680,874,316,39.4,35.5,43.6,2021,Had a flu shot in the 12 months before delivery,Mississippi,Mississippi,South,MS
+681,816,467,56.3,52.2,60.2,2021,Had a flu shot in the 12 months before delivery,Missouri,Missouri,Midwest,MO
+682,1142,667,59.4,56.2,62.4,2021,Had a flu shot in the 12 months before delivery,Montana,Montana,West,MT
+683,1188,818,69.6,66.0,72.9,2021,Had a flu shot in the 12 months before delivery,Nebraska,Nebraska,Midwest,NE
+684,910,505,53.8,50.3,57.3,2021,Had a flu shot in the 12 months before delivery,New Jersey,New Jersey,Northeast,NJ
+685,1041,612,57.2,54.2,60.1,2021,Had a flu shot in the 12 months before delivery,New Mexico,New Mexico,West,NM
+686,576,377,65.6,60.9,69.9,2021,Had a flu shot in the 12 months before delivery,North Dakota,North Dakota,Midwest,ND
+687,1441,672,46.4,42.6,50.3,2021,Had a flu shot in the 12 months before delivery,Oklahoma,Oklahoma,South,OK
+688,1815,1164,61.3,57.8,64.7,2021,Had a flu shot in the 12 months before delivery,Oregon,Oregon,West,OR
+689,918,524,56.1,52.2,60.0,2021,Had a flu shot in the 12 months before delivery,Pennsylvania,Pennsylvania,Northeast,PA
+690,1016,666,69.4,66.2,72.5,2021,Had a flu shot in the 12 months before delivery,South Dakota,South Dakota,Midwest,SD
+691,616,299,52.0,47.4,56.6,2021,Had a flu shot in the 12 months before delivery,Tennessee,Tennessee,South,TN
+692,1249,749,61.5,58.3,64.6,2021,Had a flu shot in the 12 months before delivery,Utah,Utah,West,UT
+693,942,679,69.9,66.8,72.8,2021,Had a flu shot in the 12 months before delivery,Vermont,Vermont,Northeast,VT
+694,926,617,58.9,53.5,64.2,2021,Had a flu shot in the 12 months before delivery,Virginia,Virginia,South,VA
+695,1126,723,63.5,60.0,66.8,2021,Had a flu shot in the 12 months before delivery,Washington,Washington,West,WA
+696,598,382,65.4,60.6,69.9,2021,Had a flu shot in the 12 months before delivery,West Virginia,West Virginia,South,WV
+697,753,463,65.3,60.7,69.7,2021,Had a flu shot in the 12 months before delivery,Wisconsin,Wisconsin,Midwest,WI
+698,443,254,56.2,50.5,61.7,2021,Had a flu shot in the 12 months before delivery,Wyoming,Wyoming,West,WY
+699,671,618,92.2,89.8,94.1,2021,Had maternal postpartum checkup,Alabama,Alabama,South,AL
+700,820,698,87.1,83.2,90.2,2021,Had maternal postpartum checkup,Arkansas,Arkansas,South,AR
+701,1250,1156,92.2,90.2,93.8,2021,Had maternal postpartum checkup,Colorado,Colorado,West,CO
+702,1314,1238,94.9,93.3,96.1,2021,Had maternal postpartum checkup,Connecticut,Connecticut,Northeast,CT
+703,820,718,87.7,85.0,90.0,2021,Had maternal postpartum checkup,Delaware,Delaware,South,DE
+704,774,704,90.7,87.6,93.0,2021,Had maternal postpartum checkup,Georgia,Georgia,South,GA
+705,1330,1195,88.7,86.1,90.9,2021,Had maternal postpartum checkup,Hawaii,Hawaii,West,HI
+706,1110,1033,93.2,91.2,94.7,2021,Had maternal postpartum checkup,Illinois,Illinois,Midwest,IL
+707,1123,1023,91.7,89.3,93.5,2021,Had maternal postpartum checkup,Kansas,Kansas,Midwest,KS
+708,659,589,89.1,86.3,91.4,2021,Had maternal postpartum checkup,Louisiana,Louisiana,South,LA
+709,783,729,93.3,90.8,95.2,2021,Had maternal postpartum checkup,Maine,Maine,Northeast,ME
+710,1292,1176,92.6,90.7,94.1,2021,Had maternal postpartum checkup,Massachusetts,Massachusetts,Northeast,MA
+711,1353,1172,87.5,85.0,89.6,2021,Had maternal postpartum checkup,Michigan,Michigan,Midwest,MI
+712,627,548,92.2,88.7,94.7,2021,Had maternal postpartum checkup,Minnesota,Minnesota,Midwest,MN
+713,841,724,88.1,85.1,90.5,2021,Had maternal postpartum checkup,Mississippi,Mississippi,South,MS
+714,819,736,89.4,86.6,91.8,2021,Had maternal postpartum checkup,Missouri,Missouri,Midwest,MO
+715,1146,1030,91.1,89.2,92.6,2021,Had maternal postpartum checkup,Montana,Montana,West,MT
+716,1195,1064,91.0,88.7,92.8,2021,Had maternal postpartum checkup,Nebraska,Nebraska,Midwest,NE
+717,924,831,90.4,88.3,92.3,2021,Had maternal postpartum checkup,New Jersey,New Jersey,Northeast,NJ
+718,1043,925,87.8,85.6,89.7,2021,Had maternal postpartum checkup,New Mexico,New Mexico,West,NM
+719,581,510,92.4,90.1,94.2,2021,Had maternal postpartum checkup,North Dakota,North Dakota,Midwest,ND
+720,1445,1248,88.0,85.3,90.2,2021,Had maternal postpartum checkup,Oklahoma,Oklahoma,South,OK
+721,1825,1642,90.8,88.7,92.6,2021,Had maternal postpartum checkup,Oregon,Oregon,West,OR
+722,916,833,90.7,88.1,92.8,2021,Had maternal postpartum checkup,Pennsylvania,Pennsylvania,Northeast,PA
+723,1014,859,90.9,89.4,92.2,2021,Had maternal postpartum checkup,South Dakota,South Dakota,Midwest,SD
+724,619,532,88.7,85.6,91.1,2021,Had maternal postpartum checkup,Tennessee,Tennessee,South,TN
+725,1234,1106,90.7,88.7,92.3,2021,Had maternal postpartum checkup,Utah,Utah,West,UT
+726,908,858,94.4,92.7,95.7,2021,Had maternal postpartum checkup,Vermont,Vermont,Northeast,VT
+727,925,849,92.0,88.3,94.5,2021,Had maternal postpartum checkup,Virginia,Virginia,South,VA
+728,1132,1038,92.7,90.7,94.3,2021,Had maternal postpartum checkup,Washington,Washington,West,WA
+729,601,557,93.8,91.1,95.7,2021,Had maternal postpartum checkup,West Virginia,West Virginia,South,WV
+730,740,662,92.6,89.9,94.6,2021,Had maternal postpartum checkup,Wisconsin,Wisconsin,Midwest,WI
+731,442,408,93.3,89.6,95.7,2021,Had maternal postpartum checkup,Wyoming,Wyoming,West,WY

@@ -1,0 +1,554 @@
+,Location,Abortion Rate,Year,State,Region,Stabr
+0,Mississippi,4.0,2009,Mississippi,South,MS
+1,Idaho,5.0,2009,Idaho,West,ID
+2,Kentucky,5.0,2009,Kentucky,South,KY
+3,South Dakota,5.0,2009,South Dakota,Midwest,SD
+4,West Virginia,5.0,2009,West Virginia,South,WV
+5,Missouri,6.0,2009,Missouri,Midwest,MO
+6,Utah,6.0,2009,Utah,West,UT
+7,Nebraska,7.0,2009,Nebraska,Midwest,NE
+8,Arizona,8.0,2009,Arizona,West,AZ
+9,Arkansas,8.0,2009,Arkansas,South,AR
+10,Indiana,8.0,2009,Indiana,Midwest,IN
+11,South Carolina,8.0,2009,South Carolina,South,SC
+12,Wisconsin,8.0,2009,Wisconsin,Midwest,WI
+13,Louisiana,9.0,2009,Louisiana,South,LA
+14,Oklahoma,9.0,2009,Oklahoma,South,OK
+15,Iowa,10.0,2009,Iowa,Midwest,IA
+16,Maine,10.0,2009,Maine,Northeast,ME
+17,North Dakota,10.0,2009,North Dakota,Midwest,ND
+18,Colorado,11.0,2009,Colorado,West,CO
+19,Michigan,11.0,2009,Michigan,Midwest,MI
+20,Vermont,11.0,2009,Vermont,Northeast,VT
+21,Alabama,12.0,2009,Alabama,South,AL
+22,Minnesota,12.0,2009,Minnesota,Midwest,MN
+23,Montana,12.0,2009,Montana,West,MT
+24,Alaska,13.0,2009,Alaska,West,AK
+25,Hawaii,13.0,2009,Hawaii,West,HI
+26,New Mexico,13.0,2009,New Mexico,West,NM
+27,Ohio,13.0,2009,Ohio,Midwest,OH
+28,Oregon,14.0,2009,Oregon,West,OR
+29,Tennessee,14.0,2009,Tennessee,South,TN
+30,Pennsylvania,15.0,2009,Pennsylvania,Northeast,PA
+31,Texas,15.0,2009,Texas,South,TX
+32,Georgia,16.0,2009,Georgia,South,GA
+33,North Carolina,16.0,2009,North Carolina,South,NC
+34,Illinois,17.0,2009,Illinois,Midwest,IL
+35,Kansas,17.0,2009,Kansas,Midwest,KS
+36,Massachusetts,17.0,2009,Massachusetts,Northeast,MA
+37,New Jersey,17.0,2009,New Jersey,Northeast,NJ
+38,Virginia,17.0,2009,Virginia,South,VA
+39,Washington,17.0,2009,Washington,West,WA
+40,Nevada,18.0,2009,Nevada,West,NV
+41,Connecticut,20.0,2009,Connecticut,Northeast,CT
+42,Rhode Island,20.0,2009,Rhode Island,Northeast,RI
+43,Florida,24.0,2009,Florida,South,FL
+44,New York,30.0,2009,New York,Northeast,NY
+45,New York,28.6,2010,New York,Northeast,NY
+46,Delaware,26.0,2010,Delaware,South,DE
+47,Florida,22.4,2010,Florida,South,FL
+48,Rhode Island,19.5,2010,Rhode Island,Northeast,RI
+49,Connecticut,19.4,2010,Connecticut,Northeast,CT
+50,Georgia,16.7,2010,Georgia,South,GA
+51,New Jersey,16.2,2010,New Jersey,Northeast,NJ
+52,Illinois,15.9,2010,Illinois,Midwest,IL
+53,North Carolina,15.9,2010,North Carolina,South,NC
+54,Virginia,15.7,2010,Virginia,South,VA
+55,Washington,15.6,2010,Washington,West,WA
+56,Massachusetts,15.4,2010,Massachusetts,Northeast,MA
+57,Pennsylvania,15.1,2010,Pennsylvania,Northeast,PA
+58,Kansas,15.0,2010,Kansas,Midwest,KS
+59,Texas,14.5,2010,Texas,South,TX
+60,Nevada,14.2,2010,Nevada,West,NV
+61,Oregon,13.2,2010,Oregon,West,OR
+62,Tennessee,12.8,2010,Tennessee,South,TN
+63,Ohio,12.6,2010,Ohio,Midwest,OH
+64,Michigan,12.1,2010,Michigan,Midwest,MI
+65,Alaska,12.0,2010,Alaska,West,AK
+66,Montana,12.0,2010,Montana,West,MT
+67,New Mexico,12.0,2010,New Mexico,West,NM
+68,Hawaii,11.7,2010,Hawaii,West,HI
+69,Vermont,11.3,2010,Vermont,Northeast,VT
+70,Minnesota,11.0,2010,Minnesota,Midwest,MN
+71,Colorado,10.9,2010,Colorado,West,CO
+72,Alabama,10.7,2010,Alabama,South,AL
+73,North Dakota,10.0,2010,North Dakota,Midwest,ND
+74,Louisiana,9.6,2010,Louisiana,South,LA
+75,Maine,9.6,2010,Maine,Northeast,ME
+76,Iowa,9.4,2010,Iowa,Midwest,IA
+77,Arizona,9.1,2010,Arizona,West,AZ
+78,Oklahoma,8.3,2010,Oklahoma,South,OK
+79,Arkansas,8.0,2010,Arkansas,South,AR
+80,Indiana,7.8,2010,Indiana,Midwest,IN
+81,Wisconsin,7.1,2010,Wisconsin,Midwest,WI
+82,South Carolina,7.0,2010,South Carolina,South,SC
+83,Nebraska,6.9,2010,Nebraska,Midwest,NE
+84,Utah,6.3,2010,Utah,West,UT
+85,West Virginia,5.8,2010,West Virginia,South,WV
+86,Missouri,5.2,2010,Missouri,Midwest,MO
+87,Idaho,4.9,2010,Idaho,West,ID
+88,South Dakota,4.8,2010,South Dakota,Midwest,SD
+89,Kentucky,4.6,2010,Kentucky,South,KY
+90,Mississippi,3.8,2010,Mississippi,South,MS
+91,New York,27.6,2011,New York,Northeast,NY
+92,Florida,21.6,2011,Florida,South,FL
+93,Delaware,21.2,2011,Delaware,South,DE
+94,Rhode Island,19.6,2011,Rhode Island,Northeast,RI
+95,Connecticut,18.4,2011,Connecticut,Northeast,CT
+96,Georgia,15.8,2011,Georgia,South,GA
+97,Illinois,15.8,2011,Illinois,Midwest,IL
+98,Massachusetts,15.4,2011,Massachusetts,Northeast,MA
+99,New Jersey,15.4,2011,New Jersey,Northeast,NJ
+100,Virginia,15.3,2011,Virginia,South,VA
+101,Pennsylvania,14.9,2011,Pennsylvania,Northeast,PA
+102,Washington,14.8,2011,Washington,West,WA
+103,Kansas,14.0,2011,Kansas,Midwest,KS
+104,North Carolina,13.4,2011,North Carolina,South,NC
+105,Texas,13.4,2011,Texas,South,TX
+106,Nevada,13.1,2011,Nevada,West,NV
+107,Oregon,12.6,2011,Oregon,West,OR
+108,Tennessee,12.6,2011,Tennessee,South,TN
+109,Michigan,12.3,2011,Michigan,Midwest,MI
+110,Montana,11.9,2011,Montana,West,MT
+111,Vermont,11.5,2011,Vermont,Northeast,VT
+112,Arizona,11.3,2011,Arizona,West,AZ
+113,Alaska,11.2,2011,Alaska,West,AK
+114,Ohio,11.2,2011,Ohio,Midwest,OH
+115,Minnesota,10.6,2011,Minnesota,Midwest,MN
+116,New Mexico,10.2,2011,New Mexico,West,NM
+117,Colorado,10.1,2011,Colorado,West,CO
+118,Hawaii,10.1,2011,Hawaii,West,HI
+119,Alabama,9.9,2011,Alabama,South,AL
+120,Louisiana,9.6,2011,Louisiana,South,LA
+121,North Dakota,9.5,2011,North Dakota,Midwest,ND
+122,Iowa,8.3,2011,Iowa,Midwest,IA
+123,Maine,7.4,2011,Maine,Northeast,ME
+124,Oklahoma,7.3,2011,Oklahoma,South,OK
+125,Arkansas,7.1,2011,Arkansas,South,AR
+126,Indiana,7.1,2011,Indiana,Midwest,IN
+127,South Carolina,6.9,2011,South Carolina,South,SC
+128,Nebraska,6.6,2011,Nebraska,Midwest,NE
+129,Wisconsin,6.6,2011,Wisconsin,Midwest,WI
+130,Utah,5.5,2011,Utah,West,UT
+131,West Virginia,5.4,2011,West Virginia,South,WV
+132,Missouri,4.9,2011,Missouri,Midwest,MO
+133,Idaho,4.7,2011,Idaho,West,ID
+134,Kentucky,4.6,2011,Kentucky,South,KY
+135,South Dakota,3.9,2011,South Dakota,Midwest,SD
+136,Mississippi,3.7,2011,Mississippi,South,MS
+137,New York,25.8,2012,New York,Northeast,NY
+138,Delaware,21.3,2012,Delaware,South,DE
+139,Florida,21.1,2012,Florida,South,FL
+140,Connecticut,17.4,2012,Connecticut,Northeast,CT
+141,Rhode Island,16.8,2012,Rhode Island,Northeast,RI
+142,Illinois,16.5,2012,Illinois,Midwest,IL
+143,Georgia,15.0,2012,Georgia,South,GA
+144,Massachusetts,14.8,2012,Massachusetts,Northeast,MA
+145,Pennsylvania,14.2,2012,Pennsylvania,Northeast,PA
+146,Virginia,13.7,2012,Virginia,South,VA
+147,Kansas,13.4,2012,Kansas,Midwest,KS
+148,Washington,13.4,2012,Washington,West,WA
+149,New Jersey,13.3,2012,New Jersey,Northeast,NJ
+150,Nevada,13.0,2012,Nevada,West,NV
+151,Texas,12.5,2012,Texas,South,TX
+152,North Carolina,12.4,2012,North Carolina,South,NC
+153,Tennessee,12.4,2012,Tennessee,South,TN
+154,Michigan,12.2,2012,Michigan,Midwest,MI
+155,Oregon,11.8,2012,Oregon,West,OR
+156,Ohio,11.5,2012,Ohio,Midwest,OH
+157,Montana,11.2,2012,Montana,West,MT
+158,Alaska,11.1,2012,Alaska,West,AK
+159,Vermont,10.9,2012,Vermont,Northeast,VT
+160,Hawaii,10.7,2012,Hawaii,West,HI
+161,Arizona,10.4,2012,Arizona,West,AZ
+162,Minnesota,10.2,2012,Minnesota,Midwest,MN
+163,Louisiana,9.9,2012,Louisiana,South,LA
+164,North Dakota,9.8,2012,North Dakota,Midwest,ND
+165,Alabama,9.5,2012,Alabama,South,AL
+166,Colorado,9.5,2012,Colorado,West,CO
+167,New Mexico,8.8,2012,New Mexico,West,NM
+168,Iowa,8.0,2012,Iowa,Midwest,IA
+169,Oklahoma,6.9,2012,Oklahoma,South,OK
+170,Indiana,6.8,2012,Indiana,Midwest,IN
+171,Arkansas,6.6,2012,Arkansas,South,AR
+172,South Carolina,6.5,2012,South Carolina,South,SC
+173,Nebraska,6.4,2012,Nebraska,Midwest,NE
+174,Wisconsin,6.4,2012,Wisconsin,Midwest,WI
+175,West Virginia,5.4,2012,West Virginia,South,WV
+176,Utah,5.3,2012,Utah,West,UT
+177,Missouri,4.8,2012,Missouri,Midwest,MO
+178,Idaho,4.7,2012,Idaho,West,ID
+179,Kentucky,4.5,2012,Kentucky,South,KY
+180,Maine,4.2,2012,Maine,Northeast,ME
+181,South Dakota,4.1,2012,South Dakota,Midwest,SD
+182,Mississippi,3.6,2012,Mississippi,South,MS
+183,New York,24.3,2013,New York,Northeast,NY
+184,Florida,20.0,2013,Florida,South,FL
+185,Delaware,16.9,2013,Delaware,South,DE
+186,Illinois,15.7,2013,Illinois,Midwest,IL
+187,Rhode Island,15.5,2013,Rhode Island,Northeast,RI
+188,Connecticut,15.4,2013,Connecticut,Northeast,CT
+189,Georgia,14.7,2013,Georgia,South,GA
+190,Massachusetts,14.3,2013,Massachusetts,Northeast,MA
+191,Michigan,13.8,2013,Michigan,Midwest,MI
+192,Kansas,13.3,2013,Kansas,Midwest,KS
+193,Pennsylvania,13.3,2013,Pennsylvania,Northeast,PA
+194,Washington,12.7,2013,Washington,West,WA
+195,New Jersey,12.6,2013,New Jersey,Northeast,NJ
+196,Virginia,12.4,2013,Virginia,South,VA
+197,North Carolina,11.6,2013,North Carolina,South,NC
+198,Texas,11.4,2013,Texas,South,TX
+199,Tennessee,11.0,2013,Tennessee,South,TN
+200,Nevada,10.9,2013,Nevada,West,NV
+201,Oregon,10.8,2013,Oregon,West,OR
+202,Louisiana,10.6,2013,Louisiana,South,LA
+203,New Mexico,10.5,2013,New Mexico,West,NM
+204,Ohio,10.5,2013,Ohio,Midwest,OH
+205,Vermont,10.5,2013,Vermont,Northeast,VT
+206,Arizona,10.4,2013,Arizona,West,AZ
+207,Montana,10.0,2013,Montana,West,MT
+208,Alaska,9.9,2013,Alaska,West,AK
+209,Colorado,9.6,2013,Colorado,West,CO
+210,Minnesota,9.4,2013,Minnesota,Midwest,MN
+211,Alabama,8.8,2013,Alabama,South,AL
+212,North Dakota,8.4,2013,North Dakota,Midwest,ND
+213,Maine,8.3,2013,Maine,Northeast,ME
+214,Iowa,7.6,2013,Iowa,Midwest,IA
+215,Hawaii,7.4,2013,Hawaii,West,HI
+216,Oklahoma,6.6,2013,Oklahoma,South,OK
+217,Arkansas,6.5,2013,Arkansas,South,AR
+218,Indiana,6.3,2013,Indiana,Midwest,IN
+219,South Carolina,6.3,2013,South Carolina,South,SC
+220,Nebraska,6.0,2013,Nebraska,Midwest,NE
+221,Wisconsin,5.9,2013,Wisconsin,Midwest,WI
+222,West Virginia,5.5,2013,West Virginia,South,WV
+223,Utah,4.9,2013,Utah,West,UT
+224,Missouri,4.6,2013,Missouri,Midwest,MO
+225,Idaho,4.4,2013,Idaho,West,ID
+226,Kentucky,4.3,2013,Kentucky,South,KY
+227,South Dakota,3.8,2013,South Dakota,Midwest,SD
+228,Mississippi,3.6,2013,Mississippi,South,MS
+229,New York,23.9,2014,New York,Northeast,NY
+230,Florida,19.6,2014,Florida,South,FL
+231,Delaware,16.3,2014,Delaware,South,DE
+232,Connecticut,15.5,2014,Connecticut,Northeast,CT
+233,Illinois,14.8,2014,Illinois,Midwest,IL
+234,Michigan,14.6,2014,Michigan,Midwest,MI
+235,Nevada,14.4,2014,Nevada,West,NV
+236,Georgia,14.3,2014,Georgia,South,GA
+237,Rhode Island,14.2,2014,Rhode Island,Northeast,RI
+238,Massachusetts,14.1,2014,Massachusetts,Northeast,MA
+239,New Jersey,14.0,2014,New Jersey,Northeast,NJ
+240,Pennsylvania,13.3,2014,Pennsylvania,Northeast,PA
+241,Kansas,12.9,2014,Kansas,Midwest,KS
+242,Washington,12.7,2014,Washington,West,WA
+243,North Carolina,12.4,2014,North Carolina,South,NC
+244,Virginia,12.0,2014,Virginia,South,VA
+245,New Mexico,11.3,2014,New Mexico,West,NM
+246,Louisiana,10.9,2014,Louisiana,South,LA
+247,Oregon,10.6,2014,Oregon,West,OR
+248,Vermont,10.6,2014,Vermont,Northeast,VT
+249,Alaska,10.3,2014,Alaska,West,AK
+250,Arizona,9.9,2014,Arizona,West,AZ
+251,Colorado,9.8,2014,Colorado,West,CO
+252,Minnesota,9.6,2014,Minnesota,Midwest,MN
+253,Ohio,9.6,2014,Ohio,Midwest,OH
+254,Texas,9.6,2014,Texas,South,TX
+255,Tennessee,9.5,2014,Tennessee,South,TN
+256,Montana,9.1,2014,Montana,West,MT
+257,North Dakota,8.8,2014,North Dakota,Midwest,ND
+258,Maine,8.6,2014,Maine,Northeast,ME
+259,Alabama,8.4,2014,Alabama,South,AL
+260,Hawaii,8.0,2014,Hawaii,West,HI
+261,Arkansas,7.4,2014,Arkansas,South,AR
+262,Iowa,6.9,2014,Iowa,Midwest,IA
+263,Oklahoma,6.4,2014,Oklahoma,South,OK
+264,Indiana,6.3,2014,Indiana,Midwest,IN
+265,Nebraska,6.2,2014,Nebraska,Midwest,NE
+266,South Carolina,6.1,2014,South Carolina,South,SC
+267,Wisconsin,5.3,2014,Wisconsin,Midwest,WI
+268,West Virginia,5.1,2014,West Virginia,South,WV
+269,Utah,4.6,2014,Utah,West,UT
+270,Idaho,4.3,2014,Idaho,West,ID
+271,Missouri,4.3,2014,Missouri,Midwest,MO
+272,Kentucky,4.0,2014,Kentucky,South,KY
+273,Mississippi,3.8,2014,Mississippi,South,MS
+274,South Dakota,3.5,2014,South Dakota,Midwest,SD
+275,New York,23.1,2015,New York,Northeast,NY
+276,Florida,19.3,2015,Florida,South,FL
+277,Illinois,15.5,2015,Illinois,Midwest,IL
+278,Delaware,15.4,2015,Delaware,South,DE
+279,Connecticut,14.6,2015,Connecticut,Northeast,CT
+280,Georgia,14.6,2015,Georgia,South,GA
+281,Michigan,14.4,2015,Michigan,Midwest,MI
+282,North Carolina,13.9,2015,North Carolina,South,NC
+283,Massachusetts,13.5,2015,Massachusetts,Northeast,MA
+284,New Jersey,13.4,2015,New Jersey,Northeast,NJ
+285,Pennsylvania,13.3,2015,Pennsylvania,Northeast,PA
+286,Rhode Island,12.6,2015,Rhode Island,Northeast,RI
+287,Kansas,12.4,2015,Kansas,Midwest,KS
+288,Nevada,12.4,2015,Nevada,West,NV
+289,Washington,12.1,2015,Washington,West,WA
+290,New Mexico,11.8,2015,New Mexico,West,NM
+291,Virginia,11.1,2015,Virginia,South,VA
+292,Oregon,10.9,2015,Oregon,West,OR
+293,Vermont,10.9,2015,Vermont,Northeast,VT
+294,Louisiana,9.9,2015,Louisiana,South,LA
+295,Arizona,9.6,2015,Arizona,West,AZ
+296,Ohio,9.5,2015,Ohio,Midwest,OH
+297,Minnesota,9.4,2015,Minnesota,Midwest,MN
+298,Texas,9.4,2015,Texas,South,TX
+299,Alaska,9.1,2015,Alaska,West,AK
+300,Colorado,9.1,2015,Colorado,West,CO
+301,Tennessee,8.8,2015,Tennessee,South,TN
+302,Montana,8.6,2015,Montana,West,MT
+303,Maine,7.9,2015,Maine,Northeast,ME
+304,North Dakota,7.9,2015,North Dakota,Midwest,ND
+305,Hawaii,7.6,2015,Hawaii,West,HI
+306,Iowa,6.8,2015,Iowa,Midwest,IA
+307,Arkansas,6.5,2015,Arkansas,South,AR
+308,Alabama,6.2,2015,Alabama,South,AL
+309,Indiana,6.1,2015,Indiana,Midwest,IN
+310,Oklahoma,6.1,2015,Oklahoma,South,OK
+311,South Carolina,6.1,2015,South Carolina,South,SC
+312,Nebraska,5.5,2015,Nebraska,Midwest,NE
+313,Wisconsin,5.2,2015,Wisconsin,Midwest,WI
+314,Utah,4.9,2015,Utah,West,UT
+315,West Virginia,4.5,2015,West Virginia,South,WV
+316,Mississippi,4.4,2015,Mississippi,South,MS
+317,Idaho,4.0,2015,Idaho,West,ID
+318,Missouri,4.0,2015,Missouri,Midwest,MO
+319,Kentucky,3.7,2015,Kentucky,South,KY
+320,South Dakota,2.8,2015,South Dakota,Midwest,SD
+321,New York,23.1,2016,New York,Northeast,NY
+322,Florida,19.3,2016,Florida,South,FL
+323,Illinois,15.5,2016,Illinois,Midwest,IL
+324,Delaware,15.4,2016,Delaware,South,DE
+325,Connecticut,14.6,2016,Connecticut,Northeast,CT
+326,Georgia,14.6,2016,Georgia,South,GA
+327,Michigan,14.4,2016,Michigan,Midwest,MI
+328,North Carolina,13.9,2016,North Carolina,South,NC
+329,Massachusetts,13.5,2016,Massachusetts,Northeast,MA
+330,New Jersey,13.4,2016,New Jersey,Northeast,NJ
+331,Pennsylvania,13.3,2016,Pennsylvania,Northeast,PA
+332,Rhode Island,12.6,2016,Rhode Island,Northeast,RI
+333,Kansas,12.4,2016,Kansas,Midwest,KS
+334,Nevada,12.4,2016,Nevada,West,NV
+335,Washington,12.1,2016,Washington,West,WA
+336,New Mexico,11.8,2016,New Mexico,West,NM
+337,Virginia,11.1,2016,Virginia,South,VA
+338,Oregon,10.9,2016,Oregon,West,OR
+339,Vermont,10.9,2016,Vermont,Northeast,VT
+340,Louisiana,9.9,2016,Louisiana,South,LA
+341,Arizona,9.6,2016,Arizona,West,AZ
+342,Ohio,9.5,2016,Ohio,Midwest,OH
+343,Minnesota,9.4,2016,Minnesota,Midwest,MN
+344,Texas,9.4,2016,Texas,South,TX
+345,Alaska,9.1,2016,Alaska,West,AK
+346,Colorado,9.1,2016,Colorado,West,CO
+347,Tennessee,8.8,2016,Tennessee,South,TN
+348,Montana,8.6,2016,Montana,West,MT
+349,Maine,7.9,2016,Maine,Northeast,ME
+350,North Dakota,7.9,2016,North Dakota,Midwest,ND
+351,Hawaii,7.6,2016,Hawaii,West,HI
+352,Iowa,6.8,2016,Iowa,Midwest,IA
+353,Arkansas,6.5,2016,Arkansas,South,AR
+354,Alabama,6.2,2016,Alabama,South,AL
+355,Indiana,6.1,2016,Indiana,Midwest,IN
+356,Oklahoma,6.1,2016,Oklahoma,South,OK
+357,South Carolina,6.1,2016,South Carolina,South,SC
+358,Nebraska,5.5,2016,Nebraska,Midwest,NE
+359,Wisconsin,5.2,2016,Wisconsin,Midwest,WI
+360,Utah,4.9,2016,Utah,West,UT
+361,West Virginia,4.5,2016,West Virginia,South,WV
+362,Mississippi,4.4,2016,Mississippi,South,MS
+363,Idaho,4.0,2016,Idaho,West,ID
+364,Missouri,4.0,2016,Missouri,Midwest,MO
+365,Kentucky,3.7,2016,Kentucky,South,KY
+366,South Dakota,2.8,2016,South Dakota,Midwest,SD
+367,New York,19.8,2018,New York,Northeast,NY
+368,Florida,18.1,2018,Florida,South,FL
+369,Illinois,16.9,2018,Illinois,Midwest,IL
+370,Georgia,15.7,2018,Georgia,South,GA
+371,Nevada,14.8,2018,Nevada,West,NV
+372,Michigan,14.2,2018,Michigan,Midwest,MI
+373,Connecticut,13.9,2018,Connecticut,Northeast,CT
+374,New Jersey,13.6,2018,New Jersey,Northeast,NJ
+375,North Carolina,13.5,2018,North Carolina,South,NC
+376,Rhode Island,13.5,2018,Rhode Island,Northeast,RI
+377,Massachusetts,13.1,2018,Massachusetts,Northeast,MA
+378,Pennsylvania,12.7,2018,Pennsylvania,Northeast,PA
+379,Kansas,12.4,2018,Kansas,Midwest,KS
+380,Washington,11.5,2018,Washington,West,WA
+381,Oregon,10.6,2018,Oregon,West,OR
+382,Vermont,10.5,2018,Vermont,Northeast,VT
+383,Virginia,9.8,2018,Virginia,South,VA
+384,Delaware,9.7,2018,Delaware,South,DE
+385,New Mexico,9.7,2018,New Mexico,West,NM
+386,Minnesota,9.2,2018,Minnesota,Midwest,MN
+387,Ohio,9.2,2018,Ohio,Midwest,OH
+388,Texas,9.2,2018,Texas,South,TX
+389,Arizona,9.0,2018,Arizona,West,AZ
+390,Alaska,8.8,2018,Alaska,West,AK
+391,Louisiana,8.7,2018,Louisiana,South,LA
+392,Montana,8.7,2018,Montana,West,MT
+393,Maine,8.4,2018,Maine,Northeast,ME
+394,Tennessee,8.2,2018,Tennessee,South,TN
+395,Hawaii,8.0,2018,Hawaii,West,HI
+396,Colorado,7.7,2018,Colorado,West,CO
+397,North Dakota,7.7,2018,North Dakota,Midwest,ND
+398,Alabama,6.8,2018,Alabama,South,AL
+399,Oklahoma,6.5,2018,Oklahoma,South,OK
+400,Indiana,6.2,2018,Indiana,Midwest,IN
+401,Wisconsin,5.7,2018,Wisconsin,Midwest,WI
+402,Nebraska,5.6,2018,Nebraska,Midwest,NE
+403,Arkansas,5.3,2018,Arkansas,South,AR
+404,Mississippi,5.1,2018,Mississippi,South,MS
+405,Iowa,4.8,2018,Iowa,Midwest,IA
+406,South Carolina,4.8,2018,South Carolina,South,SC
+407,West Virginia,4.7,2018,West Virginia,South,WV
+408,Utah,4.5,2018,Utah,West,UT
+409,Kentucky,3.8,2018,Kentucky,South,KY
+410,Idaho,3.7,2018,Idaho,West,ID
+411,Missouri,2.5,2018,Missouri,Midwest,MO
+412,South Dakota,2.4,2018,South Dakota,Midwest,SD
+413,New York,20.3,2019,New York,Northeast,NY
+414,Illinois,18.6,2019,Illinois,Midwest,IL
+415,Florida,18.5,2019,Florida,South,FL
+416,Georgia,16.9,2019,Georgia,South,GA
+417,Michigan,14.6,2019,Michigan,Midwest,MI
+418,Nevada,14.0,2019,Nevada,West,NV
+419,North Carolina,13.8,2019,North Carolina,South,NC
+420,Connecticut,13.7,2019,Connecticut,Northeast,CT
+421,Massachusetts,13.3,2019,Massachusetts,Northeast,MA
+422,New Jersey,13.2,2019,New Jersey,Northeast,NJ
+423,Pennsylvania,13.0,2019,Pennsylvania,Northeast,PA
+424,Kansas,12.3,2019,Kansas,Midwest,KS
+425,Washington,11.4,2019,Washington,West,WA
+426,Delaware,11.3,2019,Delaware,South,DE
+427,Oregon,10.5,2019,Oregon,West,OR
+428,Vermont,10.4,2019,Vermont,Northeast,VT
+429,Rhode Island,10.1,2019,Rhode Island,Northeast,RI
+430,New Mexico,9.9,2019,New Mexico,West,NM
+431,Texas,9.5,2019,Texas,South,TX
+432,Arizona,9.4,2019,Arizona,West,AZ
+433,Minnesota,9.2,2019,Minnesota,Midwest,MN
+434,Virginia,9.2,2019,Virginia,South,VA
+435,Ohio,9.1,2019,Ohio,Midwest,OH
+436,Alaska,8.8,2019,Alaska,West,AK
+437,Louisiana,8.8,2019,Louisiana,South,LA
+438,Maine,8.7,2019,Maine,Northeast,ME
+439,Montana,8.0,2019,Montana,West,MT
+440,Colorado,7.6,2019,Colorado,West,CO
+441,Hawaii,7.6,2019,Hawaii,West,HI
+442,North Dakota,7.6,2019,North Dakota,Midwest,ND
+443,Tennessee,7.3,2019,Tennessee,South,TN
+444,Oklahoma,6.4,2019,Oklahoma,South,OK
+445,Alabama,6.3,2019,Alabama,South,AL
+446,Iowa,6.0,2019,Iowa,Midwest,IA
+447,Wisconsin,6.0,2019,Wisconsin,Midwest,WI
+448,Indiana,5.8,2019,Indiana,Midwest,IN
+449,Mississippi,5.5,2019,Mississippi,South,MS
+450,Nebraska,5.5,2019,Nebraska,Midwest,NE
+451,South Carolina,5.2,2019,South Carolina,South,SC
+452,Arkansas,5.1,2019,Arkansas,South,AR
+453,Idaho,4.4,2019,Idaho,West,ID
+454,Kentucky,4.3,2019,Kentucky,South,KY
+455,Utah,4.2,2019,Utah,West,UT
+456,West Virginia,3.8,2019,West Virginia,South,WV
+457,South Dakota,2.6,2019,South Dakota,Midwest,SD
+458,Missouri,1.2,2019,Missouri,Midwest,MO
+459,Wyoming,0.3,2019,Wyoming,West,WY
+460,Florida,19.1,2020,Florida,South,FL
+461,Illinois,18.7,2020,Illinois,Midwest,IL
+462,Georgia,17.1,2020,Georgia,South,GA
+463,New York,16.5,2020,New York,Northeast,NY
+464,Michigan,15.8,2020,Michigan,Midwest,MI
+465,North Carolina,14.4,2020,North Carolina,South,NC
+466,Nevada,14.1,2020,Nevada,West,NV
+467,New Jersey,13.7,2020,New Jersey,Northeast,NJ
+468,Connecticut,13.6,2020,Connecticut,Northeast,CT
+469,Pennsylvania,13.5,2020,Pennsylvania,Northeast,PA
+470,Kansas,13.4,2020,Kansas,Midwest,KS
+471,Rhode Island,12.6,2020,Rhode Island,Northeast,RI
+472,Delaware,12.5,2020,Delaware,South,DE
+473,Massachusetts,11.8,2020,Massachusetts,Northeast,MA
+474,Washington,11.0,2020,Washington,West,WA
+475,New Mexico,10.7,2020,New Mexico,West,NM
+476,Vermont,10.7,2020,Vermont,Northeast,VT
+477,Minnesota,9.5,2020,Minnesota,Midwest,MN
+478,Arizona,9.3,2020,Arizona,West,AZ
+479,Ohio,9.3,2020,Ohio,Midwest,OH
+480,Virginia,9.2,2020,Virginia,South,VA
+481,Texas,9.0,2020,Texas,South,TX
+482,Maine,8.8,2020,Maine,Northeast,ME
+483,Alaska,8.4,2020,Alaska,West,AK
+484,Montana,8.4,2020,Montana,West,MT
+485,Oregon,8.4,2020,Oregon,West,OR
+486,Tennessee,8.4,2020,Tennessee,South,TN
+487,Colorado,8.3,2020,Colorado,West,CO
+488,Louisiana,8.1,2020,Louisiana,South,LA
+489,North Dakota,7.9,2020,North Dakota,Midwest,ND
+490,Hawaii,7.0,2020,Hawaii,West,HI
+491,Iowa,6.8,2020,Iowa,Midwest,IA
+492,Nebraska,6.3,2020,Nebraska,Midwest,NE
+493,Mississippi,6.1,2020,Mississippi,South,MS
+494,Alabama,6.0,2020,Alabama,South,AL
+495,Indiana,5.9,2020,Indiana,Midwest,IN
+496,Wisconsin,5.9,2020,Wisconsin,Midwest,WI
+497,South Carolina,5.5,2020,South Carolina,South,SC
+498,Arkansas,5.4,2020,Arkansas,South,AR
+499,Oklahoma,4.9,2020,Oklahoma,South,OK
+500,Idaho,4.8,2020,Idaho,West,ID
+501,Kentucky,4.8,2020,Kentucky,South,KY
+502,Utah,3.3,2020,Utah,West,UT
+503,West Virginia,3.2,2020,West Virginia,South,WV
+504,South Dakota,0.8,2020,South Dakota,Midwest,SD
+505,Wyoming,0.8,2020,Wyoming,West,WY
+506,Missouri,0.1,2020,Missouri,Midwest,MO
+507,Illinois,20.8,2021,Illinois,Midwest,IL
+508,Florida,20.3,2021,Florida,South,FL
+509,Georgia,18.8,2021,Georgia,South,GA
+510,New York,16.3,2021,New York,Northeast,NY
+511,Michigan,15.9,2021,Michigan,Midwest,MI
+512,North Carolina,15.7,2021,North Carolina,South,NC
+513,Connecticut,14.8,2021,Connecticut,Northeast,CT
+514,Nevada,14.2,2021,Nevada,West,NV
+515,Kansas,13.8,2021,Kansas,Midwest,KS
+516,Pennsylvania,13.7,2021,Pennsylvania,Northeast,PA
+517,New Mexico,12.1,2021,New Mexico,West,NM
+518,Massachusetts,11.9,2021,Massachusetts,Northeast,MA
+519,Washington,10.6,2021,Washington,West,WA
+520,Arizona,10.0,2021,Arizona,West,AZ
+521,Rhode Island,10.0,2021,Rhode Island,Northeast,RI
+522,Delaware,9.8,2021,Delaware,South,DE
+523,Colorado,9.7,2021,Colorado,West,CO
+524,Ohio,9.7,2021,Ohio,Midwest,OH
+525,Virginia,9.4,2021,Virginia,South,VA
+526,Oklahoma,9.3,2021,Oklahoma,South,OK
+527,Minnesota,9.2,2021,Minnesota,Midwest,MN
+528,Tennessee,8.9,2021,Tennessee,South,TN
+529,Montana,8.8,2021,Montana,West,MT
+530,Vermont,8.6,2021,Vermont,Northeast,VT
+531,Alaska,8.5,2021,Alaska,West,AK
+532,Oregon,8.5,2021,Oregon,West,OR
+533,Hawaii,8.4,2021,Hawaii,West,HI
+534,Texas,8.4,2021,Texas,South,TX
+535,Louisiana,8.1,2021,Louisiana,South,LA
+536,Maine,8.0,2021,Maine,Northeast,ME
+537,North Dakota,7.6,2021,North Dakota,Midwest,ND
+538,Alabama,6.6,2021,Alabama,South,AL
+539,Mississippi,6.6,2021,Mississippi,South,MS
+540,Indiana,6.3,2021,Indiana,Midwest,IN
+541,South Carolina,6.3,2021,South Carolina,South,SC
+542,Iowa,6.2,2021,Iowa,Midwest,IA
+543,Nebraska,6.2,2021,Nebraska,Midwest,NE
+544,Wisconsin,5.9,2021,Wisconsin,Midwest,WI
+545,Arkansas,5.4,2021,Arkansas,South,AR
+546,Kentucky,5.2,2021,Kentucky,South,KY
+547,West Virginia,4.4,2021,West Virginia,South,WV
+548,Utah,4.3,2021,Utah,West,UT
+549,Idaho,4.2,2021,Idaho,West,ID
+550,South Dakota,1.2,2021,South Dakota,Midwest,SD
+551,Wyoming,0.9,2021,Wyoming,West,WY
+552,Missouri,0.1,2021,Missouri,Midwest,MO

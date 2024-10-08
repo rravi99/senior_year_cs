@@ -1,0 +1,552 @@
+,Denominator,Numerator,Weighted % ,"Lower 95%
+Confidence Interval","Upper 95%
+Confidence Interval",Year,Depression,Sites,State,Region,Stabr
+0,879,115,13.2,11.0,15.7,2017,Self-reported depression in the 3 months before pregnancy,Alabama,Alabama,South,AL
+1,1042,140,13.5,11.1,16.3,2017,Self-reported depression in the 3 months before pregnancy,Alaska,Alaska,West,AK
+2,1111,143,12.6,10.6,14.8,2017,Self-reported depression in the 3 months before pregnancy,Colorado,Colorado,West,CO
+3,1462,113,9.3,7.4,11.6,2017,Self-reported depression in the 3 months before pregnancy,Connecticut,Connecticut,Northeast,CT
+4,881,129,13.0,10.9,15.4,2017,Self-reported depression in the 3 months before pregnancy,Delaware,Delaware,South,DE
+5,952,102,7.8,5.7,10.6,2017,Self-reported depression in the 3 months before pregnancy,Georgia,Georgia,South,GA
+6,1221,115,9.7,8.0,11.8,2017,Self-reported depression in the 3 months before pregnancy,Illinois,Illinois,Midwest,IL
+7,1023,132,16.7,13.4,20.5,2017,Self-reported depression in the 3 months before pregnancy,Iowa,Iowa,Midwest,IA
+8,993,191,18.9,16.0,22.3,2017,Self-reported depression in the 3 months before pregnancy,Kansas,Kansas,Midwest,KS
+9,695,123,16.2,13.1,20.0,2017,Self-reported depression in the 3 months before pregnancy,Kentucky,Kentucky,South,KY
+10,892,120,13.7,11.4,16.3,2017,Self-reported depression in the 3 months before pregnancy,Louisiana,Louisiana,South,LA
+11,860,191,20.1,17.2,23.4,2017,Self-reported depression in the 3 months before pregnancy,Maine,Maine,Northeast,ME
+12,1045,119,11.4,9.3,13.9,2017,Self-reported depression in the 3 months before pregnancy,Maryland,Maryland,South,MD
+13,1404,156,12.1,10.0,14.5,2017,Self-reported depression in the 3 months before pregnancy,Massachusetts,Massachusetts,Northeast,MA
+14,1872,289,15.7,13.6,18.0,2017,Self-reported depression in the 3 months before pregnancy,Michigan,Michigan,Midwest,MI
+15,1106,214,18.2,15.7,21.0,2017,Self-reported depression in the 3 months before pregnancy,Missouri,Missouri,Midwest,MO
+16,932,186,20.5,18.0,23.3,2017,Self-reported depression in the 3 months before pregnancy,Montana,Montana,West,MT
+17,574,106,16.7,13.1,21.0,2017,Self-reported depression in the 3 months before pregnancy,New Hampshire,New Hampshire,Northeast,NH
+18,1235,119,8.3,6.8,10.0,2017,Self-reported depression in the 3 months before pregnancy,New Jersey,New Jersey,Northeast,NJ
+19,1179,132,11.4,9.6,13.4,2017,Self-reported depression in the 3 months before pregnancy,New Mexico,New Mexico,West,NM
+20,986,133,13.0,10.7,15.7,2017,Self-reported depression in the 3 months before pregnancy,North Carolina,North Carolina,South,NC
+21,588,95,16.2,12.9,20.1,2017,Self-reported depression in the 3 months before pregnancy,North Dakota,North Dakota,Midwest,ND
+22,1617,255,17.5,14.9,20.6,2017,Self-reported depression in the 3 months before pregnancy,Oklahoma,Oklahoma,South,OK
+23,1224,209,16.1,13.8,18.8,2017,Self-reported depression in the 3 months before pregnancy,Pennsylvania,Pennsylvania,Northeast,PA
+24,1096,154,14.9,12.6,17.5,2017,Self-reported depression in the 3 months before pregnancy,Rhode Island,Rhode Island,Northeast,RI
+25,1119,192,15.8,13.6,18.4,2017,Self-reported depression in the 3 months before pregnancy,South Dakota,South Dakota,Midwest,SD
+26,1431,290,17.4,15.1,20.0,2017,Self-reported depression in the 3 months before pregnancy,Utah,Utah,West,UT
+27,844,156,19.7,17.0,22.7,2017,Self-reported depression in the 3 months before pregnancy,Vermont,Vermont,Northeast,VT
+28,1064,113,9.1,6.6,12.4,2017,Self-reported depression in the 3 months before pregnancy,Virginia,Virginia,South,VA
+29,1223,145,12.5,10.3,15.1,2017,Self-reported depression in the 3 months before pregnancy,Washington,Washington,West,WA
+30,694,171,21.7,18.3,25.6,2017,Self-reported depression in the 3 months before pregnancy,West Virginia,West Virginia,South,WV
+31,1319,240,16.8,13.9,20.1,2017,Self-reported depression in the 3 months before pregnancy,Wisconsin,Wisconsin,Midwest,WI
+32,498,100,19.1,15.3,23.4,2017,Self-reported depression in the 3 months before pregnancy,Wyoming,Wyoming,West,WY
+33,866,120,13.8,11.6,16.5,2017,Self-reported depression during pregnancy,Alabama,Alabama,South,AL
+34,1031,141,13.2,10.8,15.9,2017,Self-reported depression during pregnancy,Alaska,Alaska,West,AK
+35,1106,131,11.8,9.9,14.1,2017,Self-reported depression during pregnancy,Colorado,Colorado,West,CO
+36,1445,132,10.4,8.4,12.7,2017,Self-reported depression during pregnancy,Connecticut,Connecticut,Northeast,CT
+37,883,132,13.7,11.5,16.2,2017,Self-reported depression during pregnancy,Delaware,Delaware,South,DE
+38,938,106,8.4,6.2,11.3,2017,Self-reported depression during pregnancy,Georgia,Georgia,South,GA
+39,1210,116,9.9,8.2,12.0,2017,Self-reported depression during pregnancy,Illinois,Illinois,Midwest,IL
+40,1012,137,14.3,11.3,17.9,2017,Self-reported depression during pregnancy,Iowa,Iowa,Midwest,IA
+41,983,178,16.8,13.9,20.1,2017,Self-reported depression during pregnancy,Kansas,Kansas,Midwest,KS
+42,685,118,14.8,11.7,18.5,2017,Self-reported depression during pregnancy,Kentucky,Kentucky,South,KY
+43,883,132,14.6,12.2,17.3,2017,Self-reported depression during pregnancy,Louisiana,Louisiana,South,LA
+44,858,156,15.9,13.2,18.9,2017,Self-reported depression during pregnancy,Maine,Maine,Northeast,ME
+45,1040,113,11.7,9.6,14.4,2017,Self-reported depression during pregnancy,Maryland,Maryland,South,MD
+46,1391,160,12.3,10.2,14.8,2017,Self-reported depression during pregnancy,Massachusetts,Massachusetts,Northeast,MA
+47,1869,274,14.2,12.2,16.5,2017,Self-reported depression during pregnancy,Michigan,Michigan,Midwest,MI
+48,1079,193,17.2,14.7,19.9,2017,Self-reported depression during pregnancy,Missouri,Missouri,Midwest,MO
+49,934,155,16.9,14.6,19.4,2017,Self-reported depression during pregnancy,Montana,Montana,West,MT
+50,574,95,15.9,12.4,20.1,2017,Self-reported depression during pregnancy,New Hampshire,New Hampshire,Northeast,NH
+51,1238,97,6.4,5.1,7.9,2017,Self-reported depression during pregnancy,New Jersey,New Jersey,Northeast,NJ
+52,1168,127,10.8,9.1,12.8,2017,Self-reported depression during pregnancy,New Mexico,New Mexico,West,NM
+53,973,137,13.7,11.4,16.6,2017,Self-reported depression during pregnancy,North Carolina,North Carolina,South,NC
+54,587,94,14.5,11.4,18.2,2017,Self-reported depression during pregnancy,North Dakota,North Dakota,Midwest,ND
+55,1612,250,14.6,12.2,17.4,2017,Self-reported depression during pregnancy,Oklahoma,Oklahoma,South,OK
+56,1212,193,14.0,11.8,16.5,2017,Self-reported depression during pregnancy,Pennsylvania,Pennsylvania,Northeast,PA
+57,1078,160,15.9,13.5,18.6,2017,Self-reported depression during pregnancy,Rhode Island,Rhode Island,Northeast,RI
+58,1103,185,14.9,12.7,17.4,2017,Self-reported depression during pregnancy,South Dakota,South Dakota,Midwest,SD
+59,1434,275,17.2,14.9,19.8,2017,Self-reported depression during pregnancy,Utah,Utah,West,UT
+60,833,120,15.1,12.7,17.8,2017,Self-reported depression during pregnancy,Vermont,Vermont,Northeast,VT
+61,1055,125,8.9,6.5,12.2,2017,Self-reported depression during pregnancy,Virginia,Virginia,South,VA
+62,1215,133,11.3,9.2,13.7,2017,Self-reported depression during pregnancy,Washington,Washington,West,WA
+63,692,146,18.6,15.4,22.2,2017,Self-reported depression during pregnancy,West Virginia,West Virginia,South,WV
+64,1301,246,14.2,11.6,17.1,2017,Self-reported depression during pregnancy,Wisconsin,Wisconsin,Midwest,WI
+65,492,85,15.3,12.0,19.4,2017,Self-reported depression during pregnancy,Wyoming,Wyoming,West,WY
+66,854,164,19.9,17.2,22.9,2017,Self-reported postpartum depressive symptomsâ¡,Alabama,Alabama,South,AL
+67,1018,150,13.4,11.1,16.2,2017,Self-reported postpartum depressive symptomsâ¡,Alaska,Alaska,West,AK
+68,1117,119,11.4,9.4,13.6,2017,Self-reported postpartum depressive symptomsâ¡,Colorado,Colorado,West,CO
+69,1430,204,12.7,10.7,15.1,2017,Self-reported postpartum depressive symptomsâ¡,Connecticut,Connecticut,Northeast,CT
+70,868,108,11.7,9.7,14.1,2017,Self-reported postpartum depressive symptomsâ¡,Delaware,Delaware,South,DE
+71,935,129,12.4,9.7,15.8,2017,Self-reported postpartum depressive symptomsâ¡,Georgia,Georgia,South,GA
+72,1206,125,9.3,7.7,11.3,2017,Self-reported postpartum depressive symptomsâ¡,Illinois,Illinois,Midwest,IL
+73,1002,96,7.4,5.3,10.2,2017,Self-reported postpartum depressive symptomsâ¡,Iowa,Iowa,Midwest,IA
+74,975,139,12.4,9.9,15.4,2017,Self-reported postpartum depressive symptomsâ¡,Kansas,Kansas,Midwest,KS
+75,683,113,14.0,11.1,17.6,2017,Self-reported postpartum depressive symptomsâ¡,Kentucky,Kentucky,South,KY
+76,886,145,15.2,12.8,17.8,2017,Self-reported postpartum depressive symptomsâ¡,Louisiana,Louisiana,South,LA
+77,860,109,13.4,11.0,16.4,2017,Self-reported postpartum depressive symptomsâ¡,Maine,Maine,Northeast,ME
+78,1030,124,12.4,10.2,15.0,2017,Self-reported postpartum depressive symptomsâ¡,Maryland,Maryland,South,MD
+79,1391,180,10.8,8.9,12.9,2017,Self-reported postpartum depressive symptomsâ¡,Massachusetts,Massachusetts,Northeast,MA
+80,1820,288,12.9,11.1,15.0,2017,Self-reported postpartum depressive symptomsâ¡,Michigan,Michigan,Midwest,MI
+81,1091,168,13.9,11.7,16.5,2017,Self-reported postpartum depressive symptomsâ¡,Missouri,Missouri,Midwest,MO
+82,923,141,15.0,12.8,17.5,2017,Self-reported postpartum depressive symptomsâ¡,Montana,Montana,West,MT
+83,576,96,16.2,12.6,20.5,2017,Self-reported postpartum depressive symptomsâ¡,New Hampshire,New Hampshire,Northeast,NH
+84,1212,176,13.2,11.3,15.3,2017,Self-reported postpartum depressive symptomsâ¡,New Jersey,New Jersey,Northeast,NJ
+85,1158,149,12.9,11.0,15.0,2017,Self-reported postpartum depressive symptomsâ¡,New Mexico,New Mexico,West,NM
+86,974,126,11.7,9.5,14.2,2017,Self-reported postpartum depressive symptomsâ¡,North Carolina,North Carolina,South,NC
+87,575,78,9.9,7.3,13.1,2017,Self-reported postpartum depressive symptomsâ¡,North Dakota,North Dakota,Midwest,ND
+88,1609,221,15.0,12.5,17.9,2017,Self-reported postpartum depressive symptomsâ¡,Oklahoma,Oklahoma,South,OK
+89,1199,153,10.6,8.7,12.8,2017,Self-reported postpartum depressive symptomsâ¡,Pennsylvania,Pennsylvania,Northeast,PA
+90,1082,139,13.6,11.4,16.2,2017,Self-reported postpartum depressive symptomsâ¡,Rhode Island,Rhode Island,Northeast,RI
+91,1098,190,14.3,12.2,16.8,2017,Self-reported postpartum depressive symptomsâ¡,South Dakota,South Dakota,Midwest,SD
+92,1410,233,15.3,13.0,17.8,2017,Self-reported postpartum depressive symptomsâ¡,Utah,Utah,West,UT
+93,831,92,11.5,9.4,14.0,2017,Self-reported postpartum depressive symptomsâ¡,Vermont,Vermont,Northeast,VT
+94,1064,112,12.4,9.4,16.2,2017,Self-reported postpartum depressive symptomsâ¡,Virginia,Virginia,South,VA
+95,1193,138,11.3,9.3,13.8,2017,Self-reported postpartum depressive symptomsâ¡,Washington,Washington,West,WA
+96,673,99,12.4,9.8,15.6,2017,Self-reported postpartum depressive symptomsâ¡,West Virginia,West Virginia,South,WV
+97,1267,204,11.7,9.4,14.4,2017,Self-reported postpartum depressive symptomsâ¡,Wisconsin,Wisconsin,Midwest,WI
+98,491,60,12.7,9.6,16.7,2017,Self-reported postpartum depressive symptomsâ¡,Wyoming,Wyoming,West,WY
+99,801,134,17.3,14.7,20.2,2018,Self-reported depression in the 3 months before pregnancy,Alabama,Alabama,South,AL
+100,1010,134,12.3,10.1,14.9,2018,Self-reported depression in the 3 months before pregnancy,Alaska,Alaska,West,AK
+101,892,186,20.5,16.6,25.1,2018,Self-reported depression in the 3 months before pregnancy,Arkansas,Arkansas,South,AR
+102,1112,158,14.0,11.7,16.6,2018,Self-reported depression in the 3 months before pregnancy,Colorado,Colorado,West,CO
+103,1432,125,10.5,8.3,13.3,2018,Self-reported depression in the 3 months before pregnancy,Connecticut,Connecticut,Northeast,CT
+104,846,144,15.6,13.2,18.4,2018,Self-reported depression in the 3 months before pregnancy,Delaware,Delaware,South,DE
+105,769,100,12.1,9.4,15.4,2018,Self-reported depression in the 3 months before pregnancy,Georgia,Georgia,South,GA
+106,1306,159,12.3,10.5,14.4,2018,Self-reported depression in the 3 months before pregnancy,Illinois,Illinois,Midwest,IL
+107,857,152,22.2,18.6,26.3,2018,Self-reported depression in the 3 months before pregnancy,Indiana,Indiana,Midwest,IN
+108,849,101,16.9,13.1,21.5,2018,Self-reported depression in the 3 months before pregnancy,Iowa,Iowa,Midwest,IA
+109,972,191,18.5,15.5,21.9,2018,Self-reported depression in the 3 months before pregnancy,Kansas,Kansas,Midwest,KS
+110,741,162,22.5,18.7,26.8,2018,Self-reported depression in the 3 months before pregnancy,Kentucky,Kentucky,South,KY
+111,846,113,13.2,10.9,15.9,2018,Self-reported depression in the 3 months before pregnancy,Louisiana,Louisiana,South,LA
+112,808,170,20.4,17.3,24.1,2018,Self-reported depression in the 3 months before pregnancy,Maine,Maine,Northeast,ME
+113,1024,141,13.1,10.7,15.8,2018,Self-reported depression in the 3 months before pregnancy,Maryland,Maryland,South,MD
+114,1414,165,13.8,11.6,16.4,2018,Self-reported depression in the 3 months before pregnancy,Massachusetts,Massachusetts,Northeast,MA
+115,1850,296,15.6,13.5,17.9,2018,Self-reported depression in the 3 months before pregnancy,Michigan,Michigan,Midwest,MI
+116,1263,254,17.5,15.1,20.1,2018,Self-reported depression in the 3 months before pregnancy,Minnesota,Minnesota,Midwest,MN
+117,1205,205,16.4,14.0,19.2,2018,Self-reported depression in the 3 months before pregnancy,Mississippi,Mississippi,South,MS
+118,932,181,20.3,17.4,23.4,2018,Self-reported depression in the 3 months before pregnancy,Missouri,Missouri,Midwest,MO
+119,803,151,18.9,16.3,21.7,2018,Self-reported depression in the 3 months before pregnancy,Montana,Montana,West,MT
+120,1329,162,13.4,10.8,16.4,2018,Self-reported depression in the 3 months before pregnancy,Nebraska,Nebraska,Midwest,NE
+121,583,97,15.8,12.6,19.8,2018,Self-reported depression in the 3 months before pregnancy,New Hampshire,New Hampshire,Northeast,NH
+122,1181,97,7.2,5.8,9.0,2018,Self-reported depression in the 3 months before pregnancy,New Jersey,New Jersey,Northeast,NJ
+123,1210,157,12.8,11.0,14.8,2018,Self-reported depression in the 3 months before pregnancy,New Mexico,New Mexico,West,NM
+124,911,126,11.5,9.3,14.0,2018,Self-reported depression in the 3 months before pregnancy,North Carolina,North Carolina,South,NC
+125,877,174,19.0,16.0,22.4,2018,Self-reported depression in the 3 months before pregnancy,North Dakota,North Dakota,Midwest,ND
+126,1372,215,17.2,14.4,20.4,2018,Self-reported depression in the 3 months before pregnancy,Oklahoma,Oklahoma,South,OK
+127,1604,220,15.2,12.4,18.6,2018,Self-reported depression in the 3 months before pregnancy,Oregon,Oregon,West,OR
+128,959,171,18.3,15.5,21.4,2018,Self-reported depression in the 3 months before pregnancy,Pennsylvania,Pennsylvania,Northeast,PA
+129,1095,152,12.6,10.6,15.1,2018,Self-reported depression in the 3 months before pregnancy,Rhode Island,Rhode Island,Northeast,RI
+130,1011,160,15.5,13.1,18.3,2018,Self-reported depression in the 3 months before pregnancy,South Dakota,South Dakota,Midwest,SD
+131,1229,271,20.3,17.7,23.2,2018,Self-reported depression in the 3 months before pregnancy,Utah,Utah,West,UT
+132,875,201,24.2,21.3,27.3,2018,Self-reported depression in the 3 months before pregnancy,Vermont,Vermont,Northeast,VT
+133,1140,134,12.0,9.2,15.6,2018,Self-reported depression in the 3 months before pregnancy,Virginia,Virginia,South,VA
+134,1135,133,12.6,10.3,15.4,2018,Self-reported depression in the 3 months before pregnancy,Washington,Washington,West,WA
+135,684,184,23.1,19.6,27.1,2018,Self-reported depression in the 3 months before pregnancy,West Virginia,West Virginia,South,WV
+136,1040,196,17.7,14.6,21.3,2018,Self-reported depression in the 3 months before pregnancy,Wisconsin,Wisconsin,Midwest,WI
+137,543,98,15.3,12.1,19.3,2018,Self-reported depression in the 3 months before pregnancy,Wyoming,Wyoming,West,WY
+138,784,123,16.4,13.9,19.3,2018,Self-reported depression during pregnancy,Alabama,Alabama,South,AL
+139,996,147,14.6,12.2,17.4,2018,Self-reported depression during pregnancy,Alaska,Alaska,West,AK
+140,876,179,19.6,15.8,24.1,2018,Self-reported depression during pregnancy,Arkansas,Arkansas,South,AR
+141,1115,136,12.6,10.4,15.2,2018,Self-reported depression during pregnancy,Colorado,Colorado,West,CO
+142,1401,133,10.5,8.3,13.1,2018,Self-reported depression during pregnancy,Connecticut,Connecticut,Northeast,CT
+143,826,140,15.7,13.3,18.6,2018,Self-reported depression during pregnancy,Delaware,Delaware,South,DE
+144,764,99,12.4,9.7,15.8,2018,Self-reported depression during pregnancy,Georgia,Georgia,South,GA
+145,1294,148,11.1,9.3,13.1,2018,Self-reported depression during pregnancy,Illinois,Illinois,Midwest,IL
+146,848,151,20.9,17.4,24.9,2018,Self-reported depression during pregnancy,Indiana,Indiana,Midwest,IN
+147,829,101,15.2,11.6,19.7,2018,Self-reported depression during pregnancy,Iowa,Iowa,Midwest,IA
+148,964,184,18.6,15.5,22.2,2018,Self-reported depression during pregnancy,Kansas,Kansas,Midwest,KS
+149,741,172,20.5,16.9,24.6,2018,Self-reported depression during pregnancy,Kentucky,Kentucky,South,KY
+150,840,118,13.4,11.1,16.1,2018,Self-reported depression during pregnancy,Louisiana,Louisiana,South,LA
+151,810,146,18.0,14.9,21.5,2018,Self-reported depression during pregnancy,Maine,Maine,Northeast,ME
+152,1018,153,14.4,11.9,17.3,2018,Self-reported depression during pregnancy,Maryland,Maryland,South,MD
+153,1409,157,12.3,10.2,14.8,2018,Self-reported depression during pregnancy,Massachusetts,Massachusetts,Northeast,MA
+154,1840,320,15.6,13.6,17.9,2018,Self-reported depression during pregnancy,Michigan,Michigan,Midwest,MI
+155,1251,237,16.3,14.0,18.9,2018,Self-reported depression during pregnancy,Minnesota,Minnesota,Midwest,MN
+156,1183,196,14.9,12.6,17.6,2018,Self-reported depression during pregnancy,Mississippi,Mississippi,South,MS
+157,906,174,19.7,16.9,22.9,2018,Self-reported depression during pregnancy,Missouri,Missouri,Midwest,MO
+158,806,139,16.9,14.5,19.6,2018,Self-reported depression during pregnancy,Montana,Montana,West,MT
+159,1310,177,15.3,12.6,18.6,2018,Self-reported depression during pregnancy,Nebraska,Nebraska,Midwest,NE
+160,578,84,13.5,10.4,17.3,2018,Self-reported depression during pregnancy,New Hampshire,New Hampshire,Northeast,NH
+161,1176,79,5.9,4.6,7.4,2018,Self-reported depression during pregnancy,New Jersey,New Jersey,Northeast,NJ
+162,1200,158,13.4,11.5,15.5,2018,Self-reported depression during pregnancy,New Mexico,New Mexico,West,NM
+163,895,126,12.5,10.1,15.3,2018,Self-reported depression during pregnancy,North Carolina,North Carolina,South,NC
+164,867,148,15.6,12.8,18.8,2018,Self-reported depression during pregnancy,North Dakota,North Dakota,Midwest,ND
+165,1371,226,16.8,14.1,19.8,2018,Self-reported depression during pregnancy,Oklahoma,Oklahoma,South,OK
+166,1587,230,13.5,10.9,16.6,2018,Self-reported depression during pregnancy,Oregon,Oregon,West,OR
+167,948,158,17.2,14.5,20.3,2018,Self-reported depression during pregnancy,Pennsylvania,Pennsylvania,Northeast,PA
+168,1068,151,13.2,11.1,15.8,2018,Self-reported depression during pregnancy,Rhode Island,Rhode Island,Northeast,RI
+169,996,161,16.7,14.1,19.7,2018,Self-reported depression during pregnancy,South Dakota,South Dakota,Midwest,SD
+170,1238,267,19.4,16.8,22.2,2018,Self-reported depression during pregnancy,Utah,Utah,West,UT
+171,859,168,20.2,17.5,23.2,2018,Self-reported depression during pregnancy,Vermont,Vermont,Northeast,VT
+172,1134,142,10.7,8.0,14.2,2018,Self-reported depression during pregnancy,Virginia,Virginia,South,VA
+173,1119,133,11.8,9.6,14.5,2018,Self-reported depression during pregnancy,Washington,Washington,West,WA
+174,682,149,18.2,15.0,21.8,2018,Self-reported depression during pregnancy,West Virginia,West Virginia,South,WV
+175,1019,182,13.9,11.2,17.2,2018,Self-reported depression during pregnancy,Wisconsin,Wisconsin,Midwest,WI
+176,541,94,15.7,12.4,19.6,2018,Self-reported depression during pregnancy,Wyoming,Wyoming,West,WY
+177,785,132,17.3,14.7,20.2,2018,Self-reported postpartum depressive symptomsâ¡,Alabama,Alabama,South,AL
+178,974,163,14.8,12.4,17.5,2018,Self-reported postpartum depressive symptomsâ¡,Alaska,Alaska,West,AK
+179,871,196,21.0,16.9,25.7,2018,Self-reported postpartum depressive symptomsâ¡,Arkansas,Arkansas,South,AR
+180,1117,124,11.1,9.0,13.5,2018,Self-reported postpartum depressive symptomsâ¡,Colorado,Colorado,West,CO
+181,1380,204,11.7,9.7,13.9,2018,Self-reported postpartum depressive symptomsâ¡,Connecticut,Connecticut,Northeast,CT
+182,824,122,13.1,10.9,15.7,2018,Self-reported postpartum depressive symptomsâ¡,Delaware,Delaware,South,DE
+183,752,116,13.6,10.7,17.1,2018,Self-reported postpartum depressive symptomsâ¡,Georgia,Georgia,South,GA
+184,1298,144,9.7,8.1,11.5,2018,Self-reported postpartum depressive symptomsâ¡,Illinois,Illinois,Midwest,IL
+185,855,160,18.1,14.9,21.8,2018,Self-reported postpartum depressive symptomsâ¡,Indiana,Indiana,Midwest,IN
+186,811,79,9.5,6.7,13.3,2018,Self-reported postpartum depressive symptomsâ¡,Iowa,Iowa,Midwest,IA
+187,958,136,14.7,11.9,18.0,2018,Self-reported postpartum depressive symptomsâ¡,Kansas,Kansas,Midwest,KS
+188,738,139,14.0,11.0,17.6,2018,Self-reported postpartum depressive symptomsâ¡,Kentucky,Kentucky,South,KY
+189,844,131,15.9,13.4,18.8,2018,Self-reported postpartum depressive symptomsâ¡,Louisiana,Louisiana,South,LA
+190,812,101,10.9,8.5,13.8,2018,Self-reported postpartum depressive symptomsâ¡,Maine,Maine,Northeast,ME
+191,1024,174,16.1,13.5,19.2,2018,Self-reported postpartum depressive symptomsâ¡,Maryland,Maryland,South,MD
+192,1412,172,10.3,8.5,12.3,2018,Self-reported postpartum depressive symptomsâ¡,Massachusetts,Massachusetts,Northeast,MA
+193,1790,348,16.4,14.4,18.7,2018,Self-reported postpartum depressive symptomsâ¡,Michigan,Michigan,Midwest,MI
+194,1262,151,10.6,8.7,12.8,2018,Self-reported postpartum depressive symptomsâ¡,Minnesota,Minnesota,Midwest,MN
+195,1169,292,23.5,20.6,26.7,2018,Self-reported postpartum depressive symptomsâ¡,Mississippi,Mississippi,South,MS
+196,921,133,13.7,11.3,16.5,2018,Self-reported postpartum depressive symptomsâ¡,Missouri,Missouri,Midwest,MO
+197,793,110,14.2,12.0,16.9,2018,Self-reported postpartum depressive symptomsâ¡,Montana,Montana,West,MT
+198,1293,191,12.1,9.7,14.9,2018,Self-reported postpartum depressive symptomsâ¡,Nebraska,Nebraska,Midwest,NE
+199,582,77,11.9,9.1,15.4,2018,Self-reported postpartum depressive symptomsâ¡,New Hampshire,New Hampshire,Northeast,NH
+200,1151,143,11.2,9.4,13.2,2018,Self-reported postpartum depressive symptomsâ¡,New Jersey,New Jersey,Northeast,NJ
+201,1194,176,15.3,13.3,17.5,2018,Self-reported postpartum depressive symptomsâ¡,New Mexico,New Mexico,West,NM
+202,903,117,11.8,9.5,14.6,2018,Self-reported postpartum depressive symptomsâ¡,North Carolina,North Carolina,South,NC
+203,865,114,11.7,9.3,14.6,2018,Self-reported postpartum depressive symptomsâ¡,North Dakota,North Dakota,Midwest,ND
+204,1377,213,15.8,13.2,18.8,2018,Self-reported postpartum depressive symptomsâ¡,Oklahoma,Oklahoma,South,OK
+205,1564,192,8.0,6.3,10.1,2018,Self-reported postpartum depressive symptomsâ¡,Oregon,Oregon,West,OR
+206,934,133,14.7,12.2,17.6,2018,Self-reported postpartum depressive symptomsâ¡,Pennsylvania,Pennsylvania,Northeast,PA
+207,1061,135,12.3,10.1,14.8,2018,Self-reported postpartum depressive symptomsâ¡,Rhode Island,Rhode Island,Northeast,RI
+208,995,156,13.0,10.9,15.5,2018,Self-reported postpartum depressive symptomsâ¡,South Dakota,South Dakota,Midwest,SD
+209,1222,213,14.7,12.5,17.2,2018,Self-reported postpartum depressive symptomsâ¡,Utah,Utah,West,UT
+210,848,99,10.7,8.7,13.1,2018,Self-reported postpartum depressive symptomsâ¡,Vermont,Vermont,Northeast,VT
+211,1126,137,13.5,10.5,17.2,2018,Self-reported postpartum depressive symptomsâ¡,Virginia,Virginia,South,VA
+212,1100,150,11.4,9.4,13.7,2018,Self-reported postpartum depressive symptomsâ¡,Washington,Washington,West,WA
+213,681,140,19.4,16.1,23.2,2018,Self-reported postpartum depressive symptomsâ¡,West Virginia,West Virginia,South,WV
+214,988,159,10.5,8.3,13.2,2018,Self-reported postpartum depressive symptomsâ¡,Wisconsin,Wisconsin,Midwest,WI
+215,538,88,15.7,12.3,19.8,2018,Self-reported postpartum depressive symptomsâ¡,Wyoming,Wyoming,West,WY
+216,793,122,15.8,13.4,18.6,2019,Self-reported depression in the 3 months before pregnancy,Alabama,Alabama,South,AL
+217,1072,167,14.0,11.8,16.5,2019,Self-reported depression in the 3 months before pregnancy,Alaska,Alaska,West,AK
+218,957,200,22.9,18.8,27.6,2019,Self-reported depression in the 3 months before pregnancy,Arkansas,Arkansas,South,AR
+219,1083,136,12.2,10.1,14.8,2019,Self-reported depression in the 3 months before pregnancy,Colorado,Colorado,West,CO
+220,1194,122,12.2,9.9,15.0,2019,Self-reported depression in the 3 months before pregnancy,Connecticut,Connecticut,Northeast,CT
+221,927,164,16.8,14.4,19.5,2019,Self-reported depression in the 3 months before pregnancy,Delaware,Delaware,South,DE
+222,1045,132,13.3,10.8,16.2,2019,Self-reported depression in the 3 months before pregnancy,Florida,Florida,South,FL
+223,787,96,11.3,8.8,14.4,2019,Self-reported depression in the 3 months before pregnancy,Georgia,Georgia,South,GA
+224,624,61,10.1,7.2,14.1,2019,Self-reported depression in the 3 months before pregnancy,Hawaii,Hawaii,West,HI
+225,1233,144,11.9,10.0,14.1,2019,Self-reported depression in the 3 months before pregnancy,Illinois,Illinois,Midwest,IL
+226,845,133,19.2,15.2,24.0,2019,Self-reported depression in the 3 months before pregnancy,Iowa,Iowa,Midwest,IA
+227,1000,212,20.9,17.8,24.4,2019,Self-reported depression in the 3 months before pregnancy,Kansas,Kansas,Midwest,KS
+228,901,180,20.5,17.2,24.3,2019,Self-reported depression in the 3 months before pregnancy,Kentucky,Kentucky,South,KY
+229,1068,157,16.3,13.7,19.3,2019,Self-reported depression in the 3 months before pregnancy,Louisiana,Louisiana,South,LA
+230,820,221,26.0,22.6,29.7,2019,Self-reported depression in the 3 months before pregnancy,Maine,Maine,Northeast,ME
+231,939,130,13.1,10.7,16.0,2019,Self-reported depression in the 3 months before pregnancy,Maryland,Maryland,South,MD
+232,1667,193,13.5,11.4,15.9,2019,Self-reported depression in the 3 months before pregnancy,Massachusetts,Massachusetts,Northeast,MA
+233,1374,225,18.8,16.2,21.6,2019,Self-reported depression in the 3 months before pregnancy,Michigan,Michigan,Midwest,MI
+234,1038,200,15.3,12.6,18.5,2019,Self-reported depression in the 3 months before pregnancy,Minnesota,Minnesota,Midwest,MN
+235,1256,241,18.9,16.4,21.7,2019,Self-reported depression in the 3 months before pregnancy,Mississippi,Mississippi,South,MS
+236,1600,281,19.6,17.1,22.3,2019,Self-reported depression in the 3 months before pregnancy,Missouri,Missouri,Midwest,MO
+237,724,166,25.0,21.9,28.5,2019,Self-reported depression in the 3 months before pregnancy,Montana,Montana,West,MT
+238,1622,225,17.2,14.6,20.1,2019,Self-reported depression in the 3 months before pregnancy,Nebraska,Nebraska,Midwest,NE
+239,657,128,17.1,13.8,21.1,2019,Self-reported depression in the 3 months before pregnancy,New Hampshire,New Hampshire,Northeast,NH
+240,1108,75,6.2,4.8,7.9,2019,Self-reported depression in the 3 months before pregnancy,New Jersey,New Jersey,Northeast,NJ
+241,1140,168,16.3,14.1,18.7,2019,Self-reported depression in the 3 months before pregnancy,New Mexico,New Mexico,West,NM
+242,867,139,15.3,12.6,18.4,2019,Self-reported depression in the 3 months before pregnancy,North Carolina,North Carolina,South,NC
+243,753,142,16.6,13.6,20.1,2019,Self-reported depression in the 3 months before pregnancy,North Dakota,North Dakota,Midwest,ND
+244,2441,395,17.1,14.8,19.7,2019,Self-reported depression in the 3 months before pregnancy,Oregon,Oregon,West,OR
+245,1131,184,17.1,13.8,21.0,2019,Self-reported depression in the 3 months before pregnancy,Pennsylvania,Pennsylvania,Northeast,PA
+246,984,160,14.7,12.4,17.4,2019,Self-reported depression in the 3 months before pregnancy,Rhode Island,Rhode Island,Northeast,RI
+247,1012,200,20.0,17.4,23.0,2019,Self-reported depression in the 3 months before pregnancy,South Dakota,South Dakota,Midwest,SD
+248,658,130,17.3,13.7,21.7,2019,Self-reported depression in the 3 months before pregnancy,Tennessee,Tennessee,South,TN
+249,1696,323,17.6,15.4,20.0,2019,Self-reported depression in the 3 months before pregnancy,Utah,Utah,West,UT
+250,781,151,20.1,17.3,23.3,2019,Self-reported depression in the 3 months before pregnancy,Vermont,Vermont,Northeast,VT
+251,981,140,16.5,12.9,20.8,2019,Self-reported depression in the 3 months before pregnancy,Virginia,Virginia,South,VA
+252,1178,161,14.1,11.8,16.7,2019,Self-reported depression in the 3 months before pregnancy,Washington,Washington,West,WA
+253,841,180,22.2,18.6,26.3,2019,Self-reported depression in the 3 months before pregnancy,Wisconsin,Wisconsin,Midwest,WI
+254,489,107,21.1,17.1,25.9,2019,Self-reported depression in the 3 months before pregnancy,Wyoming,Wyoming,West,WY
+255,781,118,15.9,13.4,18.7,2019,Self-reported depression during pregnancy,Alabama,Alabama,South,AL
+256,1060,167,13.8,11.7,16.3,2019,Self-reported depression during pregnancy,Alaska,Alaska,West,AK
+257,955,215,22.9,18.8,27.5,2019,Self-reported depression during pregnancy,Arkansas,Arkansas,South,AR
+258,1083,134,12.5,10.3,15.1,2019,Self-reported depression during pregnancy,Colorado,Colorado,West,CO
+259,1184,135,11.8,9.6,14.4,2019,Self-reported depression during pregnancy,Connecticut,Connecticut,Northeast,CT
+260,915,159,17.5,15.0,20.3,2019,Self-reported depression during pregnancy,Delaware,Delaware,South,DE
+261,1032,145,12.3,10.1,15.0,2019,Self-reported depression during pregnancy,Florida,Florida,South,FL
+262,783,97,10.1,7.8,13.0,2019,Self-reported depression during pregnancy,Georgia,Georgia,South,GA
+263,615,56,8.4,5.8,12.1,2019,Self-reported depression during pregnancy,Hawaii,Hawaii,West,HI
+264,1217,169,13.8,11.8,16.1,2019,Self-reported depression during pregnancy,Illinois,Illinois,Midwest,IL
+265,823,138,18.0,14.2,22.6,2019,Self-reported depression during pregnancy,Iowa,Iowa,Midwest,IA
+266,991,205,20.9,17.7,24.5,2019,Self-reported depression during pregnancy,Kansas,Kansas,Midwest,KS
+267,898,188,20.2,16.9,24.0,2019,Self-reported depression during pregnancy,Kentucky,Kentucky,South,KY
+268,1065,160,15.4,12.9,18.3,2019,Self-reported depression during pregnancy,Louisiana,Louisiana,South,LA
+269,818,181,19.9,16.8,23.3,2019,Self-reported depression during pregnancy,Maine,Maine,Northeast,ME
+270,937,129,12.6,10.3,15.4,2019,Self-reported depression during pregnancy,Maryland,Maryland,South,MD
+271,1670,197,13.1,11.1,15.5,2019,Self-reported depression during pregnancy,Massachusetts,Massachusetts,Northeast,MA
+272,1366,235,17.0,14.6,19.8,2019,Self-reported depression during pregnancy,Michigan,Michigan,Midwest,MI
+273,1043,212,14.9,12.4,17.7,2019,Self-reported depression during pregnancy,Minnesota,Minnesota,Midwest,MN
+274,1239,234,17.6,15.1,20.3,2019,Self-reported depression during pregnancy,Mississippi,Mississippi,South,MS
+275,1574,273,19.3,16.8,22.0,2019,Self-reported depression during pregnancy,Missouri,Missouri,Midwest,MO
+276,722,154,23.0,20.0,26.4,2019,Self-reported depression during pregnancy,Montana,Montana,West,MT
+277,1593,256,18.4,15.8,21.4,2019,Self-reported depression during pregnancy,Nebraska,Nebraska,Midwest,NE
+278,651,118,17.3,13.8,21.4,2019,Self-reported depression during pregnancy,New Hampshire,New Hampshire,Northeast,NH
+279,1093,75,6.0,4.7,7.7,2019,Self-reported depression during pregnancy,New Jersey,New Jersey,Northeast,NJ
+280,1135,165,15.8,13.7,18.2,2019,Self-reported depression during pregnancy,New Mexico,New Mexico,West,NM
+281,859,125,15.1,12.4,18.3,2019,Self-reported depression during pregnancy,North Carolina,North Carolina,South,NC
+282,759,149,18.5,15.3,22.3,2019,Self-reported depression during pregnancy,North Dakota,North Dakota,Midwest,ND
+283,2402,421,17.9,15.6,20.6,2019,Self-reported depression during pregnancy,Oregon,Oregon,West,OR
+284,1109,192,18.2,14.7,22.3,2019,Self-reported depression during pregnancy,Pennsylvania,Pennsylvania,Northeast,PA
+285,965,156,14.9,12.5,17.7,2019,Self-reported depression during pregnancy,Rhode Island,Rhode Island,Northeast,RI
+286,997,184,18.1,15.6,21.0,2019,Self-reported depression during pregnancy,South Dakota,South Dakota,Midwest,SD
+287,648,126,16.8,13.2,21.3,2019,Self-reported depression during pregnancy,Tennessee,Tennessee,South,TN
+288,1703,342,18.8,16.5,21.3,2019,Self-reported depression during pregnancy,Utah,Utah,West,UT
+289,769,141,19.0,16.2,22.1,2019,Self-reported depression during pregnancy,Vermont,Vermont,Northeast,VT
+290,964,148,17.3,13.6,21.7,2019,Self-reported depression during pregnancy,Virginia,Virginia,South,VA
+291,1166,146,12.4,10.3,15.0,2019,Self-reported depression during pregnancy,Washington,Washington,West,WA
+292,831,171,21.0,17.4,25.0,2019,Self-reported depression during pregnancy,Wisconsin,Wisconsin,Midwest,WI
+293,488,107,22.3,18.1,27.1,2019,Self-reported depression during pregnancy,Wyoming,Wyoming,West,WY
+294,767,171,23.5,20.5,26.7,2019,Self-reported postpartum depressive symptomsâ¡,Alabama,Alabama,South,AL
+295,1033,135,12.2,10.1,14.8,2019,Self-reported postpartum depressive symptomsâ¡,Alaska,Alaska,West,AK
+296,944,215,19.1,15.4,23.4,2019,Self-reported postpartum depressive symptomsâ¡,Arkansas,Arkansas,South,AR
+297,1084,121,11.9,9.6,14.5,2019,Self-reported postpartum depressive symptomsâ¡,Colorado,Colorado,West,CO
+298,1167,154,11.1,9.1,13.4,2019,Self-reported postpartum depressive symptomsâ¡,Connecticut,Connecticut,Northeast,CT
+299,917,101,10.4,8.5,12.6,2019,Self-reported postpartum depressive symptomsâ¡,Delaware,Delaware,South,DE
+300,1000,164,13.0,10.7,15.7,2019,Self-reported postpartum depressive symptomsâ¡,Florida,Florida,South,FL
+301,777,121,14.5,11.6,18.0,2019,Self-reported postpartum depressive symptomsâ¡,Georgia,Georgia,South,GA
+302,610,77,11.1,8.0,15.2,2019,Self-reported postpartum depressive symptomsâ¡,Hawaii,Hawaii,West,HI
+303,1216,140,10.8,9.0,12.9,2019,Self-reported postpartum depressive symptomsâ¡,Illinois,Illinois,Midwest,IL
+304,814,97,10.2,7.4,13.8,2019,Self-reported postpartum depressive symptomsâ¡,Iowa,Iowa,Midwest,IA
+305,996,153,13.5,11.0,16.6,2019,Self-reported postpartum depressive symptomsâ¡,Kansas,Kansas,Midwest,KS
+306,895,133,13.9,11.1,17.3,2019,Self-reported postpartum depressive symptomsâ¡,Kentucky,Kentucky,South,KY
+307,1062,198,19.3,16.5,22.4,2019,Self-reported postpartum depressive symptomsâ¡,Louisiana,Louisiana,South,LA
+308,820,88,9.2,7.1,11.8,2019,Self-reported postpartum depressive symptomsâ¡,Maine,Maine,Northeast,ME
+309,940,148,15.6,13.0,18.7,2019,Self-reported postpartum depressive symptomsâ¡,Maryland,Maryland,South,MD
+310,1668,213,10.2,8.7,12.1,2019,Self-reported postpartum depressive symptomsâ¡,Massachusetts,Massachusetts,Northeast,MA
+311,1341,217,14.8,12.6,17.4,2019,Self-reported postpartum depressive symptomsâ¡,Michigan,Michigan,Midwest,MI
+312,1034,130,10.9,8.6,13.8,2019,Self-reported postpartum depressive symptomsâ¡,Minnesota,Minnesota,Midwest,MN
+313,1228,301,22.1,19.4,25.0,2019,Self-reported postpartum depressive symptomsâ¡,Mississippi,Mississippi,South,MS
+314,1576,221,14.6,12.5,17.1,2019,Self-reported postpartum depressive symptomsâ¡,Missouri,Missouri,Midwest,MO
+315,717,110,15.6,13.1,18.6,2019,Self-reported postpartum depressive symptomsâ¡,Montana,Montana,West,MT
+316,1585,243,12.3,10.3,14.6,2019,Self-reported postpartum depressive symptomsâ¡,Nebraska,Nebraska,Midwest,NE
+317,656,78,11.2,8.4,14.9,2019,Self-reported postpartum depressive symptomsâ¡,New Hampshire,New Hampshire,Northeast,NH
+318,1076,130,10.4,8.7,12.4,2019,Self-reported postpartum depressive symptomsâ¡,New Jersey,New Jersey,Northeast,NJ
+319,1122,146,14.1,12.0,16.4,2019,Self-reported postpartum depressive symptomsâ¡,New Mexico,New Mexico,West,NM
+320,850,107,10.7,8.5,13.4,2019,Self-reported postpartum depressive symptomsâ¡,North Carolina,North Carolina,South,NC
+321,747,125,16.1,13.0,19.7,2019,Self-reported postpartum depressive symptomsâ¡,North Dakota,North Dakota,Midwest,ND
+322,2389,325,12.7,10.8,15.0,2019,Self-reported postpartum depressive symptomsâ¡,Oregon,Oregon,West,OR
+323,1116,148,11.6,9.2,14.6,2019,Self-reported postpartum depressive symptomsâ¡,Pennsylvania,Pennsylvania,Northeast,PA
+324,959,120,11.5,9.4,14.0,2019,Self-reported postpartum depressive symptomsâ¡,Rhode Island,Rhode Island,Northeast,RI
+325,990,146,12.6,10.6,15.0,2019,Self-reported postpartum depressive symptomsâ¡,South Dakota,South Dakota,Midwest,SD
+326,642,120,15.5,11.9,20.0,2019,Self-reported postpartum depressive symptomsâ¡,Tennessee,Tennessee,South,TN
+327,1694,263,15.2,13.1,17.5,2019,Self-reported postpartum depressive symptomsâ¡,Utah,Utah,West,UT
+328,760,68,10.0,7.9,12.5,2019,Self-reported postpartum depressive symptomsâ¡,Vermont,Vermont,Northeast,VT
+329,963,115,14.6,11.3,18.7,2019,Self-reported postpartum depressive symptomsâ¡,Virginia,Virginia,South,VA
+330,1155,173,12.9,10.8,15.3,2019,Self-reported postpartum depressive symptomsâ¡,Washington,Washington,West,WA
+331,817,122,13.8,10.9,17.3,2019,Self-reported postpartum depressive symptomsâ¡,Wisconsin,Wisconsin,Midwest,WI
+332,486,78,15.3,11.9,19.6,2019,Self-reported postpartum depressive symptomsâ¡,Wyoming,Wyoming,West,WY
+333,643,88,14.3,11.8,17.4,2020,Self-reported depression in the 3 months before pregnancy,Alabama,Alabama,South,AL
+334,1025,174,15.9,13.6,18.6,2020,Self-reported depression in the 3 months before pregnancy,Alaska,Alaska,West,AK
+335,787,99,13.6,11.2,16.3,2020,Self-reported depression in the 3 months before pregnancy,Arizona,Arizona,West,AZ
+336,911,217,22.9,19.0,27.3,2020,Self-reported depression in the 3 months before pregnancy,Arkansas,Arkansas,South,AR
+337,1034,177,17.3,14.8,20.2,2020,Self-reported depression in the 3 months before pregnancy,Colorado,Colorado,West,CO
+338,1360,147,12.4,10.3,15.0,2020,Self-reported depression in the 3 months before pregnancy,Connecticut,Connecticut,Northeast,CT
+339,850,147,16.9,14.3,19.8,2020,Self-reported depression in the 3 months before pregnancy,Delaware,Delaware,South,DE
+340,1094,150,12.4,10.1,15.0,2020,Self-reported depression in the 3 months before pregnancy,Florida,Florida,South,FL
+341,692,67,9.6,7.1,12.9,2020,Self-reported depression in the 3 months before pregnancy,Georgia,Georgia,South,GA
+342,1214,111,7.7,6.0,9.8,2020,Self-reported depression in the 3 months before pregnancy,Hawaii,Hawaii,West,HI
+343,1202,164,13.1,11.1,15.4,2020,Self-reported depression in the 3 months before pregnancy,Illinois,Illinois,Midwest,IL
+344,713,101,16.3,13.1,20.3,2020,Self-reported depression in the 3 months before pregnancy,Iowa,Iowa,Midwest,IA
+345,1169,276,23.0,20.1,26.1,2020,Self-reported depression in the 3 months before pregnancy,Kansas,Kansas,Midwest,KS
+346,790,171,22.8,19.1,26.9,2020,Self-reported depression in the 3 months before pregnancy,Kentucky,Kentucky,South,KY
+347,695,97,14.0,11.5,17.0,2020,Self-reported depression in the 3 months before pregnancy,Louisiana,Louisiana,South,LA
+348,891,216,24.3,21.2,27.7,2020,Self-reported depression in the 3 months before pregnancy,Maine,Maine,Northeast,ME
+349,990,162,18.1,15.1,21.4,2020,Self-reported depression in the 3 months before pregnancy,Maryland,Maryland,South,MD
+350,1384,153,12.6,10.4,15.2,2020,Self-reported depression in the 3 months before pregnancy,Massachusetts,Massachusetts,Northeast,MA
+351,1383,267,20.0,17.6,22.8,2020,Self-reported depression in the 3 months before pregnancy,Michigan,Michigan,Midwest,MI
+352,618,177,24.7,20.3,29.7,2020,Self-reported depression in the 3 months before pregnancy,Minnesota,Minnesota,Midwest,MN
+353,1007,196,18.2,15.3,21.4,2020,Self-reported depression in the 3 months before pregnancy,Mississippi,Mississippi,South,MS
+354,961,209,21.5,18.7,24.7,2020,Self-reported depression in the 3 months before pregnancy,Missouri,Missouri,Midwest,MO
+355,704,181,23.0,19.7,26.6,2020,Self-reported depression in the 3 months before pregnancy,Montana,Montana,West,MT
+356,1482,239,18.7,16.0,21.7,2020,Self-reported depression in the 3 months before pregnancy,Nebraska,Nebraska,Midwest,NE
+357,644,140,23.1,19.3,27.5,2020,Self-reported depression in the 3 months before pregnancy,New Hampshire,New Hampshire,Northeast,NH
+358,1084,99,8.4,6.8,10.4,2020,Self-reported depression in the 3 months before pregnancy,New Jersey,New Jersey,Northeast,NJ
+359,1039,147,15.4,13.2,17.9,2020,Self-reported depression in the 3 months before pregnancy,New Mexico,New Mexico,West,NM
+360,774,160,19.5,16.1,23.3,2020,Self-reported depression in the 3 months before pregnancy,North Dakota,North Dakota,Midwest,ND
+361,1659,268,17.4,14.7,20.6,2020,Self-reported depression in the 3 months before pregnancy,Oregon,Oregon,West,OR
+362,1206,222,17.0,14.7,19.6,2020,Self-reported depression in the 3 months before pregnancy,Pennsylvania,Pennsylvania,Northeast,PA
+363,969,176,18.3,15.7,21.3,2020,Self-reported depression in the 3 months before pregnancy,South Dakota,South Dakota,Midwest,SD
+364,615,122,17.4,13.7,21.8,2020,Self-reported depression in the 3 months before pregnancy,Tennessee,Tennessee,South,TN
+365,1403,336,20.8,18.5,23.3,2020,Self-reported depression in the 3 months before pregnancy,Utah,Utah,West,UT
+366,810,202,25.0,22.0,28.2,2020,Self-reported depression in the 3 months before pregnancy,Vermont,Vermont,Northeast,VT
+367,927,124,12.4,9.5,16.1,2020,Self-reported depression in the 3 months before pregnancy,Virginia,Virginia,South,VA
+368,1226,210,16.9,14.4,19.7,2020,Self-reported depression in the 3 months before pregnancy,Washington,Washington,West,WA
+369,597,160,25.5,21.5,30.0,2020,Self-reported depression in the 3 months before pregnancy,West Virginia,West Virginia,South,WV
+370,1669,416,22.0,19.0,25.3,2020,Self-reported depression in the 3 months before pregnancy,Wisconsin,Wisconsin,Midwest,WI
+371,462,111,23.1,18.6,28.4,2020,Self-reported depression in the 3 months before pregnancy,Wyoming,Wyoming,West,WY
+372,633,84,14.3,11.7,17.3,2020,Self-reported depression during pregnancy,Alabama,Alabama,South,AL
+373,1014,171,14.6,12.4,17.1,2020,Self-reported depression during pregnancy,Alaska,Alaska,West,AK
+374,789,107,14.3,11.9,17.0,2020,Self-reported depression during pregnancy,Arizona,Arizona,West,AZ
+375,907,209,22.0,18.1,26.5,2020,Self-reported depression during pregnancy,Arkansas,Arkansas,South,AR
+376,1034,148,15.2,12.8,18.0,2020,Self-reported depression during pregnancy,Colorado,Colorado,West,CO
+377,1344,153,11.7,9.7,14.1,2020,Self-reported depression during pregnancy,Connecticut,Connecticut,Northeast,CT
+378,836,135,15.9,13.4,18.9,2020,Self-reported depression during pregnancy,Delaware,Delaware,South,DE
+379,1077,166,13.0,10.7,15.6,2020,Self-reported depression during pregnancy,Florida,Florida,South,FL
+380,689,73,10.6,8.0,14.0,2020,Self-reported depression during pregnancy,Georgia,Georgia,South,GA
+381,1203,121,9.6,7.6,12.1,2020,Self-reported depression during pregnancy,Hawaii,Hawaii,West,HI
+382,1189,159,12.8,10.8,15.0,2020,Self-reported depression during pregnancy,Illinois,Illinois,Midwest,IL
+383,701,95,15.4,12.1,19.4,2020,Self-reported depression during pregnancy,Iowa,Iowa,Midwest,IA
+384,1153,274,22.5,19.6,25.7,2020,Self-reported depression during pregnancy,Kansas,Kansas,Midwest,KS
+385,798,163,19.3,15.9,23.2,2020,Self-reported depression during pregnancy,Kentucky,Kentucky,South,KY
+386,689,99,13.5,11.1,16.3,2020,Self-reported depression during pregnancy,Louisiana,Louisiana,South,LA
+387,881,193,20.2,17.3,23.4,2020,Self-reported depression during pregnancy,Maine,Maine,Northeast,ME
+388,982,143,14.9,12.3,18.0,2020,Self-reported depression during pregnancy,Maryland,Maryland,South,MD
+389,1371,150,13.4,11.1,16.1,2020,Self-reported depression during pregnancy,Massachusetts,Massachusetts,Northeast,MA
+390,1381,276,18.9,16.5,21.5,2020,Self-reported depression during pregnancy,Michigan,Michigan,Midwest,MI
+391,615,168,22.0,17.8,26.8,2020,Self-reported depression during pregnancy,Minnesota,Minnesota,Midwest,MN
+392,989,192,17.1,14.3,20.3,2020,Self-reported depression during pregnancy,Mississippi,Mississippi,South,MS
+393,946,218,21.9,19.1,25.0,2020,Self-reported depression during pregnancy,Missouri,Missouri,Midwest,MO
+394,695,151,19.5,16.5,23.0,2020,Self-reported depression during pregnancy,Montana,Montana,West,MT
+395,1466,231,19.3,16.6,22.4,2020,Self-reported depression during pregnancy,Nebraska,Nebraska,Midwest,NE
+396,635,114,19.0,15.4,23.2,2020,Self-reported depression during pregnancy,New Hampshire,New Hampshire,Northeast,NH
+397,1083,88,7.3,5.8,9.2,2020,Self-reported depression during pregnancy,New Jersey,New Jersey,Northeast,NJ
+398,1031,145,15.6,13.4,18.1,2020,Self-reported depression during pregnancy,New Mexico,New Mexico,West,NM
+399,769,153,17.6,14.5,21.2,2020,Self-reported depression during pregnancy,North Dakota,North Dakota,Midwest,ND
+400,1645,270,17.6,14.8,20.8,2020,Self-reported depression during pregnancy,Oregon,Oregon,West,OR
+401,1183,220,17.7,15.4,20.4,2020,Self-reported depression during pregnancy,Pennsylvania,Pennsylvania,Northeast,PA
+402,962,172,17.4,14.8,20.3,2020,Self-reported depression during pregnancy,South Dakota,South Dakota,Midwest,SD
+403,607,117,16.0,12.5,20.3,2020,Self-reported depression during pregnancy,Tennessee,Tennessee,South,TN
+404,1403,362,24.1,21.6,26.8,2020,Self-reported depression during pregnancy,Utah,Utah,West,UT
+405,802,154,19.5,16.8,22.6,2020,Self-reported depression during pregnancy,Vermont,Vermont,Northeast,VT
+406,919,133,14.1,10.9,18.1,2020,Self-reported depression during pregnancy,Virginia,Virginia,South,VA
+407,1212,206,15.9,13.4,18.7,2020,Self-reported depression during pregnancy,Washington,Washington,West,WA
+408,596,148,23.0,19.2,27.4,2020,Self-reported depression during pregnancy,West Virginia,West Virginia,South,WV
+409,1655,388,19.7,16.8,22.8,2020,Self-reported depression during pregnancy,Wisconsin,Wisconsin,Midwest,WI
+410,453,107,23.8,19.2,29.2,2020,Self-reported depression during pregnancy,Wyoming,Wyoming,West,WY
+411,610,126,20.8,17.7,24.2,2020,Self-reported postpartum depressive symptomsâ¡,Alabama,Alabama,South,AL
+412,986,149,13.8,11.5,16.4,2020,Self-reported postpartum depressive symptomsâ¡,Alaska,Alaska,West,AK
+413,787,101,13.7,11.4,16.5,2020,Self-reported postpartum depressive symptomsâ¡,Arizona,Arizona,West,AZ
+414,906,215,23.2,19.2,27.7,2020,Self-reported postpartum depressive symptomsâ¡,Arkansas,Arkansas,South,AR
+415,1039,115,11.6,9.5,14.2,2020,Self-reported postpartum depressive symptomsâ¡,Colorado,Colorado,West,CO
+416,1338,171,10.4,8.7,12.5,2020,Self-reported postpartum depressive symptomsâ¡,Connecticut,Connecticut,Northeast,CT
+417,835,95,10.6,8.5,13.0,2020,Self-reported postpartum depressive symptomsâ¡,Delaware,Delaware,South,DE
+418,1053,172,15.7,13.0,18.7,2020,Self-reported postpartum depressive symptomsâ¡,Florida,Florida,South,FL
+419,678,85,8.6,6.3,11.5,2020,Self-reported postpartum depressive symptomsâ¡,Georgia,Georgia,South,GA
+420,1196,167,13.7,11.3,16.5,2020,Self-reported postpartum depressive symptomsâ¡,Hawaii,Hawaii,West,HI
+421,1191,122,10.3,8.6,12.4,2020,Self-reported postpartum depressive symptomsâ¡,Illinois,Illinois,Midwest,IL
+422,690,78,7.9,5.6,11.0,2020,Self-reported postpartum depressive symptomsâ¡,Iowa,Iowa,Midwest,IA
+423,1159,191,14.3,11.9,17.0,2020,Self-reported postpartum depressive symptomsâ¡,Kansas,Kansas,Midwest,KS
+424,788,145,13.9,11.1,17.3,2020,Self-reported postpartum depressive symptomsâ¡,Kentucky,Kentucky,South,KY
+425,685,118,16.8,14.1,19.8,2020,Self-reported postpartum depressive symptomsâ¡,Louisiana,Louisiana,South,LA
+426,872,110,11.6,9.4,14.2,2020,Self-reported postpartum depressive symptomsâ¡,Maine,Maine,Northeast,ME
+427,995,138,14.3,11.7,17.4,2020,Self-reported postpartum depressive symptomsâ¡,Maryland,Maryland,South,MD
+428,1360,169,10.0,8.2,12.3,2020,Self-reported postpartum depressive symptomsâ¡,Massachusetts,Massachusetts,Northeast,MA
+429,1348,247,16.1,14.0,18.6,2020,Self-reported postpartum depressive symptomsâ¡,Michigan,Michigan,Midwest,MI
+430,615,95,13.8,10.4,18.1,2020,Self-reported postpartum depressive symptomsâ¡,Minnesota,Minnesota,Midwest,MN
+431,985,232,21.7,18.6,25.2,2020,Self-reported postpartum depressive symptomsâ¡,Mississippi,Mississippi,South,MS
+432,957,136,13.3,11.1,16.0,2020,Self-reported postpartum depressive symptomsâ¡,Missouri,Missouri,Midwest,MO
+433,694,118,14.9,12.3,18.0,2020,Self-reported postpartum depressive symptomsâ¡,Montana,Montana,West,MT
+434,1466,213,12.1,10.1,14.5,2020,Self-reported postpartum depressive symptomsâ¡,Nebraska,Nebraska,Midwest,NE
+435,643,88,12.2,9.4,15.6,2020,Self-reported postpartum depressive symptomsâ¡,New Hampshire,New Hampshire,Northeast,NH
+436,1081,143,12.3,10.3,14.5,2020,Self-reported postpartum depressive symptomsâ¡,New Jersey,New Jersey,Northeast,NJ
+437,1017,130,14.4,12.3,16.9,2020,Self-reported postpartum depressive symptomsâ¡,New Mexico,New Mexico,West,NM
+438,761,123,14.5,11.7,18.0,2020,Self-reported postpartum depressive symptomsâ¡,North Dakota,North Dakota,Midwest,ND
+439,1632,265,15.7,13.1,18.7,2020,Self-reported postpartum depressive symptomsâ¡,Oregon,Oregon,West,OR
+440,1179,149,12.9,10.8,15.3,2020,Self-reported postpartum depressive symptomsâ¡,Pennsylvania,Pennsylvania,Northeast,PA
+441,960,131,12.6,10.5,15.2,2020,Self-reported postpartum depressive symptomsâ¡,South Dakota,South Dakota,Midwest,SD
+442,605,99,15.3,11.9,19.6,2020,Self-reported postpartum depressive symptomsâ¡,Tennessee,Tennessee,South,TN
+443,1393,231,15.1,13.1,17.4,2020,Self-reported postpartum depressive symptomsâ¡,Utah,Utah,West,UT
+444,792,94,11.9,9.7,14.5,2020,Self-reported postpartum depressive symptomsâ¡,Vermont,Vermont,Northeast,VT
+445,926,107,11.8,8.9,15.5,2020,Self-reported postpartum depressive symptomsâ¡,Virginia,Virginia,South,VA
+446,1204,168,12.2,10.1,14.7,2020,Self-reported postpartum depressive symptomsâ¡,Washington,Washington,West,WA
+447,587,89,16.0,12.7,20.0,2020,Self-reported postpartum depressive symptomsâ¡,West Virginia,West Virginia,South,WV
+448,1643,280,13.8,11.5,16.5,2020,Self-reported postpartum depressive symptomsâ¡,Wisconsin,Wisconsin,Midwest,WI
+449,453,71,14.8,11.0,19.5,2020,Self-reported postpartum depressive symptomsâ¡,Wyoming,Wyoming,West,WY
+450,695,121,18.7,15.9,22.0,2021,Self-reported depression in the 3 months before pregnancy,Alabama,Alabama,South,AL
+451,833,225,25.6,21.4,30.4,2021,Self-reported depression in the 3 months before pregnancy,Arkansas,Arkansas,South,AR
+452,1244,196,15.7,13.5,18.2,2021,Self-reported depression in the 3 months before pregnancy,Colorado,Colorado,West,CO
+453,1318,153,12.5,10.4,15.0,2021,Self-reported depression in the 3 months before pregnancy,Connecticut,Connecticut,Northeast,CT
+454,832,139,16.7,14.0,19.8,2021,Self-reported depression in the 3 months before pregnancy,Delaware,Delaware,South,DE
+455,783,126,15.6,12.6,19.3,2021,Self-reported depression in the 3 months before pregnancy,Georgia,Georgia,South,GA
+456,1337,113,9.1,7.1,11.4,2021,Self-reported depression in the 3 months before pregnancy,Hawaii,Hawaii,West,HI
+457,1117,162,14.4,12.2,16.9,2021,Self-reported depression in the 3 months before pregnancy,Illinois,Illinois,Midwest,IL
+458,1126,252,20.8,18.0,24.0,2021,Self-reported depression in the 3 months before pregnancy,Kansas,Kansas,Midwest,KS
+459,666,99,15.9,13.1,19.1,2021,Self-reported depression in the 3 months before pregnancy,Louisiana,Louisiana,South,LA
+460,783,196,24.0,20.6,27.9,2021,Self-reported depression in the 3 months before pregnancy,Maine,Maine,Northeast,ME
+461,1308,166,16.3,13.7,19.3,2021,Self-reported depression in the 3 months before pregnancy,Massachusetts,Massachusetts,Northeast,MA
+462,1363,282,20.9,18.3,23.8,2021,Self-reported depression in the 3 months before pregnancy,Michigan,Michigan,Midwest,MI
+463,623,151,18.9,14.7,23.9,2021,Self-reported depression in the 3 months before pregnancy,Minnesota,Minnesota,Midwest,MN
+464,883,178,19.0,16.1,22.5,2021,Self-reported depression in the 3 months before pregnancy,Mississippi,Mississippi,South,MS
+465,832,181,19.5,16.6,22.9,2021,Self-reported depression in the 3 months before pregnancy,Missouri,Missouri,Midwest,MO
+466,1154,268,23.1,20.5,25.9,2021,Self-reported depression in the 3 months before pregnancy,Montana,Montana,West,MT
+467,1223,203,17.3,14.6,20.4,2021,Self-reported depression in the 3 months before pregnancy,Nebraska,Nebraska,Midwest,NE
+468,925,83,7.9,6.2,9.9,2021,Self-reported depression in the 3 months before pregnancy,New Jersey,New Jersey,Northeast,NJ
+469,1054,172,16.4,14.3,18.8,2021,Self-reported depression in the 3 months before pregnancy,New Mexico,New Mexico,West,NM
+470,585,125,25.6,21.6,30.1,2021,Self-reported depression in the 3 months before pregnancy,North Dakota,North Dakota,Midwest,ND
+471,1450,283,21.0,17.9,24.5,2021,Self-reported depression in the 3 months before pregnancy,Oklahoma,Oklahoma,South,OK
+472,1858,312,19.0,16.3,22.1,2021,Self-reported depression in the 3 months before pregnancy,Oregon,Oregon,West,OR
+473,918,152,15.8,13.1,19.0,2021,Self-reported depression in the 3 months before pregnancy,Pennsylvania,Pennsylvania,Northeast,PA
+474,1015,232,21.0,18.4,24.0,2021,Self-reported depression in the 3 months before pregnancy,South Dakota,South Dakota,Midwest,SD
+475,618,136,19.9,16.5,23.8,2021,Self-reported depression in the 3 months before pregnancy,Tennessee,Tennessee,South,TN
+476,1233,332,23.2,20.6,25.9,2021,Self-reported depression in the 3 months before pregnancy,Utah,Utah,West,UT
+477,954,221,25.6,22.9,28.5,2021,Self-reported depression in the 3 months before pregnancy,Vermont,Vermont,Northeast,VT
+478,929,130,14.1,10.6,18.5,2021,Self-reported depression in the 3 months before pregnancy,Virginia,Virginia,South,VA
+479,1137,183,16.6,14.0,19.5,2021,Self-reported depression in the 3 months before pregnancy,Washington,Washington,West,WA
+480,600,153,22.8,19.0,27.1,2021,Self-reported depression in the 3 months before pregnancy,West Virginia,West Virginia,South,WV
+481,748,145,18.0,14.6,22.0,2021,Self-reported depression in the 3 months before pregnancy,Wisconsin,Wisconsin,Midwest,WI
+482,446,112,26.9,22.1,32.2,2021,Self-reported depression in the 3 months before pregnancy,Wyoming,Wyoming,West,WY
+483,683,135,20.9,17.8,24.2,2021,Self-reported depression during pregnancy,Alabama,Alabama,South,AL
+484,823,211,24.6,20.4,29.3,2021,Self-reported depression during pregnancy,Arkansas,Arkansas,South,AR
+485,1241,191,14.8,12.8,17.2,2021,Self-reported depression during pregnancy,Colorado,Colorado,West,CO
+486,1312,167,13.1,10.9,15.5,2021,Self-reported depression during pregnancy,Connecticut,Connecticut,Northeast,CT
+487,825,144,16.2,13.6,19.1,2021,Self-reported depression during pregnancy,Delaware,Delaware,South,DE
+488,776,122,16.0,12.9,19.7,2021,Self-reported depression during pregnancy,Georgia,Georgia,South,GA
+489,1342,131,9.3,7.4,11.6,2021,Self-reported depression during pregnancy,Hawaii,Hawaii,West,HI
+490,1102,158,14.7,12.5,17.3,2021,Self-reported depression during pregnancy,Illinois,Illinois,Midwest,IL
+491,1122,263,21.0,18.2,24.1,2021,Self-reported depression during pregnancy,Kansas,Kansas,Midwest,KS
+492,665,94,14.8,12.1,17.9,2021,Self-reported depression during pregnancy,Louisiana,Louisiana,South,LA
+493,782,172,22.4,19.0,26.2,2021,Self-reported depression during pregnancy,Maine,Maine,Northeast,ME
+494,1296,171,15.1,12.7,18.0,2021,Self-reported depression during pregnancy,Massachusetts,Massachusetts,Northeast,MA
+495,1357,271,19.3,16.8,22.0,2021,Self-reported depression during pregnancy,Michigan,Michigan,Midwest,MI
+496,611,139,16.6,12.7,21.4,2021,Self-reported depression during pregnancy,Minnesota,Minnesota,Midwest,MN
+497,855,167,18.8,15.8,22.3,2021,Self-reported depression during pregnancy,Mississippi,Mississippi,South,MS
+498,818,183,20.0,17.0,23.4,2021,Self-reported depression during pregnancy,Missouri,Missouri,Midwest,MO
+499,1159,241,19.6,17.3,22.2,2021,Self-reported depression during pregnancy,Montana,Montana,West,MT
+500,1196,207,18.1,15.3,21.3,2021,Self-reported depression during pregnancy,Nebraska,Nebraska,Midwest,NE
+501,929,79,7.6,6.0,9.7,2021,Self-reported depression during pregnancy,New Jersey,New Jersey,Northeast,NJ
+502,1049,167,16.5,14.3,18.9,2021,Self-reported depression during pregnancy,New Mexico,New Mexico,West,NM
+503,580,111,20.5,16.8,24.7,2021,Self-reported depression during pregnancy,North Dakota,North Dakota,Midwest,ND
+504,1453,314,22.1,19.0,25.7,2021,Self-reported depression during pregnancy,Oklahoma,Oklahoma,South,OK
+505,1840,310,16.6,14.1,19.5,2021,Self-reported depression during pregnancy,Oregon,Oregon,West,OR
+506,907,148,16.1,13.4,19.3,2021,Self-reported depression during pregnancy,Pennsylvania,Pennsylvania,Northeast,PA
+507,1009,231,20.7,18.1,23.7,2021,Self-reported depression during pregnancy,South Dakota,South Dakota,Midwest,SD
+508,614,124,17.2,14.0,21.0,2021,Self-reported depression during pregnancy,Tennessee,Tennessee,South,TN
+509,1236,338,24.5,21.9,27.4,2021,Self-reported depression during pregnancy,Utah,Utah,West,UT
+510,938,187,22.0,19.4,24.8,2021,Self-reported depression during pregnancy,Vermont,Vermont,Northeast,VT
+511,919,149,16.6,12.8,21.2,2021,Self-reported depression during pregnancy,Virginia,Virginia,South,VA
+512,1127,177,16.9,14.3,19.8,2021,Self-reported depression during pregnancy,Washington,Washington,West,WA
+513,600,157,24.0,20.1,28.4,2021,Self-reported depression during pregnancy,West Virginia,West Virginia,South,WV
+514,743,152,19.7,16.1,23.9,2021,Self-reported depression during pregnancy,Wisconsin,Wisconsin,Midwest,WI
+515,440,101,24.0,19.5,29.3,2021,Self-reported depression during pregnancy,Wyoming,Wyoming,West,WY
+516,669,121,18.7,15.8,22.0,2021,Self-reported postpartum depressive symptomsâ¡,Alabama,Alabama,South,AL
+517,814,186,19.7,15.9,24.1,2021,Self-reported postpartum depressive symptomsâ¡,Arkansas,Arkansas,South,AR
+518,1242,131,11.4,9.4,13.7,2021,Self-reported postpartum depressive symptomsâ¡,Colorado,Colorado,West,CO
+519,1310,181,11.9,10.0,14.1,2021,Self-reported postpartum depressive symptomsâ¡,Connecticut,Connecticut,Northeast,CT
+520,816,80,9.7,7.7,12.3,2021,Self-reported postpartum depressive symptomsâ¡,Delaware,Delaware,South,DE
+521,767,105,10.5,8.1,13.7,2021,Self-reported postpartum depressive symptomsâ¡,Georgia,Georgia,South,GA
+522,1319,195,14.4,12.0,17.2,2021,Self-reported postpartum depressive symptomsâ¡,Hawaii,Hawaii,West,HI
+523,1112,130,11.9,9.9,14.2,2021,Self-reported postpartum depressive symptomsâ¡,Illinois,Illinois,Midwest,IL
+524,1108,187,15.1,12.7,18.0,2021,Self-reported postpartum depressive symptomsâ¡,Kansas,Kansas,Midwest,KS
+525,660,79,12.1,9.7,15.0,2021,Self-reported postpartum depressive symptomsâ¡,Louisiana,Louisiana,South,LA
+526,777,91,12.3,9.6,15.5,2021,Self-reported postpartum depressive symptomsâ¡,Maine,Maine,Northeast,ME
+527,1292,155,10.4,8.5,12.7,2021,Self-reported postpartum depressive symptomsâ¡,Massachusetts,Massachusetts,Northeast,MA
+528,1344,244,16.5,14.2,19.0,2021,Self-reported postpartum depressive symptomsâ¡,Michigan,Michigan,Midwest,MI
+529,627,87,11.3,8.2,15.4,2021,Self-reported postpartum depressive symptomsâ¡,Minnesota,Minnesota,Midwest,MN
+530,837,187,20.8,17.6,24.4,2021,Self-reported postpartum depressive symptomsâ¡,Mississippi,Mississippi,South,MS
+531,820,110,11.9,9.6,14.7,2021,Self-reported postpartum depressive symptomsâ¡,Missouri,Missouri,Midwest,MO
+532,1131,160,13.2,11.3,15.5,2021,Self-reported postpartum depressive symptomsâ¡,Montana,Montana,West,MT
+533,1191,164,12.0,9.8,14.6,2021,Self-reported postpartum depressive symptomsâ¡,Nebraska,Nebraska,Midwest,NE
+534,914,115,10.6,8.7,12.7,2021,Self-reported postpartum depressive symptomsâ¡,New Jersey,New Jersey,Northeast,NJ
+535,1039,124,12.4,10.5,14.5,2021,Self-reported postpartum depressive symptomsâ¡,New Mexico,New Mexico,West,NM
+536,575,84,13.2,10.2,16.8,2021,Self-reported postpartum depressive symptomsâ¡,North Dakota,North Dakota,Midwest,ND
+537,1442,230,16.1,13.4,19.3,2021,Self-reported postpartum depressive symptomsâ¡,Oklahoma,Oklahoma,South,OK
+538,1804,258,12.5,10.4,15.0,2021,Self-reported postpartum depressive symptomsâ¡,Oregon,Oregon,West,OR
+539,911,113,11.6,9.3,14.5,2021,Self-reported postpartum depressive symptomsâ¡,Pennsylvania,Pennsylvania,Northeast,PA
+540,1012,143,11.1,9.2,13.3,2021,Self-reported postpartum depressive symptomsâ¡,South Dakota,South Dakota,Midwest,SD
+541,614,90,13.0,10.2,16.3,2021,Self-reported postpartum depressive symptomsâ¡,Tennessee,Tennessee,South,TN
+542,1232,222,16.5,14.3,19.0,2021,Self-reported postpartum depressive symptomsâ¡,Utah,Utah,West,UT
+543,912,80,8.7,7.1,10.8,2021,Self-reported postpartum depressive symptomsâ¡,Vermont,Vermont,Northeast,VT
+544,918,101,11.4,8.3,15.4,2021,Self-reported postpartum depressive symptomsâ¡,Virginia,Virginia,South,VA
+545,1116,137,11.6,9.5,14.1,2021,Self-reported postpartum depressive symptomsâ¡,Washington,Washington,West,WA
+546,597,78,11.5,8.7,15.1,2021,Self-reported postpartum depressive symptomsâ¡,West Virginia,West Virginia,South,WV
+547,741,117,12.0,9.3,15.4,2021,Self-reported postpartum depressive symptomsâ¡,Wisconsin,Wisconsin,Midwest,WI
+548,441,73,17.4,13.5,22.2,2021,Self-reported postpartum depressive symptomsâ¡,Wyoming,Wyoming,West,WY

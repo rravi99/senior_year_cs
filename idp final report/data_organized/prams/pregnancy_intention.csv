@@ -1,0 +1,735 @@
+,Denominator,Numerator,Weighted % ,"Lower 95%
+Confidence Interval","Upper 95%
+Confidence Interval",Year,Pregnancy Intention,Sites,State,Region,Stabr
+0,873,200,24.3,21.4,27.5,2017,Mistimed,Alabama,Alabama,South,AL
+1,1030,170,16.6,14.0,19.6,2017,Mistimed,Alaska,Alaska,West,AK
+2,1111,214,19.4,16.9,22.0,2017,Mistimed,Colorado,Colorado,West,CO
+3,1442,264,15.9,13.7,18.3,2017,Mistimed,Connecticut,Connecticut,Northeast,CT
+4,883,173,19.2,16.6,22.1,2017,Mistimed,Delaware,Delaware,South,DE
+5,941,174,20.2,16.8,24.2,2017,Mistimed,Georgia,Georgia,South,GA
+6,1216,226,18.7,16.3,21.3,2017,Mistimed,Illinois,Illinois,Midwest,IL
+7,1016,205,17.2,14.0,21.0,2017,Mistimed,Iowa,Iowa,Midwest,IA
+8,976,193,21.6,18.4,25.3,2017,Mistimed,Kansas,Kansas,Midwest,KS
+9,683,175,20.3,16.8,24.3,2017,Mistimed,Kentucky,Kentucky,South,KY
+10,887,239,26.1,23.1,29.2,2017,Mistimed,Louisiana,Louisiana,South,LA
+11,860,125,15.2,12.6,18.2,2017,Mistimed,Maine,Maine,Northeast,ME
+12,1042,196,20.8,18.1,23.9,2017,Mistimed,Maryland,Maryland,South,MD
+13,1412,231,14.9,12.7,17.4,2017,Mistimed,Massachusetts,Massachusetts,Northeast,MA
+14,1862,405,18.9,16.7,21.3,2017,Mistimed,Michigan,Michigan,Midwest,MI
+15,1085,214,21.4,18.6,24.4,2017,Mistimed,Missouri,Missouri,Midwest,MO
+16,931,155,17.6,15.2,20.3,2017,Mistimed,Montana,Montana,West,MT
+17,564,74,14.6,11.2,18.9,2017,Mistimed,New Hampshire,New Hampshire,Northeast,NH
+18,1216,211,16.8,14.7,19.1,2017,Mistimed,New Jersey,New Jersey,Northeast,NJ
+19,1160,219,19.0,16.8,21.4,2017,Mistimed,New Mexico,New Mexico,West,NM
+20,988,213,23.4,20.3,26.7,2017,Mistimed,North Carolina,North Carolina,South,NC
+21,581,112,18.2,14.8,22.3,2017,Mistimed,North Dakota,North Dakota,Midwest,ND
+22,1615,414,23.3,20.5,26.5,2017,Mistimed,Oklahoma,Oklahoma,South,OK
+23,1211,238,21.8,19.1,24.8,2017,Mistimed,Pennsylvania,Pennsylvania,Northeast,PA
+24,1087,158,16.5,14.1,19.3,2017,Mistimed,Rhode Island,Rhode Island,Northeast,RI
+25,1092,224,18.0,15.6,20.7,2017,Mistimed,South Dakota,South Dakota,Midwest,SD
+26,1415,266,17.3,14.9,19.9,2017,Mistimed,Utah,Utah,West,UT
+27,831,110,14.8,12.4,17.7,2017,Mistimed,Vermont,Vermont,Northeast,VT
+28,1057,172,17.3,13.8,21.5,2017,Mistimed,Virginia,Virginia,South,VA
+29,1217,224,17.2,14.7,20.0,2017,Mistimed,Washington,Washington,West,WA
+30,685,119,17.0,13.9,20.5,2017,Mistimed,West Virginia,West Virginia,South,WV
+31,1327,311,16.6,14.0,19.7,2017,Mistimed,Wisconsin,Wisconsin,Midwest,WI
+32,493,90,19.1,15.2,23.6,2017,Mistimed,Wyoming,Wyoming,West,WY
+33,873,72,8.6,6.8,10.8,2017,Unwanted pregnancy ,Alabama,Alabama,South,AL
+34,1030,56,5.2,3.7,7.2,2017,Unwanted pregnancy ,Alaska,Alaska,West,AK
+35,1111,76,6.3,5.0,7.9,2017,Unwanted pregnancy ,Colorado,Colorado,West,CO
+36,1442,76,4.2,3.1,5.6,2017,Unwanted pregnancy ,Connecticut,Connecticut,Northeast,CT
+37,883,69,7.4,5.8,9.4,2017,Unwanted pregnancy ,Delaware,Delaware,South,DE
+38,941,88,8.4,6.2,11.3,2017,Unwanted pregnancy ,Georgia,Georgia,South,GA
+39,1216,100,8.4,6.8,10.4,2017,Unwanted pregnancy ,Illinois,Illinois,Midwest,IL
+40,1016,53,3.8,2.4,5.8,2017,Unwanted pregnancy ,Iowa,Iowa,Midwest,IA
+41,976,53,5.1,3.6,7.1,2017,Unwanted pregnancy ,Kansas,Kansas,Midwest,KS
+42,683,65,5.9,4.2,8.4,2017,Unwanted pregnancy ,Kentucky,Kentucky,South,KY
+43,887,104,10.3,8.4,12.5,2017,Unwanted pregnancy ,Louisiana,Louisiana,South,LA
+44,860,47,5.2,3.7,7.2,2017,Unwanted pregnancy ,Maine,Maine,Northeast,ME
+45,1042,61,6.0,4.5,8.0,2017,Unwanted pregnancy ,Maryland,Maryland,South,MD
+46,1412,72,4.8,3.5,6.4,2017,Unwanted pregnancy ,Massachusetts,Massachusetts,Northeast,MA
+47,1862,127,5.3,4.2,6.7,2017,Unwanted pregnancy ,Michigan,Michigan,Midwest,MI
+48,1085,82,6.9,5.3,8.9,2017,Unwanted pregnancy ,Missouri,Missouri,Midwest,MO
+49,931,56,5.5,4.2,7.2,2017,Unwanted pregnancy ,Montana,Montana,West,MT
+50,564,18,3.6,2.0,6.5,2017,Unwanted pregnancy ,New Hampshire,New Hampshire,Northeast,NH
+51,1216,67,4.8,3.7,6.2,2017,Unwanted pregnancy ,New Jersey,New Jersey,Northeast,NJ
+52,1160,75,6.6,5.3,8.3,2017,Unwanted pregnancy ,New Mexico,New Mexico,West,NM
+53,988,66,7.1,5.3,9.3,2017,Unwanted pregnancy ,North Carolina,North Carolina,South,NC
+54,581,46,6.9,4.8,9.8,2017,Unwanted pregnancy ,North Dakota,North Dakota,Midwest,ND
+55,1615,136,8.1,6.3,10.4,2017,Unwanted pregnancy ,Oklahoma,Oklahoma,South,OK
+56,1211,63,4.6,3.4,6.2,2017,Unwanted pregnancy ,Pennsylvania,Pennsylvania,Northeast,PA
+57,1087,59,6.3,4.8,8.3,2017,Unwanted pregnancy ,Rhode Island,Rhode Island,Northeast,RI
+58,1092,93,6.8,5.4,8.6,2017,Unwanted pregnancy ,South Dakota,South Dakota,Midwest,SD
+59,1415,86,4.9,3.8,6.4,2017,Unwanted pregnancy ,Utah,Utah,West,UT
+60,831,35,4.5,3.2,6.2,2017,Unwanted pregnancy ,Vermont,Vermont,Northeast,VT
+61,1057,50,5.9,4.0,8.6,2017,Unwanted pregnancy ,Virginia,Virginia,South,VA
+62,1217,54,4.2,3.0,5.9,2017,Unwanted pregnancy ,Washington,Washington,West,WA
+63,685,65,8.7,6.4,11.6,2017,Unwanted pregnancy ,West Virginia,West Virginia,South,WV
+64,1327,115,6.7,5.0,9.0,2017,Unwanted pregnancy ,Wisconsin,Wisconsin,Midwest,WI
+65,493,33,7.1,4.9,10.1,2017,Unwanted pregnancy ,Wyoming,Wyoming,West,WY
+66,873,163,17.7,15.2,20.6,2017,Unsure whether wanted pregnancy,Alabama,Alabama,South,AL
+67,1030,220,19.7,16.9,22.7,2017,Unsure whether wanted pregnancy,Alaska,Alaska,West,AK
+68,1111,148,14.5,12.4,17.0,2017,Unsure whether wanted pregnancy,Colorado,Colorado,West,CO
+69,1442,222,14.4,12.2,16.8,2017,Unsure whether wanted pregnancy,Connecticut,Connecticut,Northeast,CT
+70,883,147,15.8,13.5,18.5,2017,Unsure whether wanted pregnancy,Delaware,Delaware,South,DE
+71,941,182,14.7,11.7,18.3,2017,Unsure whether wanted pregnancy,Georgia,Georgia,South,GA
+72,1216,187,15.7,13.6,18.2,2017,Unsure whether wanted pregnancy,Illinois,Illinois,Midwest,IL
+73,1016,164,13.5,10.6,16.9,2017,Unsure whether wanted pregnancy,Iowa,Iowa,Midwest,IA
+74,976,128,13.1,10.5,16.2,2017,Unsure whether wanted pregnancy,Kansas,Kansas,Midwest,KS
+75,683,128,17.6,14.1,21.6,2017,Unsure whether wanted pregnancy,Kentucky,Kentucky,South,KY
+76,887,172,18.8,16.2,21.7,2017,Unsure whether wanted pregnancy,Louisiana,Louisiana,South,LA
+77,860,123,14.4,11.8,17.4,2017,Unsure whether wanted pregnancy,Maine,Maine,Northeast,ME
+78,1042,144,14.7,12.4,17.4,2017,Unsure whether wanted pregnancy,Maryland,Maryland,South,MD
+79,1412,199,14.2,11.9,16.7,2017,Unsure whether wanted pregnancy,Massachusetts,Massachusetts,Northeast,MA
+80,1862,438,19.9,17.7,22.4,2017,Unsure whether wanted pregnancy,Michigan,Michigan,Midwest,MI
+81,1085,194,18.2,15.6,21.1,2017,Unsure whether wanted pregnancy,Missouri,Missouri,Midwest,MO
+82,931,182,18.5,16.2,21.0,2017,Unsure whether wanted pregnancy,Montana,Montana,West,MT
+83,564,55,8.6,6.0,12.0,2017,Unsure whether wanted pregnancy,New Hampshire,New Hampshire,Northeast,NH
+84,1216,198,14.7,12.7,16.9,2017,Unsure whether wanted pregnancy,New Jersey,New Jersey,Northeast,NJ
+85,1160,222,19.8,17.6,22.3,2017,Unsure whether wanted pregnancy,New Mexico,New Mexico,West,NM
+86,988,133,13.4,11.0,16.1,2017,Unsure whether wanted pregnancy,North Carolina,North Carolina,South,NC
+87,581,125,18.6,15.1,22.7,2017,Unsure whether wanted pregnancy,North Dakota,North Dakota,Midwest,ND
+88,1615,306,19.1,16.4,22.2,2017,Unsure whether wanted pregnancy,Oklahoma,Oklahoma,South,OK
+89,1211,209,16.2,13.8,18.9,2017,Unsure whether wanted pregnancy,Pennsylvania,Pennsylvania,Northeast,PA
+90,1087,146,13.2,11.0,15.7,2017,Unsure whether wanted pregnancy,Rhode Island,Rhode Island,Northeast,RI
+91,1092,229,17.7,15.4,20.4,2017,Unsure whether wanted pregnancy,South Dakota,South Dakota,Midwest,SD
+92,1415,204,12.5,10.5,14.8,2017,Unsure whether wanted pregnancy,Utah,Utah,West,UT
+93,831,110,14.0,11.7,16.7,2017,Unsure whether wanted pregnancy,Vermont,Vermont,Northeast,VT
+94,1057,147,12.7,9.7,16.3,2017,Unsure whether wanted pregnancy,Virginia,Virginia,South,VA
+95,1217,188,14.1,11.8,16.8,2017,Unsure whether wanted pregnancy,Washington,Washington,West,WA
+96,685,136,19.4,16.2,23.1,2017,Unsure whether wanted pregnancy,West Virginia,West Virginia,South,WV
+97,1327,264,14.6,12.0,17.5,2017,Unsure whether wanted pregnancy,Wisconsin,Wisconsin,Midwest,WI
+98,493,80,13.8,10.6,17.8,2017,Unsure whether wanted pregnancy,Wyoming,Wyoming,West,WY
+99,873,438,49.4,46.0,52.7,2017,Intended pregnancy ,Alabama,Alabama,South,AL
+100,1030,584,58.5,54.8,62.2,2017,Intended pregnancy ,Alaska,Alaska,West,AK
+101,1111,673,59.8,56.6,62.9,2017,Intended pregnancy ,Colorado,Colorado,West,CO
+102,1442,880,65.6,62.4,68.6,2017,Intended pregnancy ,Connecticut,Connecticut,Northeast,CT
+103,883,494,57.6,54.2,61.0,2017,Intended pregnancy ,Delaware,Delaware,South,DE
+104,941,497,56.7,52.1,61.1,2017,Intended pregnancy ,Georgia,Georgia,South,GA
+105,1216,703,57.2,54.1,60.3,2017,Intended pregnancy ,Illinois,Illinois,Midwest,IL
+106,1016,594,65.6,61.1,69.8,2017,Intended pregnancy ,Iowa,Iowa,Midwest,IA
+107,976,602,60.2,56.1,64.1,2017,Intended pregnancy ,Kansas,Kansas,Midwest,KS
+108,683,315,56.3,51.5,60.9,2017,Intended pregnancy ,Kentucky,Kentucky,South,KY
+109,887,372,44.9,41.5,48.4,2017,Intended pregnancy ,Louisiana,Louisiana,South,LA
+110,860,565,65.2,61.4,68.8,2017,Intended pregnancy ,Maine,Maine,Northeast,ME
+111,1042,641,58.4,54.9,61.9,2017,Intended pregnancy ,Maryland,Maryland,South,MD
+112,1412,910,66.2,63.0,69.3,2017,Intended pregnancy ,Massachusetts,Massachusetts,Northeast,MA
+113,1862,892,55.8,52.9,58.7,2017,Intended pregnancy ,Michigan,Michigan,Midwest,MI
+114,1085,595,53.5,50.1,57.0,2017,Intended pregnancy ,Missouri,Missouri,Midwest,MO
+115,931,538,58.4,55.3,61.4,2017,Intended pregnancy ,Montana,Montana,West,MT
+116,564,417,73.2,68.2,77.7,2017,Intended pregnancy ,New Hampshire,New Hampshire,Northeast,NH
+117,1216,740,63.7,60.8,66.4,2017,Intended pregnancy ,New Jersey,New Jersey,Northeast,NJ
+118,1160,644,54.5,51.6,57.4,2017,Intended pregnancy ,New Mexico,New Mexico,West,NM
+119,988,576,56.2,52.5,59.8,2017,Intended pregnancy ,North Carolina,North Carolina,South,NC
+120,581,298,56.3,51.4,61.1,2017,Intended pregnancy ,North Dakota,North Dakota,Midwest,ND
+121,1615,759,49.4,45.8,53.0,2017,Intended pregnancy ,Oklahoma,Oklahoma,South,OK
+122,1211,701,57.4,54.0,60.7,2017,Intended pregnancy ,Pennsylvania,Pennsylvania,Northeast,PA
+123,1087,724,63.9,60.6,67.2,2017,Intended pregnancy ,Rhode Island,Rhode Island,Northeast,RI
+124,1092,546,57.4,54.1,60.6,2017,Intended pregnancy ,South Dakota,South Dakota,Midwest,SD
+125,1415,859,65.3,62.1,68.3,2017,Intended pregnancy ,Utah,Utah,West,UT
+126,831,576,66.7,63.2,70.0,2017,Intended pregnancy ,Vermont,Vermont,Northeast,VT
+127,1057,688,64.1,59.3,68.7,2017,Intended pregnancy ,Virginia,Virginia,South,VA
+128,1217,751,64.5,61.1,67.8,2017,Intended pregnancy ,Washington,Washington,West,WA
+129,685,365,55.0,50.5,59.3,2017,Intended pregnancy ,West Virginia,West Virginia,South,WV
+130,1327,637,62.1,58.2,65.9,2017,Intended pregnancy ,Wisconsin,Wisconsin,Midwest,WI
+131,493,290,60.1,54.9,65.0,2017,Intended pregnancy ,Wyoming,Wyoming,West,WY
+132,801,176,21.7,18.9,24.9,2018,Mistimed,Alabama,Alabama,South,AL
+133,989,139,13.9,11.6,16.7,2018,Mistimed,Alaska,Alaska,West,AK
+134,892,189,19.6,15.7,24.2,2018,Mistimed,Arkansas,Arkansas,South,AR
+135,1116,192,18.2,15.6,21.1,2018,Mistimed,Colorado,Colorado,West,CO
+136,1405,253,16.3,13.9,19.1,2018,Mistimed,Connecticut,Connecticut,Northeast,CT
+137,842,166,20.1,17.3,23.2,2018,Mistimed,Delaware,Delaware,South,DE
+138,754,165,22.6,18.9,26.7,2018,Mistimed,Georgia,Georgia,South,GA
+139,1298,227,17.6,15.5,20.1,2018,Mistimed,Illinois,Illinois,Midwest,IL
+140,849,229,29.2,25.2,33.6,2018,Mistimed,Indiana,Indiana,Midwest,IN
+141,844,175,14.4,11.2,18.3,2018,Mistimed,Iowa,Iowa,Midwest,IA
+142,955,168,17.6,14.6,21.2,2018,Mistimed,Kansas,Kansas,Midwest,KS
+143,741,175,16.4,13.3,20.0,2018,Mistimed,Kentucky,Kentucky,South,KY
+144,851,238,25.5,22.6,28.6,2018,Mistimed,Louisiana,Louisiana,South,LA
+145,808,117,15.0,12.3,18.2,2018,Mistimed,Maine,Maine,Northeast,ME
+146,1015,180,18.9,16.0,22.2,2018,Mistimed,Maryland,Maryland,South,MD
+147,1424,232,14.3,12.2,16.6,2018,Mistimed,Massachusetts,Massachusetts,Northeast,MA
+148,1835,403,19.4,17.2,21.8,2018,Mistimed,Michigan,Michigan,Midwest,MI
+149,1250,221,17.2,14.9,19.9,2018,Mistimed,Minnesota,Minnesota,Midwest,MN
+150,1195,324,26.7,23.7,30.0,2018,Mistimed,Mississippi,Mississippi,South,MS
+151,921,211,24.0,20.9,27.3,2018,Mistimed,Missouri,Missouri,Midwest,MO
+152,806,136,16.8,14.3,19.5,2018,Mistimed,Montana,Montana,West,MT
+153,1325,277,20.5,17.4,23.8,2018,Mistimed,Nebraska,Nebraska,Midwest,NE
+154,575,72,14.3,11.2,18.2,2018,Mistimed,New Hampshire,New Hampshire,Northeast,NH
+155,1173,212,16.9,14.8,19.3,2018,Mistimed,New Jersey,New Jersey,Northeast,NJ
+156,1192,218,18.5,16.4,20.9,2018,Mistimed,New Mexico,New Mexico,West,NM
+157,910,168,20.2,17.2,23.6,2018,Mistimed,North Carolina,North Carolina,South,NC
+158,869,162,19.5,16.5,22.9,2018,Mistimed,North Dakota,North Dakota,Midwest,ND
+159,1373,312,20.8,17.9,23.9,2018,Mistimed,Oklahoma,Oklahoma,South,OK
+160,1574,280,14.6,12.1,17.5,2018,Mistimed,Oregon,Oregon,West,OR
+161,950,169,19.2,16.4,22.3,2018,Mistimed,Pennsylvania,Pennsylvania,Northeast,PA
+162,1088,162,16.1,13.7,18.9,2018,Mistimed,Rhode Island,Rhode Island,Northeast,RI
+163,988,184,18.0,15.3,21.0,2018,Mistimed,South Dakota,South Dakota,Midwest,SD
+164,1221,223,17.3,14.8,20.0,2018,Mistimed,Utah,Utah,West,UT
+165,849,116,15.6,13.1,18.4,2018,Mistimed,Vermont,Vermont,Northeast,VT
+166,1127,204,18.4,14.8,22.6,2018,Mistimed,Virginia,Virginia,South,VA
+167,1124,195,17.4,14.8,20.2,2018,Mistimed,Washington,Washington,West,WA
+168,684,111,17.6,14.4,21.3,2018,Mistimed,West Virginia,West Virginia,South,WV
+169,1042,227,18.4,15.3,21.9,2018,Mistimed,Wisconsin,Wisconsin,Midwest,WI
+170,536,109,22.3,18.3,26.8,2018,Mistimed,Wyoming,Wyoming,West,WY
+171,801,64,7.3,5.7,9.4,2018,Unwanted pregnancy ,Alabama,Alabama,South,AL
+172,989,66,6.1,4.6,8.1,2018,Unwanted pregnancy ,Alaska,Alaska,West,AK
+173,892,94,8.8,6.4,12.1,2018,Unwanted pregnancy ,Arkansas,Arkansas,South,AR
+174,1116,53,6.1,4.5,8.3,2018,Unwanted pregnancy ,Colorado,Colorado,West,CO
+175,1405,81,4.3,3.3,5.6,2018,Unwanted pregnancy ,Connecticut,Connecticut,Northeast,CT
+176,842,62,6.9,5.3,8.9,2018,Unwanted pregnancy ,Delaware,Delaware,South,DE
+177,754,68,9.6,7.1,12.7,2018,Unwanted pregnancy ,Georgia,Georgia,South,GA
+178,1298,106,8.1,6.6,9.9,2018,Unwanted pregnancy ,Illinois,Illinois,Midwest,IL
+179,849,76,7.2,5.3,9.7,2018,Unwanted pregnancy ,Indiana,Indiana,Midwest,IN
+180,844,64,6.2,4.0,9.4,2018,Unwanted pregnancy ,Iowa,Iowa,Midwest,IA
+181,955,58,5.5,3.9,7.8,2018,Unwanted pregnancy ,Kansas,Kansas,Midwest,KS
+182,741,82,9.3,6.8,12.5,2018,Unwanted pregnancy ,Kentucky,Kentucky,South,KY
+183,851,88,9.6,7.7,11.9,2018,Unwanted pregnancy ,Louisiana,Louisiana,South,LA
+184,808,41,4.4,3.0,6.4,2018,Unwanted pregnancy ,Maine,Maine,Northeast,ME
+185,1015,72,7.6,5.8,10.0,2018,Unwanted pregnancy ,Maryland,Maryland,South,MD
+186,1424,79,4.6,3.5,6.2,2018,Unwanted pregnancy ,Massachusetts,Massachusetts,Northeast,MA
+187,1835,146,6.3,5.0,7.8,2018,Unwanted pregnancy ,Michigan,Michigan,Midwest,MI
+188,1250,64,5.0,3.7,6.7,2018,Unwanted pregnancy ,Minnesota,Minnesota,Midwest,MN
+189,1195,125,9.7,7.8,12.0,2018,Unwanted pregnancy ,Mississippi,Mississippi,South,MS
+190,921,83,9.9,7.8,12.3,2018,Unwanted pregnancy ,Missouri,Missouri,Midwest,MO
+191,806,49,6.0,4.6,8.0,2018,Unwanted pregnancy ,Montana,Montana,West,MT
+192,1325,103,5.3,4.0,7.0,2018,Unwanted pregnancy ,Nebraska,Nebraska,Midwest,NE
+193,575,16,3.1,1.7,5.4,2018,Unwanted pregnancy ,New Hampshire,New Hampshire,Northeast,NH
+194,1173,70,5.2,4.0,6.6,2018,Unwanted pregnancy ,New Jersey,New Jersey,Northeast,NJ
+195,1192,79,6.6,5.3,8.2,2018,Unwanted pregnancy ,New Mexico,New Mexico,West,NM
+196,910,51,6.4,4.6,8.9,2018,Unwanted pregnancy ,North Carolina,North Carolina,South,NC
+197,869,49,4.5,3.1,6.5,2018,Unwanted pregnancy ,North Dakota,North Dakota,Midwest,ND
+198,1373,111,7.3,5.6,9.5,2018,Unwanted pregnancy ,Oklahoma,Oklahoma,South,OK
+199,1574,74,4.4,3.0,6.5,2018,Unwanted pregnancy ,Oregon,Oregon,West,OR
+200,950,58,6.4,4.7,8.6,2018,Unwanted pregnancy ,Pennsylvania,Pennsylvania,Northeast,PA
+201,1088,71,5.6,4.3,7.4,2018,Unwanted pregnancy ,Rhode Island,Rhode Island,Northeast,RI
+202,988,59,5.3,3.9,7.1,2018,Unwanted pregnancy ,South Dakota,South Dakota,Midwest,SD
+203,1221,65,3.9,2.9,5.3,2018,Unwanted pregnancy ,Utah,Utah,West,UT
+204,849,43,5.5,4.1,7.4,2018,Unwanted pregnancy ,Vermont,Vermont,Northeast,VT
+205,1127,55,6.9,4.8,10.0,2018,Unwanted pregnancy ,Virginia,Virginia,South,VA
+206,1124,62,4.9,3.6,6.7,2018,Unwanted pregnancy ,Washington,Washington,West,WA
+207,684,40,5.2,3.6,7.5,2018,Unwanted pregnancy ,West Virginia,West Virginia,South,WV
+208,1042,87,6.1,4.4,8.4,2018,Unwanted pregnancy ,Wisconsin,Wisconsin,Midwest,WI
+209,536,29,3.9,2.5,6.0,2018,Unwanted pregnancy ,Wyoming,Wyoming,West,WY
+210,801,133,17.3,14.7,20.2,2018,Unsure whether wanted pregnancy,Alabama,Alabama,South,AL
+211,989,238,21.3,18.5,24.3,2018,Unsure whether wanted pregnancy,Alaska,Alaska,West,AK
+212,892,200,19.2,15.4,23.6,2018,Unsure whether wanted pregnancy,Arkansas,Arkansas,South,AR
+213,1116,151,13.5,11.3,16.1,2018,Unsure whether wanted pregnancy,Colorado,Colorado,West,CO
+214,1405,250,15.6,13.2,18.3,2018,Unsure whether wanted pregnancy,Connecticut,Connecticut,Northeast,CT
+215,842,151,17.7,15.1,20.6,2018,Unsure whether wanted pregnancy,Delaware,Delaware,South,DE
+216,754,136,16.6,13.5,20.3,2018,Unsure whether wanted pregnancy,Georgia,Georgia,South,GA
+217,1298,211,16.3,14.2,18.7,2018,Unsure whether wanted pregnancy,Illinois,Illinois,Midwest,IL
+218,849,132,15.9,12.9,19.5,2018,Unsure whether wanted pregnancy,Indiana,Indiana,Midwest,IN
+219,844,140,16.0,12.4,20.4,2018,Unsure whether wanted pregnancy,Iowa,Iowa,Midwest,IA
+220,955,139,16.6,13.5,20.1,2018,Unsure whether wanted pregnancy,Kansas,Kansas,Midwest,KS
+221,741,140,17.0,13.8,20.9,2018,Unsure whether wanted pregnancy,Kentucky,Kentucky,South,KY
+222,851,141,15.2,12.8,17.9,2018,Unsure whether wanted pregnancy,Louisiana,Louisiana,South,LA
+223,808,104,13.2,10.5,16.3,2018,Unsure whether wanted pregnancy,Maine,Maine,Northeast,ME
+224,1015,129,12.8,10.4,15.7,2018,Unsure whether wanted pregnancy,Maryland,Maryland,South,MD
+225,1424,191,12.8,10.7,15.3,2018,Unsure whether wanted pregnancy,Massachusetts,Massachusetts,Northeast,MA
+226,1835,377,17.1,15.0,19.4,2018,Unsure whether wanted pregnancy,Michigan,Michigan,Midwest,MI
+227,1250,177,13.0,10.9,15.4,2018,Unsure whether wanted pregnancy,Minnesota,Minnesota,Midwest,MN
+228,1195,227,18.3,15.8,21.2,2018,Unsure whether wanted pregnancy,Mississippi,Mississippi,South,MS
+229,921,155,17.0,14.4,20.0,2018,Unsure whether wanted pregnancy,Missouri,Missouri,Midwest,MO
+230,806,139,17.2,14.8,19.9,2018,Unsure whether wanted pregnancy,Montana,Montana,West,MT
+231,1325,236,17.7,14.8,20.9,2018,Unsure whether wanted pregnancy,Nebraska,Nebraska,Midwest,NE
+232,575,65,11.9,9.1,15.5,2018,Unsure whether wanted pregnancy,New Hampshire,New Hampshire,Northeast,NH
+233,1173,170,12.9,11.1,15.1,2018,Unsure whether wanted pregnancy,New Jersey,New Jersey,Northeast,NJ
+234,1192,218,19.0,16.9,21.4,2018,Unsure whether wanted pregnancy,New Mexico,New Mexico,West,NM
+235,910,130,14.6,12.0,17.6,2018,Unsure whether wanted pregnancy,North Carolina,North Carolina,South,NC
+236,869,172,17.8,14.8,21.2,2018,Unsure whether wanted pregnancy,North Dakota,North Dakota,Midwest,ND
+237,1373,250,16.6,14.0,19.6,2018,Unsure whether wanted pregnancy,Oklahoma,Oklahoma,South,OK
+238,1574,281,15.7,13.0,18.9,2018,Unsure whether wanted pregnancy,Oregon,Oregon,West,OR
+239,950,149,16.2,13.6,19.2,2018,Unsure whether wanted pregnancy,Pennsylvania,Pennsylvania,Northeast,PA
+240,1088,140,14.2,11.9,16.8,2018,Unsure whether wanted pregnancy,Rhode Island,Rhode Island,Northeast,RI
+241,988,169,15.8,13.4,18.5,2018,Unsure whether wanted pregnancy,South Dakota,South Dakota,Midwest,SD
+242,1221,179,13.5,11.4,16.0,2018,Unsure whether wanted pregnancy,Utah,Utah,West,UT
+243,849,108,13.0,10.8,15.6,2018,Unsure whether wanted pregnancy,Vermont,Vermont,Northeast,VT
+244,1127,179,15.4,12.1,19.3,2018,Unsure whether wanted pregnancy,Virginia,Virginia,South,VA
+245,1124,202,15.9,13.5,18.7,2018,Unsure whether wanted pregnancy,Washington,Washington,West,WA
+246,684,148,21.0,17.6,24.8,2018,Unsure whether wanted pregnancy,West Virginia,West Virginia,South,WV
+247,1042,215,14.5,11.8,17.6,2018,Unsure whether wanted pregnancy,Wisconsin,Wisconsin,Midwest,WI
+248,536,99,16.7,13.2,20.9,2018,Unsure whether wanted pregnancy,Wyoming,Wyoming,West,WY
+249,801,428,53.6,50.1,57.1,2018,Intended pregnancy ,Alabama,Alabama,South,AL
+250,989,546,58.7,55.1,62.2,2018,Intended pregnancy ,Alaska,Alaska,West,AK
+251,892,409,52.5,47.2,57.7,2018,Intended pregnancy ,Arkansas,Arkansas,South,AR
+252,1116,720,62.1,58.6,65.5,2018,Intended pregnancy ,Colorado,Colorado,West,CO
+253,1405,821,63.8,60.4,67.0,2018,Intended pregnancy ,Connecticut,Connecticut,Northeast,CT
+254,842,463,55.3,51.7,58.8,2018,Intended pregnancy ,Delaware,Delaware,South,DE
+255,754,385,51.3,46.7,55.9,2018,Intended pregnancy ,Georgia,Georgia,South,GA
+256,1298,754,57.9,54.9,60.8,2018,Intended pregnancy ,Illinois,Illinois,Midwest,IL
+257,849,412,47.7,43.3,52.1,2018,Intended pregnancy ,Indiana,Indiana,Midwest,IN
+258,844,465,63.5,58.2,68.4,2018,Intended pregnancy ,Iowa,Iowa,Midwest,IA
+259,955,590,60.3,56.0,64.4,2018,Intended pregnancy ,Kansas,Kansas,Midwest,KS
+260,741,344,57.4,52.6,61.9,2018,Intended pregnancy ,Kentucky,Kentucky,South,KY
+261,851,384,49.7,46.2,53.3,2018,Intended pregnancy ,Louisiana,Louisiana,South,LA
+262,808,546,67.5,63.5,71.2,2018,Intended pregnancy ,Maine,Maine,Northeast,ME
+263,1015,634,60.7,56.8,64.4,2018,Intended pregnancy ,Maryland,Maryland,South,MD
+264,1424,922,68.3,65.1,71.2,2018,Intended pregnancy ,Massachusetts,Massachusetts,Northeast,MA
+265,1835,909,57.2,54.4,60.1,2018,Intended pregnancy ,Michigan,Michigan,Midwest,MI
+266,1250,788,64.8,61.6,67.8,2018,Intended pregnancy ,Minnesota,Minnesota,Midwest,MN
+267,1195,519,45.2,41.8,48.7,2018,Intended pregnancy ,Mississippi,Mississippi,South,MS
+268,921,472,49.2,45.5,52.8,2018,Intended pregnancy ,Missouri,Missouri,Midwest,MO
+269,806,482,60.0,56.7,63.3,2018,Intended pregnancy ,Montana,Montana,West,MT
+270,1325,709,56.5,52.6,60.3,2018,Intended pregnancy ,Nebraska,Nebraska,Midwest,NE
+271,575,422,70.7,66.1,75.0,2018,Intended pregnancy ,New Hampshire,New Hampshire,Northeast,NH
+272,1173,721,65.0,62.1,67.7,2018,Intended pregnancy ,New Jersey,New Jersey,Northeast,NJ
+273,1192,677,55.8,52.9,58.6,2018,Intended pregnancy ,New Mexico,New Mexico,West,NM
+274,910,561,58.8,54.9,62.6,2018,Intended pregnancy ,North Carolina,North Carolina,South,NC
+275,869,486,58.2,54.2,62.1,2018,Intended pregnancy ,North Dakota,North Dakota,Midwest,ND
+276,1373,700,55.4,51.6,59.1,2018,Intended pregnancy ,Oklahoma,Oklahoma,South,OK
+277,1574,939,65.2,61.4,68.9,2018,Intended pregnancy ,Oregon,Oregon,West,OR
+278,950,574,58.2,54.5,61.8,2018,Intended pregnancy ,Pennsylvania,Pennsylvania,Northeast,PA
+279,1088,715,64.0,60.6,67.3,2018,Intended pregnancy ,Rhode Island,Rhode Island,Northeast,RI
+280,988,576,61.0,57.4,64.4,2018,Intended pregnancy ,South Dakota,South Dakota,Midwest,SD
+281,1221,754,65.3,62.0,68.4,2018,Intended pregnancy ,Utah,Utah,West,UT
+282,849,582,65.9,62.5,69.2,2018,Intended pregnancy ,Vermont,Vermont,Northeast,VT
+283,1127,689,59.3,54.4,64.1,2018,Intended pregnancy ,Virginia,Virginia,South,VA
+284,1124,665,61.8,58.3,65.2,2018,Intended pregnancy ,Washington,Washington,West,WA
+285,684,385,56.2,51.8,60.6,2018,Intended pregnancy ,West Virginia,West Virginia,South,WV
+286,1042,513,61.0,56.8,65.0,2018,Intended pregnancy ,Wisconsin,Wisconsin,Midwest,WI
+287,536,299,57.2,52.1,62.2,2018,Intended pregnancy ,Wyoming,Wyoming,West,WY
+288,786,164,21.6,18.9,24.7,2019,Mistimed,Alabama,Alabama,South,AL
+289,1056,176,16.8,14.2,19.7,2019,Mistimed,Alaska,Alaska,West,AK
+290,966,201,20.4,16.6,24.9,2019,Mistimed,Arkansas,Arkansas,South,AR
+291,1090,150,15.2,12.6,18.2,2019,Mistimed,Colorado,Colorado,West,CO
+292,1187,203,15.7,13.4,18.4,2019,Mistimed,Connecticut,Connecticut,Northeast,CT
+293,920,174,21.3,18.5,24.3,2019,Mistimed,Delaware,Delaware,South,DE
+294,1028,293,26.8,23.5,30.4,2019,Mistimed,Florida,Florida,South,FL
+295,778,165,21.8,18.3,25.8,2019,Mistimed,Georgia,Georgia,South,GA
+296,620,88,13.9,10.4,18.3,2019,Mistimed,Hawaii,Hawaii,West,HI
+297,1228,233,19.9,17.5,22.5,2019,Mistimed,Illinois,Illinois,Midwest,IL
+298,842,171,15.7,12.1,20.1,2019,Mistimed,Iowa,Iowa,Midwest,IA
+299,985,163,18.9,15.8,22.4,2019,Mistimed,Kansas,Kansas,Midwest,KS
+300,901,185,20.0,16.7,23.7,2019,Mistimed,Kentucky,Kentucky,South,KY
+301,1065,242,23.4,20.4,26.6,2019,Mistimed,Louisiana,Louisiana,South,LA
+302,814,121,16.8,13.9,20.2,2019,Mistimed,Maine,Maine,Northeast,ME
+303,943,178,20.6,17.5,23.9,2019,Mistimed,Maryland,Maryland,South,MD
+304,1681,293,16.4,14.3,18.8,2019,Mistimed,Massachusetts,Massachusetts,Northeast,MA
+305,1374,260,17.6,15.3,20.3,2019,Mistimed,Michigan,Michigan,Midwest,MI
+306,1034,168,14.3,11.8,17.4,2019,Mistimed,Minnesota,Minnesota,Midwest,MN
+307,1250,346,26.1,23.3,29.2,2019,Mistimed,Mississippi,Mississippi,South,MS
+308,1580,289,19.6,17.2,22.3,2019,Mistimed,Missouri,Missouri,Midwest,MO
+309,716,120,16.5,13.9,19.5,2019,Mistimed,Montana,Montana,West,MT
+310,1612,303,16.2,13.9,18.8,2019,Mistimed,Nebraska,Nebraska,Midwest,NE
+311,653,84,12.3,9.3,16.2,2019,Mistimed,New Hampshire,New Hampshire,Northeast,NH
+312,1104,182,16.6,14.4,19.1,2019,Mistimed,New Jersey,New Jersey,Northeast,NJ
+313,1142,182,16.0,14.0,18.4,2019,Mistimed,New Mexico,New Mexico,West,NM
+314,866,151,19.2,16.1,22.6,2019,Mistimed,North Carolina,North Carolina,South,NC
+315,754,133,17.3,14.2,20.9,2019,Mistimed,North Dakota,North Dakota,Midwest,ND
+316,2416,430,15.3,13.2,17.6,2019,Mistimed,Oregon,Oregon,West,OR
+317,1116,193,20.0,16.5,24.0,2019,Mistimed,Pennsylvania,Pennsylvania,Northeast,PA
+318,973,173,19.0,16.3,22.0,2019,Mistimed,Rhode Island,Rhode Island,Northeast,RI
+319,985,194,18.6,16.0,21.5,2019,Mistimed,South Dakota,South Dakota,Midwest,SD
+320,655,135,21.0,16.8,26.0,2019,Mistimed,Tennessee,Tennessee,South,TN
+321,1693,237,15.1,13.0,17.5,2019,Mistimed,Utah,Utah,West,UT
+322,764,85,12.1,9.8,14.8,2019,Mistimed,Vermont,Vermont,Northeast,VT
+323,972,184,21.0,17.0,25.5,2019,Mistimed,Virginia,Virginia,South,VA
+324,1176,200,16.5,14.2,19.2,2019,Mistimed,Washington,Washington,West,WA
+325,841,154,15.9,13.0,19.4,2019,Mistimed,Wisconsin,Wisconsin,Midwest,WI
+326,486,84,17.6,13.8,22.1,2019,Mistimed,Wyoming,Wyoming,West,WY
+327,786,67,8.8,6.9,11.0,2019,Unwanted pregnancy ,Alabama,Alabama,South,AL
+328,1056,73,6.3,4.9,8.2,2019,Unwanted pregnancy ,Alaska,Alaska,West,AK
+329,966,114,8.0,5.7,11.2,2019,Unwanted pregnancy ,Arkansas,Arkansas,South,AR
+330,1090,62,5.2,3.9,7.0,2019,Unwanted pregnancy ,Colorado,Colorado,West,CO
+331,1187,71,5.3,4.0,7.1,2019,Unwanted pregnancy ,Connecticut,Connecticut,Northeast,CT
+332,920,71,7.4,5.8,9.4,2019,Unwanted pregnancy ,Delaware,Delaware,South,DE
+333,1028,109,8.5,6.7,10.7,2019,Unwanted pregnancy ,Florida,Florida,South,FL
+334,778,57,5.6,3.9,8.0,2019,Unwanted pregnancy ,Georgia,Georgia,South,GA
+335,620,35,5.0,3.2,7.7,2019,Unwanted pregnancy ,Hawaii,Hawaii,West,HI
+336,1228,84,6.8,5.4,8.5,2019,Unwanted pregnancy ,Illinois,Illinois,Midwest,IL
+337,842,42,5.4,3.4,8.5,2019,Unwanted pregnancy ,Iowa,Iowa,Midwest,IA
+338,985,79,7.8,5.8,10.4,2019,Unwanted pregnancy ,Kansas,Kansas,Midwest,KS
+339,901,75,7.0,5.1,9.7,2019,Unwanted pregnancy ,Kentucky,Kentucky,South,KY
+340,1065,91,8.3,6.6,10.5,2019,Unwanted pregnancy ,Louisiana,Louisiana,South,LA
+341,814,49,5.3,3.7,7.5,2019,Unwanted pregnancy ,Maine,Maine,Northeast,ME
+342,943,53,6.0,4.4,8.2,2019,Unwanted pregnancy ,Maryland,Maryland,South,MD
+343,1681,79,4.6,3.4,6.0,2019,Unwanted pregnancy ,Massachusetts,Massachusetts,Northeast,MA
+344,1374,111,6.7,5.3,8.6,2019,Unwanted pregnancy ,Michigan,Michigan,Midwest,MI
+345,1034,64,5.3,3.7,7.7,2019,Unwanted pregnancy ,Minnesota,Minnesota,Midwest,MN
+346,1250,143,11.6,9.6,14.0,2019,Unwanted pregnancy ,Mississippi,Mississippi,South,MS
+347,1580,113,7.8,6.2,9.7,2019,Unwanted pregnancy ,Missouri,Missouri,Midwest,MO
+348,716,52,7.8,5.9,10.1,2019,Unwanted pregnancy ,Montana,Montana,West,MT
+349,1612,108,6.0,4.6,7.8,2019,Unwanted pregnancy ,Nebraska,Nebraska,Midwest,NE
+350,653,31,5.8,3.8,8.9,2019,Unwanted pregnancy ,New Hampshire,New Hampshire,Northeast,NH
+351,1104,69,5.0,3.9,6.5,2019,Unwanted pregnancy ,New Jersey,New Jersey,Northeast,NJ
+352,1142,62,5.9,4.6,7.5,2019,Unwanted pregnancy ,New Mexico,New Mexico,West,NM
+353,866,63,5.8,4.2,7.8,2019,Unwanted pregnancy ,North Carolina,North Carolina,South,NC
+354,754,43,5.2,3.6,7.6,2019,Unwanted pregnancy ,North Dakota,North Dakota,Midwest,ND
+355,2416,126,4.6,3.5,6.1,2019,Unwanted pregnancy ,Oregon,Oregon,West,OR
+356,1116,79,6.6,5.0,8.7,2019,Unwanted pregnancy ,Pennsylvania,Pennsylvania,Northeast,PA
+357,973,57,5.0,3.7,6.8,2019,Unwanted pregnancy ,Rhode Island,Rhode Island,Northeast,RI
+358,985,73,5.4,4.2,7.0,2019,Unwanted pregnancy ,South Dakota,South Dakota,Midwest,SD
+359,655,72,10.1,7.2,14.0,2019,Unwanted pregnancy ,Tennessee,Tennessee,South,TN
+360,1693,78,4.5,3.4,6.0,2019,Unwanted pregnancy ,Utah,Utah,West,UT
+361,764,33,4.6,3.3,6.4,2019,Unwanted pregnancy ,Vermont,Vermont,Northeast,VT
+362,972,58,6.1,4.1,9.2,2019,Unwanted pregnancy ,Virginia,Virginia,South,VA
+363,1176,61,4.9,3.6,6.5,2019,Unwanted pregnancy ,Washington,Washington,West,WA
+364,841,71,6.4,4.6,8.8,2019,Unwanted pregnancy ,Wisconsin,Wisconsin,Midwest,WI
+365,486,21,4.1,2.4,7.0,2019,Unwanted pregnancy ,Wyoming,Wyoming,West,WY
+366,786,158,20.9,18.1,23.9,2019,Unsure whether wanted pregnancy,Alabama,Alabama,South,AL
+367,1056,217,17.8,15.4,20.5,2019,Unsure whether wanted pregnancy,Alaska,Alaska,West,AK
+368,966,202,19.5,15.7,23.9,2019,Unsure whether wanted pregnancy,Arkansas,Arkansas,South,AR
+369,1090,155,15.9,13.3,18.9,2019,Unsure whether wanted pregnancy,Colorado,Colorado,West,CO
+370,1187,191,13.1,11.0,15.5,2019,Unsure whether wanted pregnancy,Connecticut,Connecticut,Northeast,CT
+371,920,156,17.1,14.7,19.9,2019,Unsure whether wanted pregnancy,Delaware,Delaware,South,DE
+372,1028,188,16.0,13.5,19.0,2019,Unsure whether wanted pregnancy,Florida,Florida,South,FL
+373,778,111,15.6,12.6,19.2,2019,Unsure whether wanted pregnancy,Georgia,Georgia,South,GA
+374,620,105,18.0,14.0,22.8,2019,Unsure whether wanted pregnancy,Hawaii,Hawaii,West,HI
+375,1228,193,15.5,13.3,17.9,2019,Unsure whether wanted pregnancy,Illinois,Illinois,Midwest,IL
+376,842,138,12.9,9.7,16.9,2019,Unsure whether wanted pregnancy,Iowa,Iowa,Midwest,IA
+377,985,135,13.4,10.8,16.5,2019,Unsure whether wanted pregnancy,Kansas,Kansas,Midwest,KS
+378,901,169,18.1,15.0,21.8,2019,Unsure whether wanted pregnancy,Kentucky,Kentucky,South,KY
+379,1065,239,21.8,19.0,24.9,2019,Unsure whether wanted pregnancy,Louisiana,Louisiana,South,LA
+380,814,143,17.9,15.0,21.4,2019,Unsure whether wanted pregnancy,Maine,Maine,Northeast,ME
+381,943,136,14.8,12.3,17.8,2019,Unsure whether wanted pregnancy,Maryland,Maryland,South,MD
+382,1681,228,12.2,10.4,14.2,2019,Unsure whether wanted pregnancy,Massachusetts,Massachusetts,Northeast,MA
+383,1374,260,15.9,13.7,18.4,2019,Unsure whether wanted pregnancy,Michigan,Michigan,Midwest,MI
+384,1034,146,12.4,10.0,15.4,2019,Unsure whether wanted pregnancy,Minnesota,Minnesota,Midwest,MN
+385,1250,252,19.8,17.2,22.7,2019,Unsure whether wanted pregnancy,Mississippi,Mississippi,South,MS
+386,1580,273,17.9,15.6,20.6,2019,Unsure whether wanted pregnancy,Missouri,Missouri,Midwest,MO
+387,716,130,18.3,15.6,21.4,2019,Unsure whether wanted pregnancy,Montana,Montana,West,MT
+388,1612,302,14.4,12.2,16.8,2019,Unsure whether wanted pregnancy,Nebraska,Nebraska,Midwest,NE
+389,653,85,12.6,9.6,16.3,2019,Unsure whether wanted pregnancy,New Hampshire,New Hampshire,Northeast,NH
+390,1104,183,15.4,13.2,17.7,2019,Unsure whether wanted pregnancy,New Jersey,New Jersey,Northeast,NJ
+391,1142,189,17.9,15.7,20.4,2019,Unsure whether wanted pregnancy,New Mexico,New Mexico,West,NM
+392,866,154,19.2,16.2,22.6,2019,Unsure whether wanted pregnancy,North Carolina,North Carolina,South,NC
+393,754,166,15.0,12.1,18.4,2019,Unsure whether wanted pregnancy,North Dakota,North Dakota,Midwest,ND
+394,2416,425,14.1,12.1,16.4,2019,Unsure whether wanted pregnancy,Oregon,Oregon,West,OR
+395,1116,176,15.9,12.9,19.4,2019,Unsure whether wanted pregnancy,Pennsylvania,Pennsylvania,Northeast,PA
+396,973,153,16.6,14.0,19.6,2019,Unsure whether wanted pregnancy,Rhode Island,Rhode Island,Northeast,RI
+397,985,202,17.3,14.9,20.0,2019,Unsure whether wanted pregnancy,South Dakota,South Dakota,Midwest,SD
+398,655,127,18.8,14.9,23.6,2019,Unsure whether wanted pregnancy,Tennessee,Tennessee,South,TN
+399,1693,204,11.5,9.7,13.6,2019,Unsure whether wanted pregnancy,Utah,Utah,West,UT
+400,764,116,16.3,13.7,19.3,2019,Unsure whether wanted pregnancy,Vermont,Vermont,Northeast,VT
+401,972,134,13.0,9.9,16.9,2019,Unsure whether wanted pregnancy,Virginia,Virginia,South,VA
+402,1176,182,13.5,11.3,16.0,2019,Unsure whether wanted pregnancy,Washington,Washington,West,WA
+403,841,158,16.3,13.3,19.8,2019,Unsure whether wanted pregnancy,Wisconsin,Wisconsin,Midwest,WI
+404,486,77,13.7,10.4,17.9,2019,Unsure whether wanted pregnancy,Wyoming,Wyoming,West,WY
+405,786,397,48.7,45.3,52.2,2019,Intended pregnancy ,Alabama,Alabama,South,AL
+406,1056,590,59.1,55.6,62.4,2019,Intended pregnancy ,Alaska,Alaska,West,AK
+407,966,449,52.0,46.9,57.1,2019,Intended pregnancy ,Arkansas,Arkansas,South,AR
+408,1090,723,63.7,60.0,67.2,2019,Intended pregnancy ,Colorado,Colorado,West,CO
+409,1187,722,65.9,62.5,69.0,2019,Intended pregnancy ,Connecticut,Connecticut,Northeast,CT
+410,920,519,54.2,50.7,57.6,2019,Intended pregnancy ,Delaware,Delaware,South,DE
+411,1028,438,48.6,44.8,52.5,2019,Intended pregnancy ,Florida,Florida,South,FL
+412,778,445,56.9,52.4,61.3,2019,Intended pregnancy ,Georgia,Georgia,South,GA
+413,620,392,63.2,57.6,68.4,2019,Intended pregnancy ,Hawaii,Hawaii,West,HI
+414,1228,718,57.9,54.8,60.9,2019,Intended pregnancy ,Illinois,Illinois,Midwest,IL
+415,842,491,66.1,60.8,71.0,2019,Intended pregnancy ,Iowa,Iowa,Midwest,IA
+416,985,608,59.9,55.8,63.9,2019,Intended pregnancy ,Kansas,Kansas,Midwest,KS
+417,901,472,54.8,50.4,59.2,2019,Intended pregnancy ,Kentucky,Kentucky,South,KY
+418,1065,493,46.5,43.0,50.1,2019,Intended pregnancy ,Louisiana,Louisiana,South,LA
+419,814,501,59.9,55.8,63.8,2019,Intended pregnancy ,Maine,Maine,Northeast,ME
+420,943,576,58.6,54.8,62.3,2019,Intended pregnancy ,Maryland,Maryland,South,MD
+421,1681,1081,66.9,64.0,69.6,2019,Intended pregnancy ,Massachusetts,Massachusetts,Northeast,MA
+422,1374,743,59.8,56.6,62.9,2019,Intended pregnancy ,Michigan,Michigan,Midwest,MI
+423,1034,656,67.9,64.0,71.5,2019,Intended pregnancy ,Minnesota,Minnesota,Midwest,MN
+424,1250,509,42.4,39.1,45.8,2019,Intended pregnancy ,Mississippi,Mississippi,South,MS
+425,1580,905,54.7,51.5,57.8,2019,Intended pregnancy ,Missouri,Missouri,Midwest,MO
+426,716,414,57.4,53.8,60.9,2019,Intended pregnancy ,Montana,Montana,West,MT
+427,1612,899,63.4,60.2,66.6,2019,Intended pregnancy ,Nebraska,Nebraska,Midwest,NE
+428,653,453,69.3,64.4,73.7,2019,Intended pregnancy ,New Hampshire,New Hampshire,Northeast,NH
+429,1104,670,63.0,60.0,65.9,2019,Intended pregnancy ,New Jersey,New Jersey,Northeast,NJ
+430,1142,709,60.1,57.2,63.0,2019,Intended pregnancy ,New Mexico,New Mexico,West,NM
+431,866,498,55.9,51.9,59.7,2019,Intended pregnancy ,North Carolina,North Carolina,South,NC
+432,754,412,62.5,58.1,66.6,2019,Intended pregnancy ,North Dakota,North Dakota,Midwest,ND
+433,2416,1435,66.0,63.0,68.9,2019,Intended pregnancy ,Oregon,Oregon,West,OR
+434,1116,668,57.5,53.1,61.9,2019,Intended pregnancy ,Pennsylvania,Pennsylvania,Northeast,PA
+435,973,590,59.4,55.9,62.9,2019,Intended pregnancy ,Rhode Island,Rhode Island,Northeast,RI
+436,985,516,58.6,55.3,62.0,2019,Intended pregnancy ,South Dakota,South Dakota,Midwest,SD
+437,655,321,50.1,44.6,55.5,2019,Intended pregnancy ,Tennessee,Tennessee,South,TN
+438,1693,1174,68.9,66.0,71.7,2019,Intended pregnancy ,Utah,Utah,West,UT
+439,764,530,66.9,63.3,70.3,2019,Intended pregnancy ,Vermont,Vermont,Northeast,VT
+440,972,596,59.8,54.7,64.7,2019,Intended pregnancy ,Virginia,Virginia,South,VA
+441,1176,733,65.1,61.8,68.3,2019,Intended pregnancy ,Washington,Washington,West,WA
+442,841,458,61.4,57.1,65.6,2019,Intended pregnancy ,Wisconsin,Wisconsin,Midwest,WI
+443,486,304,64.6,59.2,69.6,2019,Intended pregnancy ,Wyoming,Wyoming,West,WY
+444,637,117,18.5,15.6,21.7,2020,Mistimed,Alabama,Alabama,South,AL
+445,998,138,14.6,12.1,17.3,2020,Mistimed,Alaska,Alaska,West,AK
+446,774,135,18.0,15.4,21.0,2020,Mistimed,Arizona,Arizona,West,AZ
+447,912,189,18.7,15.1,23.0,2020,Mistimed,Arkansas,Arkansas,South,AR
+448,1030,159,16.4,13.9,19.2,2020,Mistimed,Colorado,Colorado,West,CO
+449,1348,231,15.2,13.1,17.6,2020,Mistimed,Connecticut,Connecticut,Northeast,CT
+450,846,157,20.6,17.7,23.8,2020,Mistimed,Delaware,Delaware,South,DE
+451,1075,254,23.5,20.4,26.9,2020,Mistimed,Florida,Florida,South,FL
+452,685,125,17.8,14.4,21.7,2020,Mistimed,Georgia,Georgia,South,GA
+453,1201,180,14.4,12.0,17.2,2020,Mistimed,Hawaii,Hawaii,West,HI
+454,1200,191,16.5,14.3,19.0,2020,Mistimed,Illinois,Illinois,Midwest,IL
+455,704,120,12.1,9.3,15.6,2020,Mistimed,Iowa,Iowa,Midwest,IA
+456,1136,213,20.8,17.9,24.0,2020,Mistimed,Kansas,Kansas,Midwest,KS
+457,797,191,21.7,18.2,25.7,2020,Mistimed,Kentucky,Kentucky,South,KY
+458,692,170,24.7,21.5,28.1,2020,Mistimed,Louisiana,Louisiana,South,LA
+459,880,123,15.5,12.9,18.5,2020,Mistimed,Maine,Maine,Northeast,ME
+460,991,159,18.3,15.4,21.7,2020,Mistimed,Maryland,Maryland,South,MD
+461,1385,212,13.5,11.4,15.9,2020,Mistimed,Massachusetts,Massachusetts,Northeast,MA
+462,1382,261,16.5,14.4,18.9,2020,Mistimed,Michigan,Michigan,Midwest,MI
+463,602,77,11.6,8.5,15.7,2020,Mistimed,Minnesota,Minnesota,Midwest,MN
+464,995,260,21.5,18.5,24.9,2020,Mistimed,Mississippi,Mississippi,South,MS
+465,951,158,16.2,13.7,19.0,2020,Mistimed,Missouri,Missouri,Midwest,MO
+466,699,92,14.2,11.5,17.5,2020,Mistimed,Montana,Montana,West,MT
+467,1480,275,15.6,13.3,18.1,2020,Mistimed,Nebraska,Nebraska,Midwest,NE
+468,636,88,16.4,13.1,20.4,2020,Mistimed,New Hampshire,New Hampshire,Northeast,NH
+469,1073,173,15.8,13.6,18.2,2020,Mistimed,New Jersey,New Jersey,Northeast,NJ
+470,1032,174,19.3,16.8,22.0,2020,Mistimed,New Mexico,New Mexico,West,NM
+471,769,99,12.2,9.5,15.5,2020,Mistimed,North Dakota,North Dakota,Midwest,ND
+472,1636,266,15.3,12.8,18.3,2020,Mistimed,Oregon,Oregon,West,OR
+473,1183,175,14.7,12.5,17.2,2020,Mistimed,Pennsylvania,Pennsylvania,Northeast,PA
+474,965,179,18.7,16.1,21.8,2020,Mistimed,South Dakota,South Dakota,Midwest,SD
+475,617,137,22.7,18.6,27.5,2020,Mistimed,Tennessee,Tennessee,South,TN
+476,1385,213,15.3,13.2,17.6,2020,Mistimed,Utah,Utah,West,UT
+477,803,92,12.7,10.5,15.4,2020,Mistimed,Vermont,Vermont,Northeast,VT
+478,929,148,19.2,15.4,23.5,2020,Mistimed,Virginia,Virginia,South,VA
+479,1216,176,13.9,11.7,16.4,2020,Mistimed,Washington,Washington,West,WA
+480,591,72,13.4,10.3,17.1,2020,Mistimed,West Virginia,West Virginia,South,WV
+481,1667,306,15.7,13.3,18.4,2020,Mistimed,Wisconsin,Wisconsin,Midwest,WI
+482,460,84,19.2,15.0,24.2,2020,Mistimed,Wyoming,Wyoming,West,WY
+483,637,53,8.4,6.5,10.9,2020,Unwanted pregnancy ,Alabama,Alabama,South,AL
+484,998,62,5.9,4.4,7.8,2020,Unwanted pregnancy ,Alaska,Alaska,West,AK
+485,774,45,6.5,4.9,8.7,2020,Unwanted pregnancy ,Arizona,Arizona,West,AZ
+486,912,109,8.2,6.0,11.2,2020,Unwanted pregnancy ,Arkansas,Arkansas,South,AR
+487,1030,57,5.3,3.9,7.2,2020,Unwanted pregnancy ,Colorado,Colorado,West,CO
+488,1348,79,5.2,4.0,6.8,2020,Unwanted pregnancy ,Connecticut,Connecticut,Northeast,CT
+489,846,62,7.4,5.6,9.6,2020,Unwanted pregnancy ,Delaware,Delaware,South,DE
+490,1075,116,8.0,6.3,10.0,2020,Unwanted pregnancy ,Florida,Florida,South,FL
+491,685,37,6.0,4.1,8.8,2020,Unwanted pregnancy ,Georgia,Georgia,South,GA
+492,1201,70,5.9,4.3,8.0,2020,Unwanted pregnancy ,Hawaii,Hawaii,West,HI
+493,1200,87,7.1,5.6,8.9,2020,Unwanted pregnancy ,Illinois,Illinois,Midwest,IL
+494,704,45,5.5,3.7,8.2,2020,Unwanted pregnancy ,Iowa,Iowa,Midwest,IA
+495,1136,81,7.0,5.3,9.1,2020,Unwanted pregnancy ,Kansas,Kansas,Midwest,KS
+496,797,81,7.4,5.4,10.2,2020,Unwanted pregnancy ,Kentucky,Kentucky,South,KY
+497,692,52,7.4,5.6,9.7,2020,Unwanted pregnancy ,Louisiana,Louisiana,South,LA
+498,880,45,5.5,4.0,7.6,2020,Unwanted pregnancy ,Maine,Maine,Northeast,ME
+499,991,62,6.0,4.4,8.1,2020,Unwanted pregnancy ,Maryland,Maryland,South,MD
+500,1385,54,3.5,2.4,5.1,2020,Unwanted pregnancy ,Massachusetts,Massachusetts,Northeast,MA
+501,1382,119,7.3,5.8,9.0,2020,Unwanted pregnancy ,Michigan,Michigan,Midwest,MI
+502,602,38,4.0,2.3,6.9,2020,Unwanted pregnancy ,Minnesota,Minnesota,Midwest,MN
+503,995,94,8.4,6.5,10.9,2020,Unwanted pregnancy ,Mississippi,Mississippi,South,MS
+504,951,65,6.0,4.5,7.9,2020,Unwanted pregnancy ,Missouri,Missouri,Midwest,MO
+505,699,48,5.5,4.0,7.6,2020,Unwanted pregnancy ,Montana,Montana,West,MT
+506,1480,77,4.3,3.2,5.8,2020,Unwanted pregnancy ,Nebraska,Nebraska,Midwest,NE
+507,636,21,3.0,1.7,5.1,2020,Unwanted pregnancy ,New Hampshire,New Hampshire,Northeast,NH
+508,1073,56,4.3,3.3,5.8,2020,Unwanted pregnancy ,New Jersey,New Jersey,Northeast,NJ
+509,1032,54,5.5,4.2,7.2,2020,Unwanted pregnancy ,New Mexico,New Mexico,West,NM
+510,769,53,4.1,2.7,6.3,2020,Unwanted pregnancy ,North Dakota,North Dakota,Midwest,ND
+511,1636,92,5.5,4.0,7.5,2020,Unwanted pregnancy ,Oregon,Oregon,West,OR
+512,1183,81,6.6,5.1,8.5,2020,Unwanted pregnancy ,Pennsylvania,Pennsylvania,Northeast,PA
+513,965,73,6.4,5.0,8.2,2020,Unwanted pregnancy ,South Dakota,South Dakota,Midwest,SD
+514,617,66,12.4,9.2,16.6,2020,Unwanted pregnancy ,Tennessee,Tennessee,South,TN
+515,1385,64,3.6,2.7,4.8,2020,Unwanted pregnancy ,Utah,Utah,West,UT
+516,803,32,3.9,2.8,5.5,2020,Unwanted pregnancy ,Vermont,Vermont,Northeast,VT
+517,929,48,5.9,3.9,8.8,2020,Unwanted pregnancy ,Virginia,Virginia,South,VA
+518,1216,58,4.4,3.1,6.1,2020,Unwanted pregnancy ,Washington,Washington,West,WA
+519,591,34,4.5,2.9,7.0,2020,Unwanted pregnancy ,West Virginia,West Virginia,South,WV
+520,1667,141,5.3,4.0,7.0,2020,Unwanted pregnancy ,Wisconsin,Wisconsin,Midwest,WI
+521,460,27,6.0,3.8,9.4,2020,Unwanted pregnancy ,Wyoming,Wyoming,West,WY
+522,637,111,18.5,15.6,21.8,2020,Unsure whether wanted pregnancy,Alabama,Alabama,South,AL
+523,998,202,17.7,15.3,20.4,2020,Unsure whether wanted pregnancy,Alaska,Alaska,West,AK
+524,774,113,15.8,13.3,18.7,2020,Unsure whether wanted pregnancy,Arizona,Arizona,West,AZ
+525,912,213,20.2,16.5,24.4,2020,Unsure whether wanted pregnancy,Arkansas,Arkansas,South,AR
+526,1030,152,14.8,12.4,17.5,2020,Unsure whether wanted pregnancy,Colorado,Colorado,West,CO
+527,1348,227,14.5,12.4,16.8,2020,Unsure whether wanted pregnancy,Connecticut,Connecticut,Northeast,CT
+528,846,138,17.0,14.4,20.0,2020,Unsure whether wanted pregnancy,Delaware,Delaware,South,DE
+529,1075,226,17.1,14.5,19.9,2020,Unsure whether wanted pregnancy,Florida,Florida,South,FL
+530,685,70,12.1,9.3,15.7,2020,Unsure whether wanted pregnancy,Georgia,Georgia,South,GA
+531,1201,250,21.3,18.3,24.7,2020,Unsure whether wanted pregnancy,Hawaii,Hawaii,West,HI
+532,1200,171,14.7,12.6,17.1,2020,Unsure whether wanted pregnancy,Illinois,Illinois,Midwest,IL
+533,704,114,13.8,10.7,17.4,2020,Unsure whether wanted pregnancy,Iowa,Iowa,Midwest,IA
+534,1136,190,14.9,12.5,17.7,2020,Unsure whether wanted pregnancy,Kansas,Kansas,Midwest,KS
+535,797,152,13.7,10.9,17.0,2020,Unsure whether wanted pregnancy,Kentucky,Kentucky,South,KY
+536,692,156,20.8,18.0,23.9,2020,Unsure whether wanted pregnancy,Louisiana,Louisiana,South,LA
+537,880,132,15.1,12.6,18.1,2020,Unsure whether wanted pregnancy,Maine,Maine,Northeast,ME
+538,991,128,13.0,10.6,16.0,2020,Unsure whether wanted pregnancy,Maryland,Maryland,South,MD
+539,1385,193,12.7,10.6,15.2,2020,Unsure whether wanted pregnancy,Massachusetts,Massachusetts,Northeast,MA
+540,1382,262,16.5,14.3,18.9,2020,Unsure whether wanted pregnancy,Michigan,Michigan,Midwest,MI
+541,602,136,19.5,15.3,24.4,2020,Unsure whether wanted pregnancy,Minnesota,Minnesota,Midwest,MN
+542,995,217,21.9,18.7,25.4,2020,Unsure whether wanted pregnancy,Mississippi,Mississippi,South,MS
+543,951,189,21.3,18.4,24.4,2020,Unsure whether wanted pregnancy,Missouri,Missouri,Midwest,MO
+544,699,147,15.6,13.0,18.7,2020,Unsure whether wanted pregnancy,Montana,Montana,West,MT
+545,1480,235,13.8,11.7,16.3,2020,Unsure whether wanted pregnancy,Nebraska,Nebraska,Midwest,NE
+546,636,67,10.7,8.0,14.1,2020,Unsure whether wanted pregnancy,New Hampshire,New Hampshire,Northeast,NH
+547,1073,166,14.2,12.1,16.6,2020,Unsure whether wanted pregnancy,New Jersey,New Jersey,Northeast,NJ
+548,1032,197,21.3,18.7,24.0,2020,Unsure whether wanted pregnancy,New Mexico,New Mexico,West,NM
+549,769,199,19.8,16.5,23.6,2020,Unsure whether wanted pregnancy,North Dakota,North Dakota,Midwest,ND
+550,1636,309,16.5,13.8,19.6,2020,Unsure whether wanted pregnancy,Oregon,Oregon,West,OR
+551,1183,204,17.8,15.4,20.5,2020,Unsure whether wanted pregnancy,Pennsylvania,Pennsylvania,Northeast,PA
+552,965,197,17.5,15.0,20.2,2020,Unsure whether wanted pregnancy,South Dakota,South Dakota,Midwest,SD
+553,617,108,14.4,11.0,18.5,2020,Unsure whether wanted pregnancy,Tennessee,Tennessee,South,TN
+554,1385,193,12.1,10.3,14.2,2020,Unsure whether wanted pregnancy,Utah,Utah,West,UT
+555,803,122,15.0,12.7,17.8,2020,Unsure whether wanted pregnancy,Vermont,Vermont,Northeast,VT
+556,929,118,13.8,10.5,17.8,2020,Unsure whether wanted pregnancy,Virginia,Virginia,South,VA
+557,1216,166,11.1,9.1,13.5,2020,Unsure whether wanted pregnancy,Washington,Washington,West,WA
+558,591,107,18.5,15.0,22.7,2020,Unsure whether wanted pregnancy,West Virginia,West Virginia,South,WV
+559,1667,307,14.2,11.8,16.9,2020,Unsure whether wanted pregnancy,Wisconsin,Wisconsin,Midwest,WI
+560,460,76,15.5,11.8,20.2,2020,Unsure whether wanted pregnancy,Wyoming,Wyoming,West,WY
+561,637,356,54.6,50.7,58.4,2020,Intended pregnancy ,Alabama,Alabama,South,AL
+562,998,596,61.8,58.4,65.2,2020,Intended pregnancy ,Alaska,Alaska,West,AK
+563,774,481,59.6,56.1,63.1,2020,Intended pregnancy ,Arizona,Arizona,West,AZ
+564,912,401,52.9,47.9,57.9,2020,Intended pregnancy ,Arkansas,Arkansas,South,AR
+565,1030,662,63.5,60.0,66.9,2020,Intended pregnancy ,Colorado,Colorado,West,CO
+566,1348,811,65.1,62.0,68.1,2020,Intended pregnancy ,Connecticut,Connecticut,Northeast,CT
+567,846,489,55.0,51.4,58.7,2020,Intended pregnancy ,Delaware,Delaware,South,DE
+568,1075,479,51.5,47.7,55.3,2020,Intended pregnancy ,Florida,Florida,South,FL
+569,685,453,64.1,59.3,68.6,2020,Intended pregnancy ,Georgia,Georgia,South,GA
+570,1201,701,58.3,54.6,62.0,2020,Intended pregnancy ,Hawaii,Hawaii,West,HI
+571,1200,751,61.7,58.6,64.7,2020,Intended pregnancy ,Illinois,Illinois,Midwest,IL
+572,704,425,68.6,64.0,72.9,2020,Intended pregnancy ,Iowa,Iowa,Midwest,IA
+573,1136,652,57.3,53.6,60.8,2020,Intended pregnancy ,Kansas,Kansas,Midwest,KS
+574,797,373,57.1,52.6,61.5,2020,Intended pregnancy ,Kentucky,Kentucky,South,KY
+575,692,314,47.2,43.4,51.0,2020,Intended pregnancy ,Louisiana,Louisiana,South,LA
+576,880,580,63.9,60.1,67.5,2020,Intended pregnancy ,Maine,Maine,Northeast,ME
+577,991,642,62.7,58.8,66.4,2020,Intended pregnancy ,Maryland,Maryland,South,MD
+578,1385,926,70.3,67.1,73.3,2020,Intended pregnancy ,Massachusetts,Massachusetts,Northeast,MA
+579,1382,740,59.8,56.7,62.8,2020,Intended pregnancy ,Michigan,Michigan,Midwest,MI
+580,602,351,64.9,59.4,70.0,2020,Intended pregnancy ,Minnesota,Minnesota,Midwest,MN
+581,995,424,48.2,44.1,52.2,2020,Intended pregnancy ,Mississippi,Mississippi,South,MS
+582,951,539,56.5,52.9,60.1,2020,Intended pregnancy ,Missouri,Missouri,Midwest,MO
+583,699,412,64.6,60.6,68.4,2020,Intended pregnancy ,Montana,Montana,West,MT
+584,1480,893,66.3,63.0,69.4,2020,Intended pregnancy ,Nebraska,Nebraska,Midwest,NE
+585,636,460,69.9,65.3,74.1,2020,Intended pregnancy ,New Hampshire,New Hampshire,Northeast,NH
+586,1073,678,65.6,62.6,68.5,2020,Intended pregnancy ,New Jersey,New Jersey,Northeast,NJ
+587,1032,607,54.0,50.8,57.0,2020,Intended pregnancy ,New Mexico,New Mexico,West,NM
+588,769,418,63.9,59.5,68.0,2020,Intended pregnancy ,North Dakota,North Dakota,Midwest,ND
+589,1636,969,62.7,58.9,66.3,2020,Intended pregnancy ,Oregon,Oregon,West,OR
+590,1183,723,60.9,57.6,64.0,2020,Intended pregnancy ,Pennsylvania,Pennsylvania,Northeast,PA
+591,965,516,57.4,53.9,60.8,2020,Intended pregnancy ,South Dakota,South Dakota,Midwest,SD
+592,617,306,50.5,45.2,55.8,2020,Intended pregnancy ,Tennessee,Tennessee,South,TN
+593,1385,915,69.0,66.1,71.7,2020,Intended pregnancy ,Utah,Utah,West,UT
+594,803,557,68.3,64.9,71.5,2020,Intended pregnancy ,Vermont,Vermont,Northeast,VT
+595,929,615,61.2,56.1,66.0,2020,Intended pregnancy ,Virginia,Virginia,South,VA
+596,1216,816,70.7,67.4,73.8,2020,Intended pregnancy ,Washington,Washington,West,WA
+597,591,378,63.6,58.7,68.2,2020,Intended pregnancy ,West Virginia,West Virginia,South,WV
+598,1667,913,64.9,61.4,68.2,2020,Intended pregnancy ,Wisconsin,Wisconsin,Midwest,WI
+599,460,273,59.3,53.5,64.8,2020,Intended pregnancy ,Wyoming,Wyoming,West,WY
+600,682,158,23.0,19.9,26.3,2021,Mistimed,Alabama,Alabama,South,AL
+601,817,160,18.8,15.1,23.3,2021,Mistimed,Arkansas,Arkansas,South,AR
+602,1239,163,13.9,11.8,16.3,2021,Mistimed,Colorado,Colorado,West,CO
+603,1310,188,11.8,9.9,13.9,2021,Mistimed,Connecticut,Connecticut,Northeast,CT
+604,823,138,18.9,16.0,22.2,2021,Mistimed,Delaware,Delaware,South,DE
+605,776,130,16.9,13.7,20.7,2021,Mistimed,Georgia,Georgia,South,GA
+606,1331,193,15.3,12.8,18.2,2021,Mistimed,Hawaii,Hawaii,West,HI
+607,1117,173,16.6,14.2,19.3,2021,Mistimed,Illinois,Illinois,Midwest,IL
+608,1118,161,15.0,12.6,17.9,2021,Mistimed,Kansas,Kansas,Midwest,KS
+609,661,135,19.4,16.4,22.7,2021,Mistimed,Louisiana,Louisiana,South,LA
+610,776,90,12.3,9.8,15.5,2021,Mistimed,Maine,Maine,Northeast,ME
+611,1310,209,13.7,11.6,16.1,2021,Mistimed,Massachusetts,Massachusetts,Northeast,MA
+612,1360,221,14.7,12.5,17.1,2021,Mistimed,Michigan,Michigan,Midwest,MI
+613,587,77,12.3,9.0,16.7,2021,Mistimed,Minnesota,Minnesota,Midwest,MN
+614,865,209,23.9,20.5,27.6,2021,Mistimed,Mississippi,Mississippi,South,MS
+615,812,155,20.8,17.7,24.4,2021,Mistimed,Missouri,Missouri,Midwest,MO
+616,1147,169,15.4,13.2,17.9,2021,Mistimed,Montana,Montana,West,MT
+617,1214,214,18.4,15.6,21.5,2021,Mistimed,Nebraska,Nebraska,Midwest,NE
+618,923,122,12.9,10.8,15.4,2021,Mistimed,New Jersey,New Jersey,Northeast,NJ
+619,1044,160,16.2,14.1,18.6,2021,Mistimed,New Mexico,New Mexico,West,NM
+620,581,85,15.5,12.2,19.3,2021,Mistimed,North Dakota,North Dakota,Midwest,ND
+621,1452,367,21.9,19.0,25.2,2021,Mistimed,Oklahoma,Oklahoma,South,OK
+622,1834,255,11.1,9.2,13.3,2021,Mistimed,Oregon,Oregon,West,OR
+623,908,128,15.3,12.6,18.6,2021,Mistimed,Pennsylvania,Pennsylvania,Northeast,PA
+624,1019,167,14.6,12.3,17.2,2021,Mistimed,South Dakota,South Dakota,Midwest,SD
+625,619,122,19.2,15.9,23.1,2021,Mistimed,Tennessee,Tennessee,South,TN
+626,1238,185,14.6,12.4,17.1,2021,Mistimed,Utah,Utah,West,UT
+627,936,95,10.5,8.7,12.6,2021,Mistimed,Vermont,Vermont,Northeast,VT
+628,925,128,15.8,12.0,20.4,2021,Mistimed,Virginia,Virginia,South,VA
+629,1103,186,17.1,14.6,19.9,2021,Mistimed,Washington,Washington,West,WA
+630,597,77,11.4,8.7,14.8,2021,Mistimed,West Virginia,West Virginia,South,WV
+631,751,119,11.3,8.8,14.3,2021,Mistimed,Wisconsin,Wisconsin,Midwest,WI
+632,444,71,17.0,13.2,21.6,2021,Mistimed,Wyoming,Wyoming,West,WY
+633,682,48,7.3,5.5,9.6,2021,Unwanted pregnancy ,Alabama,Alabama,South,AL
+634,817,86,6.9,4.8,9.8,2021,Unwanted pregnancy ,Arkansas,Arkansas,South,AR
+635,1239,65,6.0,4.5,7.8,2021,Unwanted pregnancy ,Colorado,Colorado,West,CO
+636,1310,86,4.5,3.6,5.7,2021,Unwanted pregnancy ,Connecticut,Connecticut,Northeast,CT
+637,823,52,6.8,5.1,9.1,2021,Unwanted pregnancy ,Delaware,Delaware,South,DE
+638,776,53,5.6,3.8,8.0,2021,Unwanted pregnancy ,Georgia,Georgia,South,GA
+639,1331,69,3.6,2.6,5.0,2021,Unwanted pregnancy ,Hawaii,Hawaii,West,HI
+640,1117,76,6.9,5.3,8.8,2021,Unwanted pregnancy ,Illinois,Illinois,Midwest,IL
+641,1118,71,6.3,4.6,8.4,2021,Unwanted pregnancy ,Kansas,Kansas,Midwest,KS
+642,661,55,7.8,5.9,10.2,2021,Unwanted pregnancy ,Louisiana,Louisiana,South,LA
+643,776,44,6.4,4.6,9.0,2021,Unwanted pregnancy ,Maine,Maine,Northeast,ME
+644,1310,52,3.5,2.5,5.1,2021,Unwanted pregnancy ,Massachusetts,Massachusetts,Northeast,MA
+645,1360,91,5.0,3.8,6.6,2021,Unwanted pregnancy ,Michigan,Michigan,Midwest,MI
+646,587,40,4.9,3.0,8.1,2021,Unwanted pregnancy ,Minnesota,Minnesota,Midwest,MN
+647,865,95,9.2,7.1,11.7,2021,Unwanted pregnancy ,Mississippi,Mississippi,South,MS
+648,812,43,4.2,2.9,6.0,2021,Unwanted pregnancy ,Missouri,Missouri,Midwest,MO
+649,1147,65,6.4,4.9,8.2,2021,Unwanted pregnancy ,Montana,Montana,West,MT
+650,1214,74,5.5,4.0,7.5,2021,Unwanted pregnancy ,Nebraska,Nebraska,Midwest,NE
+651,923,46,4.4,3.2,6.0,2021,Unwanted pregnancy ,New Jersey,New Jersey,Northeast,NJ
+652,1044,58,5.7,4.4,7.2,2021,Unwanted pregnancy ,New Mexico,New Mexico,West,NM
+653,581,32,4.7,3.1,7.0,2021,Unwanted pregnancy ,North Dakota,North Dakota,Midwest,ND
+654,1452,105,5.6,4.2,7.3,2021,Unwanted pregnancy ,Oklahoma,Oklahoma,South,OK
+655,1834,101,4.5,3.2,6.1,2021,Unwanted pregnancy ,Oregon,Oregon,West,OR
+656,908,50,5.8,4.2,8.1,2021,Unwanted pregnancy ,Pennsylvania,Pennsylvania,Northeast,PA
+657,1019,79,5.3,4.1,6.9,2021,Unwanted pregnancy ,South Dakota,South Dakota,Midwest,SD
+658,619,50,8.0,5.7,11.1,2021,Unwanted pregnancy ,Tennessee,Tennessee,South,TN
+659,1238,68,5.0,3.8,6.6,2021,Unwanted pregnancy ,Utah,Utah,West,UT
+660,936,36,4.3,3.1,5.9,2021,Unwanted pregnancy ,Vermont,Vermont,Northeast,VT
+661,925,38,4.1,2.4,6.8,2021,Unwanted pregnancy ,Virginia,Virginia,South,VA
+662,1103,43,4.3,2.9,6.1,2021,Unwanted pregnancy ,Washington,Washington,West,WA
+663,597,26,3.6,2.2,6.0,2021,Unwanted pregnancy ,West Virginia,West Virginia,South,WV
+664,751,53,4.8,3.3,6.9,2021,Unwanted pregnancy ,Wisconsin,Wisconsin,Midwest,WI
+665,444,19,4.5,2.6,7.6,2021,Unwanted pregnancy ,Wyoming,Wyoming,West,WY
+666,682,122,19.0,16.1,22.3,2021,Unsure whether wanted pregnancy,Alabama,Alabama,South,AL
+667,817,179,20.5,16.6,25.0,2021,Unsure whether wanted pregnancy,Arkansas,Arkansas,South,AR
+668,1239,164,12.3,10.3,14.5,2021,Unsure whether wanted pregnancy,Colorado,Colorado,West,CO
+669,1310,225,14.0,12.1,16.3,2021,Unsure whether wanted pregnancy,Connecticut,Connecticut,Northeast,CT
+670,823,129,17.1,14.3,20.3,2021,Unsure whether wanted pregnancy,Delaware,Delaware,South,DE
+671,776,134,19.2,15.8,23.2,2021,Unsure whether wanted pregnancy,Georgia,Georgia,South,GA
+672,1331,227,17.7,15.0,20.7,2021,Unsure whether wanted pregnancy,Hawaii,Hawaii,West,HI
+673,1117,166,14.4,12.3,16.9,2021,Unsure whether wanted pregnancy,Illinois,Illinois,Midwest,IL
+674,1118,186,16.7,14.1,19.7,2021,Unsure whether wanted pregnancy,Kansas,Kansas,Midwest,KS
+675,661,184,26.3,23.0,29.9,2021,Unsure whether wanted pregnancy,Louisiana,Louisiana,South,LA
+676,776,87,11.2,8.7,14.3,2021,Unsure whether wanted pregnancy,Maine,Maine,Northeast,ME
+677,1310,146,11.4,9.3,13.9,2021,Unsure whether wanted pregnancy,Massachusetts,Massachusetts,Northeast,MA
+678,1360,264,17.8,15.4,20.4,2021,Unsure whether wanted pregnancy,Michigan,Michigan,Midwest,MI
+679,587,124,15.0,11.1,19.9,2021,Unsure whether wanted pregnancy,Minnesota,Minnesota,Midwest,MN
+680,865,197,19.8,16.8,23.3,2021,Unsure whether wanted pregnancy,Mississippi,Mississippi,South,MS
+681,812,127,15.3,12.6,18.4,2021,Unsure whether wanted pregnancy,Missouri,Missouri,Midwest,MO
+682,1147,209,16.3,14.2,18.7,2021,Unsure whether wanted pregnancy,Montana,Montana,West,MT
+683,1214,205,15.0,12.7,17.7,2021,Unsure whether wanted pregnancy,Nebraska,Nebraska,Midwest,NE
+684,923,161,16.5,14.1,19.2,2021,Unsure whether wanted pregnancy,New Jersey,New Jersey,Northeast,NJ
+685,1044,177,17.4,15.2,19.8,2021,Unsure whether wanted pregnancy,New Mexico,New Mexico,West,NM
+686,581,106,15.2,12.2,18.7,2021,Unsure whether wanted pregnancy,North Dakota,North Dakota,Midwest,ND
+687,1452,265,19.1,16.1,22.5,2021,Unsure whether wanted pregnancy,Oklahoma,Oklahoma,South,OK
+688,1834,298,14.8,12.5,17.5,2021,Unsure whether wanted pregnancy,Oregon,Oregon,West,OR
+689,908,164,18.6,15.7,22.0,2021,Unsure whether wanted pregnancy,Pennsylvania,Pennsylvania,Northeast,PA
+690,1019,231,18.4,16.0,21.1,2021,Unsure whether wanted pregnancy,South Dakota,South Dakota,Midwest,SD
+691,619,139,21.1,17.6,25.1,2021,Unsure whether wanted pregnancy,Tennessee,Tennessee,South,TN
+692,1238,171,12.2,10.3,14.4,2021,Unsure whether wanted pregnancy,Utah,Utah,West,UT
+693,936,109,13.2,11.1,15.6,2021,Unsure whether wanted pregnancy,Vermont,Vermont,Northeast,VT
+694,925,117,12.3,9.1,16.4,2021,Unsure whether wanted pregnancy,Virginia,Virginia,South,VA
+695,1103,149,9.8,7.9,12.1,2021,Unsure whether wanted pregnancy,Washington,Washington,West,WA
+696,597,102,15.0,11.9,18.8,2021,Unsure whether wanted pregnancy,West Virginia,West Virginia,South,WV
+697,751,135,14.7,11.7,18.3,2021,Unsure whether wanted pregnancy,Wisconsin,Wisconsin,Midwest,WI
+698,444,84,18.7,14.6,23.6,2021,Unsure whether wanted pregnancy,Wyoming,Wyoming,West,WY
+699,682,354,50.8,47.0,54.5,2021,Intended pregnancy ,Alabama,Alabama,South,AL
+700,817,392,53.8,48.6,58.9,2021,Intended pregnancy ,Arkansas,Arkansas,South,AR
+701,1239,847,67.9,64.8,70.8,2021,Intended pregnancy ,Colorado,Colorado,West,CO
+702,1310,811,69.7,66.8,72.4,2021,Intended pregnancy ,Connecticut,Connecticut,Northeast,CT
+703,823,504,57.2,53.4,61.0,2021,Intended pregnancy ,Delaware,Delaware,South,DE
+704,776,459,58.3,53.7,62.7,2021,Intended pregnancy ,Georgia,Georgia,South,GA
+705,1331,842,63.4,59.8,66.9,2021,Intended pregnancy ,Hawaii,Hawaii,West,HI
+706,1117,702,62.1,58.8,65.3,2021,Intended pregnancy ,Illinois,Illinois,Midwest,IL
+707,1118,700,62.0,58.3,65.5,2021,Intended pregnancy ,Kansas,Kansas,Midwest,KS
+708,661,287,46.5,42.6,50.5,2021,Intended pregnancy ,Louisiana,Louisiana,South,LA
+709,776,555,70.0,65.9,73.8,2021,Intended pregnancy ,Maine,Maine,Northeast,ME
+710,1310,903,71.3,68.2,74.3,2021,Intended pregnancy ,Massachusetts,Massachusetts,Northeast,MA
+711,1360,784,62.5,59.4,65.6,2021,Intended pregnancy ,Michigan,Michigan,Midwest,MI
+712,587,346,67.7,62.0,73.0,2021,Intended pregnancy ,Minnesota,Minnesota,Midwest,MN
+713,865,364,47.1,43.0,51.3,2021,Intended pregnancy ,Mississippi,Mississippi,South,MS
+714,812,487,59.8,55.8,63.6,2021,Intended pregnancy ,Missouri,Missouri,Midwest,MO
+715,1147,704,61.9,58.8,64.9,2021,Intended pregnancy ,Montana,Montana,West,MT
+716,1214,721,61.1,57.4,64.6,2021,Intended pregnancy ,Nebraska,Nebraska,Midwest,NE
+717,923,594,66.2,63.0,69.3,2021,Intended pregnancy ,New Jersey,New Jersey,Northeast,NJ
+718,1044,649,60.7,57.8,63.6,2021,Intended pregnancy ,New Mexico,New Mexico,West,NM
+719,581,358,64.7,60.1,69.0,2021,Intended pregnancy ,North Dakota,North Dakota,Midwest,ND
+720,1452,715,53.4,49.5,57.2,2021,Intended pregnancy ,Oklahoma,Oklahoma,South,OK
+721,1834,1180,69.7,66.4,72.7,2021,Intended pregnancy ,Oregon,Oregon,West,OR
+722,908,566,60.2,56.2,64.0,2021,Intended pregnancy ,Pennsylvania,Pennsylvania,Northeast,PA
+723,1019,542,61.7,58.4,64.9,2021,Intended pregnancy ,South Dakota,South Dakota,Midwest,SD
+724,619,308,51.6,47.0,56.2,2021,Intended pregnancy ,Tennessee,Tennessee,South,TN
+725,1238,814,68.2,65.2,71.1,2021,Intended pregnancy ,Utah,Utah,West,UT
+726,936,696,72.0,69.0,74.8,2021,Intended pregnancy ,Vermont,Vermont,Northeast,VT
+727,925,642,67.9,62.5,72.8,2021,Intended pregnancy ,Virginia,Virginia,South,VA
+728,1103,725,68.8,65.4,72.0,2021,Intended pregnancy ,Washington,Washington,West,WA
+729,597,392,70.0,65.3,74.2,2021,Intended pregnancy ,West Virginia,West Virginia,South,WV
+730,751,444,69.3,65.0,73.3,2021,Intended pregnancy ,Wisconsin,Wisconsin,Midwest,WI
+731,444,270,59.8,54.2,65.2,2021,Intended pregnancy ,Wyoming,Wyoming,West,WY

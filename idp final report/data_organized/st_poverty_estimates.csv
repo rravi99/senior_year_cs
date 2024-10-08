@@ -1,0 +1,52 @@
+,FIPS_Code,Stabr,Area_name,POVALL_2021,PCTPOVALL_2021,State,Region
+0,0,US,United States,41393176.0,12.8,United States,N/A
+1,1000,AL,Alabama,800848.0,16.3,Alabama,South
+2,2000,AK,Alaska,77736.0,10.8,Alaska,West
+3,4000,AZ,Arizona,919680.0,12.9,Arizona,West
+4,5000,AR,Arkansas,471195.0,16.0,Arkansas,South
+5,6000,CA,California,4742405.0,12.3,California,West
+6,8000,CO,Colorado,554126.0,9.7,Colorado,West
+7,9000,CT,Connecticut,355861.0,10.1,Connecticut,Northeast
+8,10000,DE,Delaware,113026.0,11.5,Delaware,South
+9,12000,FL,Florida,2830813.0,13.2,Florida,South
+10,13000,GA,Georgia,1493837.0,14.2,Georgia,South
+11,15000,HI,Hawaii,152656.0,10.9,Hawaii,West
+12,16000,ID,Idaho,202091.0,10.8,Idaho,West
+13,17000,IL,Illinois,1493042.0,12.1,Illinois,Midwest
+14,18000,IN,Indiana,799733.0,12.1,Indiana,Midwest
+15,19000,IA,Iowa,340626.0,11.0,Iowa,Midwest
+16,20000,KS,Kansas,332457.0,11.6,Kansas,Midwest
+17,21000,KY,Kentucky,712023.0,16.3,Kentucky,South
+18,22000,LA,Louisiana,878477.0,19.5,Louisiana,South
+19,23000,ME,Maine,149571.0,11.2,Maine,Northeast
+20,24000,MD,Maryland,620829.0,10.3,Maryland,South
+21,25000,MA,Massachusetts,701700.0,10.4,Massachusetts,Northeast
+22,26000,MI,Michigan,1283086.0,13.0,Michigan,Midwest
+23,27000,MN,Minnesota,519437.0,9.3,Minnesota,Midwest
+24,28000,MS,Mississippi,549710.0,19.2,Mississippi,South
+25,29000,MO,Missouri,765097.0,12.8,Missouri,Midwest
+26,30000,MT,Montana,129910.0,12.0,Montana,West
+27,31000,NE,Nebraska,201627.0,10.5,Nebraska,Midwest
+28,32000,NV,Nevada,433095.0,14.0,Nevada,West
+29,33000,NH,New Hampshire,99562.0,7.4,New Hampshire,Northeast
+30,34000,NJ,New Jersey,925852.0,10.2,New Jersey,Northeast
+31,35000,NM,New Mexico,367050.0,17.7,New Mexico,West
+32,36000,NY,New York,2703053.0,14.0,New York,Northeast
+33,37000,NC,North Carolina,1383626.0,13.5,North Carolina,South
+34,38000,ND,North Dakota,82270.0,10.9,North Dakota,Midwest
+35,39000,OH,Ohio,1523366.0,13.3,Ohio,Midwest
+36,40000,OK,Oklahoma,599003.0,15.4,Oklahoma,South
+37,41000,OR,Oregon,507504.0,12.2,Oregon,West
+38,42000,PA,Pennsylvania,1503929.0,12.0,Pennsylvania,Northeast
+39,44000,RI,Rhode Island,126971.0,12.1,Rhode Island,Northeast
+40,45000,SC,South Carolina,736098.0,14.5,South Carolina,South
+41,46000,SD,South Dakota,103337.0,11.9,South Dakota,Midwest
+42,47000,TN,Tennessee,934856.0,13.7,Tennessee,South
+43,48000,TX,Texas,4122799.0,14.2,Texas,South
+44,49000,UT,Utah,286086.0,8.7,Utah,West
+45,50000,VT,Vermont,63208.0,10.2,Vermont,Northeast
+46,51000,VA,Virginia,862792.0,10.3,Virginia,South
+47,53000,WA,Washington,755589.0,9.9,Washington,West
+48,54000,WV,West Virginia,291051.0,16.8,West Virginia,South
+49,55000,WI,Wisconsin,622948.0,10.8,Wisconsin,Midwest
+50,56000,WY,Wyoming,60226.0,10.6,Wyoming,West

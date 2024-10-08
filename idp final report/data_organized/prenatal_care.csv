@@ -1,0 +1,156 @@
+,Demographic Group,Population,Period,Estimate,Lower CI,Upper CI
+0,Total,Total,2018,76.4,76.4,76.4
+1,Sex (of child),Male,2018,76.4,76.3,76.4
+2,Sex (of child),Female,2018,76.4,76.4,76.5
+3,Race/Ethnicity (of mother),American Indian or Alaska Native only,2018,60.8,60.3,61.3
+4,Race/Ethnicity (of mother),Asian only,2018,78.7,78.6,78.9
+5,Race/Ethnicity (of mother),Native Hawaiian or Other Pacific Islander only,2018,52.7,51.8,53.6
+6,Race/Ethnicity (of mother),Black or African American only,2018,67.6,67.5,67.7
+7,Race/Ethnicity (of mother),White only,2018,78.5,78.4,78.5
+8,Race/Ethnicity (of mother),2 or more races,2018,73.1,72.8,73.4
+9,Race/Ethnicity (of mother),Hispanic or Latino,2018,71.8,71.7,71.9
+10,Race/Ethnicity (of mother),Not Hispanic or Latino,2018,77.9,77.8,77.9
+11,Race/Ethnicity (of mother),Not Hispanic or Latino: American Indian or Alaska Native only,2018,59.6,59.0,60.2
+12,Race/Ethnicity (of mother),Not Hispanic or Latino: Asian only,2018,79,78.8,79.1
+13,Race/Ethnicity (of mother),Not Hispanic or Latino: Native Hawaiian or Other Pacific Islander only,2018,49.4,48.4,50.4
+14,Race/Ethnicity (of mother),Not Hispanic or Latino: Black or African American only,2018,67.6,67.4,67.7
+15,Race/Ethnicity (of mother),Not Hispanic or Latino: White only,2018,81.2,81.1,81.2
+16,Race/Ethnicity (of mother),Not Hispanic or Latino: 2 or more races,2018,73.3,73.0,73.6
+17,Age group (of mother),less than 15 years,2018,37.9,35.6,40.3
+18,Age group (of mother),15-19 years,2018,63.3,63.1,63.5
+19,Age group (of mother),20-24 years,2018,70.7,70.6,70.8
+20,Age group (of mother),25-29 years,2018,76.5,76.4,76.6
+21,Age group (of mother),30-34 years,2018,80,79.9,80.0
+22,Age group (of mother),35 years and over,2018,80.1,80.0,80.2
+23,"Educational attainment (of mother, 20 years and over)",Less than High school,2018,61.7,61.5,61.8
+24,"Educational attainment (of mother, 20 years and over)",High school,2018,72.2,72.1,72.3
+25,"Educational attainment (of mother, 20 years and over)",Some college or Associate degree,2018,78.6,78.5,78.7
+26,"Educational attainment (of mother, 20 years and over)",4-year college degree or more,2018,84.2,84.2,84.3
+29,Geographic location,Metropolitan,2018,76.3,76.3,76.4
+30,Geographic location,Non-metropolitan,2018,76.8,76.7,76.9
+33,Country of birth (of mother),US,2018,77.8,77.8,77.9
+34,Country of birth (of mother),Outside US,2018,71.6,71.5,71.7
+39,Total,Total,2019,76.7,76.7,76.8
+40,Sex (of child),Male,2019,76.7,76.6,76.7
+41,Sex (of child),Female,2019,76.8,76.7,76.8
+42,Race/Ethnicity (of mother),American Indian or Alaska Native only,2019,61.8,61.3,62.3
+43,Race/Ethnicity (of mother),Asian only,2019,78.8,78.6,78.9
+44,Race/Ethnicity (of mother),Native Hawaiian or Other Pacific Islander only,2019,51.9,51.0,52.8
+45,Race/Ethnicity (of mother),Black or African American only,2019,68.2,68.1,68.3
+46,Race/Ethnicity (of mother),White only,2019,78.8,78.7,78.8
+47,Race/Ethnicity (of mother),2 or more races,2019,73.3,73.0,73.6
+48,Race/Ethnicity (of mother),Hispanic or Latino,2019,71.6,71.5,71.7
+49,Race/Ethnicity (of mother),Not Hispanic or Latino,2019,78.4,78.3,78.4
+50,Race/Ethnicity (of mother),Not Hispanic or Latino: American Indian or Alaska Native only,2019,60.9,60.3,61.5
+51,Race/Ethnicity (of mother),Not Hispanic or Latino: Asian only,2019,79.1,79.0,79.3
+52,Race/Ethnicity (of mother),Not Hispanic or Latino: Native Hawaiian or Other Pacific Islander only,2019,48.1,47.1,49.1
+53,Race/Ethnicity (of mother),Not Hispanic or Latino: Black or African American only,2019,68.2,68.1,68.3
+54,Race/Ethnicity (of mother),Not Hispanic or Latino: White only,2019,81.8,81.7,81.8
+55,Race/Ethnicity (of mother),Not Hispanic or Latino: 2 or more races,2019,73.6,73.3,73.9
+56,Age group (of mother),less than 15 years,2019,38.9,36.6,41.3
+57,Age group (of mother),15-19 years,2019,63.4,63.1,63.6
+58,Age group (of mother),20-24 years,2019,71.2,71.1,71.3
+59,Age group (of mother),25-29 years,2019,76.7,76.7,76.8
+60,Age group (of mother),30-34 years,2019,80.2,80.1,80.3
+61,Age group (of mother),35 years and over,2019,80.2,80.1,80.3
+62,"Educational attainment (of mother, 20 years and over)",Less than High school,2019,61.1,60.9,61.2
+63,"Educational attainment (of mother, 20 years and over)",High school,2019,72.5,72.4,72.6
+64,"Educational attainment (of mother, 20 years and over)",Some college or Associate degree,2019,78.9,78.9,79.0
+65,"Educational attainment (of mother, 20 years and over)",4-year college degree or more,2019,84.7,84.6,84.7
+68,Geographic location,Metropolitan,2019,76.6,76.6,76.7
+69,Geographic location,Non-metropolitan,2019,77.3,77.1,77.4
+72,Country of birth (of mother),US,2019,78.3,78.2,78.3
+73,Country of birth (of mother),Outside US,2019,71.5,71.4,71.6
+78,Total,Total,2020,74.7,74.7,74.8
+79,Sex (of child),Male,2020,74.7,74.6,74.8
+80,Sex (of child),Female,2020,74.7,74.7,74.8
+81,Race/Ethnicity (of mother),American Indian or Alaska Native only,2020,60.2,59.7,60.7
+82,Race/Ethnicity (of mother),Asian only,2020,76.2,76.0,76.4
+83,Race/Ethnicity (of mother),Native Hawaiian or Other Pacific Islander only,2020,50.9,50.0,51.7
+84,Race/Ethnicity (of mother),Black or African American only,2020,67.3,67.1,67.4
+85,Race/Ethnicity (of mother),White only,2020,76.7,76.6,76.7
+86,Race/Ethnicity (of mother),2 or more races,2020,71.3,71.0,71.5
+87,Race/Ethnicity (of mother),Hispanic or Latino,2020,69.5,69.4,69.6
+88,Race/Ethnicity (of mother),Not Hispanic or Latino,2020,76.4,76.4,76.5
+89,Race/Ethnicity (of mother),Not Hispanic or Latino: American Indian or Alaska Native only,2020,59.1,58.5,59.7
+90,Race/Ethnicity (of mother),Not Hispanic or Latino: Asian only,2020,76.5,76.3,76.7
+91,Race/Ethnicity (of mother),Not Hispanic or Latino: Native Hawaiian or Other Pacific Islander only,2020,47.1,46.1,48.2
+92,Race/Ethnicity (of mother),Not Hispanic or Latino: Black or African American only,2020,67.3,67.2,67.5
+93,Race/Ethnicity (of mother),Not Hispanic or Latino: White only,2020,79.6,79.6,79.7
+94,Race/Ethnicity (of mother),Not Hispanic or Latino: 2 or more races,2020,71.6,71.3,71.9
+95,Age group (of mother),less than 15 years,2020,36.4,34.1,38.7
+96,Age group (of mother),15-19 years,2020,62.3,62.1,62.6
+97,Age group (of mother),20-24 years,2020,70,69.8,70.1
+98,Age group (of mother),25-29 years,2020,74.8,74.8,74.9
+99,Age group (of mother),30-34 years,2020,77.6,77.5,77.7
+100,Age group (of mother),35 years and over,2020,77.5,77.4,77.6
+101,"Educational attainment (of mother, 20 years and over)",Less than High school,2020,59,58.8,59.1
+102,"Educational attainment (of mother, 20 years and over)",High school,2020,70.8,70.7,70.9
+103,"Educational attainment (of mother, 20 years and over)",Some college or Associate degree,2020,77.2,77.1,77.2
+104,"Educational attainment (of mother, 20 years and over)",4-year college degree or more,2020,82,81.9,82.1
+107,Geographic location,Metropolitan,2020,74.5,74.5,74.6
+108,Geographic location,Non-metropolitan,2020,75.9,75.8,76.1
+111,Country of birth (of mother),US,2020,76.3,76.2,76.3
+112,Country of birth (of mother),Outside US,2020,69.2,69.1,69.3
+117,Total,Total,2021,75.6,75.5,75.6
+118,Sex (of child),Male,2021,75.5,75.5,75.6
+119,Sex (of child),Female,2021,75.6,75.5,75.6
+120,Race/Ethnicity (of mother),American Indian or Alaska Native only,2021,61.9,61.4,62.5
+121,Race/Ethnicity (of mother),Asian only,2021,77.4,77.2,77.6
+122,Race/Ethnicity (of mother),Native Hawaiian or Other Pacific Islander only,2021,51.8,51.0,52.7
+123,Race/Ethnicity (of mother),Black or African American only,2021,68.4,68.3,68.5
+124,Race/Ethnicity (of mother),White only,2021,77.3,77.3,77.4
+125,Race/Ethnicity (of mother),2 or more races,2021,72.7,72.4,73.0
+126,Race/Ethnicity (of mother),Hispanic or Latino,2021,69.7,69.6,69.8
+127,Race/Ethnicity (of mother),Not Hispanic or Latino,2021,77.5,77.5,77.6
+128,Race/Ethnicity (of mother),Not Hispanic or Latino: American Indian or Alaska Native only,2021,61.3,60.7,61.9
+129,Race/Ethnicity (of mother),Not Hispanic or Latino: Asian only,2021,77.8,77.6,78.0
+130,Race/Ethnicity (of mother),Not Hispanic or Latino: Native Hawaiian or Other Pacific Islander only,2021,47.2,46.2,48.3
+131,Race/Ethnicity (of mother),Not Hispanic or Latino: Black or African American only,2021,68.5,68.4,68.7
+132,Race/Ethnicity (of mother),Not Hispanic or Latino: White only,2021,80.5,80.4,80.5
+133,Race/Ethnicity (of mother),Not Hispanic or Latino: 2 or more races,2021,73.1,72.8,73.4
+134,Age group (of mother),less than 15 years,2021,39.2,37.0,41.5
+135,Age group (of mother),15-19 years,2021,62.6,62.3,62.8
+136,Age group (of mother),20-24 years,2021,70.4,70.3,70.5
+137,Age group (of mother),25-29 years,2021,75.7,75.6,75.8
+138,Age group (of mother),30-34 years,2021,78.3,78.3,78.4
+139,Age group (of mother),35 years and over,2021,78.3,78.2,78.4
+140,"Educational attainment (of mother, 20 years and over)",Less than High school,2021,58.9,58.7,59.0
+141,"Educational attainment (of mother, 20 years and over)",High school,2021,71.4,71.3,71.5
+142,"Educational attainment (of mother, 20 years and over)",Some college or Associate degree,2021,77.9,77.8,77.9
+143,"Educational attainment (of mother, 20 years and over)",4-year college degree or more,2021,82.8,82.7,82.9
+146,Geographic location,Metropolitan,2021,75.4,75.3,75.4
+147,Geographic location,Non-metropolitan,2021,76.8,76.7,76.9
+150,Country of birth (of mother),US,2021,77.3,77.2,77.3
+151,Country of birth (of mother),Outside US,2021,69.4,69.3,69.5
+156,Total,Total,2022,74.9,74.9,75.0
+157,Sex (of child),Male,2022,74.9,74.8,74.9
+158,Sex (of child),Female,2022,74.9,74.9,75.0
+159,Race/Ethnicity (of mother),American Indian or Alaska Native only,2022,61.8,61.3,62.3
+160,Race/Ethnicity (of mother),Asian only,2022,77.2,77.0,77.3
+161,Race/Ethnicity (of mother),Native Hawaiian or Other Pacific Islander only,2022,50.4,49.5,51.2
+162,Race/Ethnicity (of mother),Black or African American only,2022,66.8,66.7,66.9
+163,Race/Ethnicity (of mother),White only,2022,76.8,76.8,76.9
+164,Race/Ethnicity (of mother),2 or more races,2022,71.9,71.6,72.2
+165,Race/Ethnicity (of mother),Hispanic or Latino,2022,68.5,68.4,68.6
+166,Race/Ethnicity (of mother),Not Hispanic or Latino,2022,77.2,77.1,77.2
+167,Race/Ethnicity (of mother),Not Hispanic or Latino: American Indian or Alaska Native only,2022,60.8,60.2,61.4
+168,Race/Ethnicity (of mother),Not Hispanic or Latino: Asian only,2022,77.5,77.3,77.7
+169,Race/Ethnicity (of mother),Not Hispanic or Latino: Native Hawaiian or Other Pacific Islander only,2022,45.8,44.8,46.8
+170,Race/Ethnicity (of mother),Not Hispanic or Latino: Black or African American only,2022,66.9,66.7,67.0
+171,Race/Ethnicity (of mother),Not Hispanic or Latino: White only,2022,80.6,80.5,80.7
+172,Race/Ethnicity (of mother),Not Hispanic or Latino: 2 or more races,2022,72.4,72.1,72.7
+173,Age group (of mother),less than 15 years,2022,37.8,35.5,40.1
+174,Age group (of mother),15-19 years,2022,60.5,60.2,60.7
+175,Age group (of mother),20-24 years,2022,69.3,69.2,69.5
+176,Age group (of mother),25-29 years,2022,75,75.0,75.1
+177,Age group (of mother),30-34 years,2022,77.9,77.8,78.0
+178,Age group (of mother),35 years and over,2022,77.8,77.7,77.9
+179,"Educational attainment (of mother, 20 years and over)",Less than High school,2022,57.5,57.4,57.7
+180,"Educational attainment (of mother, 20 years and over)",High school,2022,70.5,70.4,70.6
+181,"Educational attainment (of mother, 20 years and over)",Some college or Associate degree,2022,77.2,77.1,77.3
+182,"Educational attainment (of mother, 20 years and over)",4-year college degree or more,2022,82.8,82.7,82.9
+185,Geographic location,Metropolitan,2022,74.7,74.6,74.7
+186,Geographic location,Non-metropolitan,2022,76.3,76.2,76.4
+189,Country of birth (of mother),US,2022,77.1,77.1,77.1
+190,Country of birth (of mother),Outside US,2022,67.6,67.5,67.7
