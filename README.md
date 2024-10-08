@@ -10,7 +10,7 @@ I coded a basic Snake game with a partner using threads, Java GUI, and object-or
 Intermediate Data Programming was offered for college credit through the University of Washinton (CSE 163). This class focused on Python and data processing (pandas, numpy, scikitlearn).
 
 ## idp final project:
-A partnered research project analyzing pregnancy in the USA. Utilized plotly, pandas, geopandas, and matplotlib on many datasets to create a wide range of data visualiations and answer research questions about pregnancy in the U.S.
+A partnered research project analyzing pregnancy in the USA. Uploaded to this Github is part of the plot visualization code. We utilized plotly, pandas, geopandas, and matplotlib on many datasets to create a wide range of data visualiations and answer research questions about pregnancy in the U.S. We also conducted a lot of data cleaning and reshaping in order to sort through, combine, and optimally reshape datasets.
 Linked here is our final research report: https://drive.google.com/file/d/1Cb255gr0jZVW8Mefkc2dDHL7GEtq53bi/view?usp=sharing
 
 ## search engine:
