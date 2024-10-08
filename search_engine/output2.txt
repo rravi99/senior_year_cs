@@ -1,0 +1,77 @@
+..........F..............F.
+======================================================================
+FAIL: test_has_file_comments (test_misc.TestMisc)
+#name([Code Quality] Contains all comments)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\jstride\Documents\IDP 2023-24\Students\HW5\1082435\test\test_misc.py", line 83, in test_has_file_comments
+    self.assertTrue(func_comment is not None,
+AssertionError: False is not true : 
+You are missing a function comment for __init__ in SearchEngine.                             
+Make sure that this comment starts at the first line inside the function!
+
+======================================================================
+FAIL: test_p2_search_query_repeat_terms (test_search_engine.TestPart1)
+#name([Behavior: Edge Case] SE14: Search_engine where query has repeated terms)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "C:\Users\jstride\Documents\IDP 2023-24\Students\HW5\1082435\test\test_search_engine.py", line 188, in test_p2_search_query_repeat_terms
+    self.assertEqual(sol, ans, msg)
+AssertionError: Lists differ: ['instructor/document3.txt', 'instructor/document2.txt', 'inst[17 chars]txt'] != ['instructor/document2.txt', 'instructor/document3.txt', 'inst[17 chars]txt']
+
+First differing element 0:
+'instructor/document3.txt'
+'instructor/document2.txt'
+
+- ['instructor/document3.txt',
+?                      ^
+
++ ['instructor/document2.txt',
+?                      ^
+
+-  'instructor/document2.txt',
+?                      ^
+
++  'instructor/document3.txt',
+?                      ^
+
+   'instructor/document1.txt'] : Testing search_engine search where query has repeated terms
+
+----------------------------------------------------------------------
+Ran 27 tests in 1.642s
+
+FAILED (failures=2)
+[Behavior: Common Case] Testing document term_frequency on all words
+[Behavior: Common Case] D5: Testing term_frequency on all words in long file
+[Behavior: Common Case] Testing document get_words on example document
+[Behavior: Common Case] Testing document get_words with repeats
+[Behavior: Common Case] Testing document term_frequency of 'corgis' on document1
+[Behavior: Edge Case] D3: Testing document term_frequency on long file, ignore cases and punctuation
+[Behavior: Edge Case] D1: Testing document term_frequency, returns zero
+[Behavior: Edge Case] D2: Testing document term_frequency on long file, returns zero
+[Behavior: Common Case] Document class should implement term_frequency function
+[Behavior: Common Case] SearchEngine class should implement search function
+[Code Quality] Contains all comments
+[Quality] Files pass flake8
+[Misc] Testing for submitted files
+[Behavior: Common Case] SE11: Search_engine multi word, avoid doc dupes, order matters
+[Behavior: Common Case] SE5: Search_engine single word search on directory from spec, order matters
+[Behavior: Common Case] SE4: Search_engine single word search on instructor directory, order matters
+[Behavior: Common Case] Testing search_engine single word search on directory from spec, ignores order
+[Behavior: Common Case] SE3: Search_engine single word search on instructor directory, ignores order
+[Behavior: Edge Case] SE12: Search_engine where doc has three words
+[Behavior: Edge Case] SE6: Search_engine multi word search on directory from spec, returns empty list
+[Behavior: Edge Case] SE10: Search_engine multi word search with first term missing
+[Behavior: Common Case] Search_engine multi word search on directory from spec, ignores order
+[Behavior: Common Case] SE9: Search_engine multi word search on instructor directory, order matters, mixed case and punctuation
+[Behavior: Common Case] SE8: Search_engine multi word
+[Behavior: Common Case] SE7: Testing search_engine multi word search on instructor directory
+[Behavior: Edge Case] SE14: Search_engine where query has repeated terms
+[Behavior: Speed Case] Testing how long it takes to do searches
+Engine creation time = 0.8064746856689453
+Search time = 0.0008721351623535156
+Ran 27 tests, PASSED=25 Failed=2, Errors=0
+Summary of Failures and Errors:
+  Failed: [Code Quality] Contains all comments
+  Failed: [Behavior: Edge Case] SE14: Search_engine where query has repeated terms
+Finished running all tests. Success: False

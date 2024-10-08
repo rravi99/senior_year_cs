@@ -1,0 +1,10 @@
+Traceback (most recent call last):
+  File "hw5_test.py", line 345, in <module>
+    main()
+  File "hw5_test.py", line 319, in main
+    test_get_words()
+  File "hw5_test.py", line 46, in test_get_words
+    assert_equals([], punct.get_words())
+  File "C:\Users\jstride\Documents\IDP 2023-24\Students\HW5\1082435\cse163_utils.py", line 68, in assert_equals
+    assert check_approx_equals(expected, received), \
+AssertionError: Failed: Expected [], but received ['.']

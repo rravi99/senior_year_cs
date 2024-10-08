@@ -1,0 +1,17 @@
+Please enter the name of a directory: Building Search Engine...
+
+Enter a search term to query (Enter=Quit): Displaying results for 'capitalism':
+    1. instructor-long - communism.txt
+
+Enter a search term to query (Enter=Quit): Displaying results for 'science':
+    1. instructor-long - computer_science.txt
+
+Enter a search term to query (Enter=Quit): Displaying results for 'balderdash':
+    No results :(
+Enter a search term to query (Enter=Quit): Displaying results for 'nsa computers intelligence':
+    1. instructor-long - nsa.txt
+    2. instructor-long - computer_science.txt
+
+Enter a search term to query (Enter=Quit): Displaying results for 'the':
+    No results :(
+Enter a search term to query (Enter=Quit): Thank you for searching.
