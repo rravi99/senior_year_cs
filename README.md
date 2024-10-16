@@ -6,6 +6,9 @@ Advanced Programming Topics was a Java class covering Data Structures and Algori
 ## Python Game:
 I coded a basic Snake game with a partner using threads, Java GUI, and object-oriented programming.
 
+## TicTacToe BST:
+Coded a tic-tac-toe game in Java with a partner. Uses a Binary Search Tree to store all possible combinations of a TicTacToe game. When playing against the computer, the program traverses the BST in order to come up with the next best possible move, with the highest probability of winning. The TicTacToe game is displayed to the console using Java GUI, complete with sound effects, and thread delays to create a more seamless playing experience. 
+
 # Intermediate Data Programming
 Intermediate Data Programming was offered for college credit through the University of Washinton (CSE 163). This class focused on Python and data processing (pandas, numpy, scikitlearn).
 
